@@ -13,17 +13,14 @@ public class FuncionarioDao implements Dao<Funcionario> {
 
 	@Override
 	public List<Funcionario> listar() throws SQLException {
-		List<Funcionario> l = new ArrayList<Funcionario>();
-		try {
-			ResultSet rs = Conexao.getInstance().createStatement().executeQuery("SELECT * FROM funcionario");
+		List<Funcionario> l = new ArrayList<>();
+		try (ResultSet rs = Conexao.getInstance().createStatement().executeQuery("SELECT * FROM funcionario")) {
 			while (rs.next()) {
 				Funcionario f = new Funcionario();
 				f.setId(rs.getInt("id"));
 				f.setNome(rs.getString("nome"));
 				l.add(f);
 			}
-		} catch (SQLException e) {
-			throw e;
 		}
 		return l;
 	}
@@ -33,22 +30,24 @@ public class FuncionarioDao implements Dao<Funcionario> {
 
 	}
 
-	public Funcionario consultarPeloNome(String nome) throws Exception {
+	public Funcionario consultarPeloNome(String nome) throws SQLException {
 		Funcionario f = null;
-		try {
-			PreparedStatement ps = Conexao.getInstance()
-					.prepareStatement("SELECT * FROM funcionario f WHERE f.nome = ?");
+		ResultSet rs = null;
+		try (PreparedStatement ps = Conexao.getInstance()
+				.prepareStatement("SELECT * FROM funcionario f WHERE f.nome = ?")) {
 			ps.setString(1, nome);
-			ResultSet rs = ps.executeQuery();
+			rs = ps.executeQuery();
 			while (rs.next()) {
 				if (f != null)
-					throw new Exception("Mais de um funcionário com o mesmo nome encontrado!");
+					throw new SQLException("Mais de um funcionário com o mesmo nome encontrado!");
 				f = new Funcionario();
 				f.setId(rs.getInt("id"));
 				f.setNome(rs.getString("nome"));
 			}
-		} catch (SQLException e) {
-			throw e;
+		} finally {
+			if (rs != null)
+				rs.close();
+
 		}
 		return f;
 	}
