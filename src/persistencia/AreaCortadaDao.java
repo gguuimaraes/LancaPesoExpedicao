@@ -3,6 +3,7 @@ package persistencia;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
+import java.util.ArrayList;
 import java.util.List;
 
 import entidades.AreaCortada;
@@ -12,7 +13,7 @@ public class AreaCortadaDao implements Dao<AreaCortada> {
 
 	@Override
 	public List<AreaCortada> listar() {
-		return null;
+		return new ArrayList<>();
 	}
 
 	@Override
@@ -20,7 +21,6 @@ public class AreaCortadaDao implements Dao<AreaCortada> {
 		PreparedStatement ps = null;
 		try {
 			Conexao.getInstance().setAutoCommit(false);
-
 			Float area = temAreaCortadaFuncionarioSetorDia(objeto);
 			if (area != null) {
 				if (area == objeto.getArea())
@@ -29,12 +29,15 @@ public class AreaCortadaDao implements Dao<AreaCortada> {
 						"UPDATE areacortada SET area = ? WHERE funcionario_id = ? AND setor_id = ? AND data = ?;");
 				ps.setFloat(1, objeto.getArea());
 				ps.setDate(4, new java.sql.Date(objeto.getData().getTime()));
+				System.out.print("Atualizando a ");
 			} else {
 				ps = Conexao.getInstance().prepareStatement(
 						"INSERT INTO areacortada (data, funcionario_id, setor_id, area) VALUES (?, ?, ?, ?);");
 				ps.setDate(1, new java.sql.Date(objeto.getData().getTime()));
 				ps.setFloat(4, objeto.getArea());
+				System.out.print("Inserindo uma ");
 			}
+			System.out.printf("AreaCortada para o Funcionario %s, Setor %s, Area %.2f\n", objeto.getFuncionario().getNome(), objeto.getSetor().getNome(), objeto.getArea());
 			ps.setInt(2, objeto.getFuncionario().getId());
 			ps.setInt(3, objeto.getSetor().getId());
 			ps.execute();
