@@ -27,10 +27,35 @@ public class Main {
 	private static PesoDao pDao = new PesoDao();
 	private static AreaCortadaDao aDao = new AreaCortadaDao();
 
+	private static Thread t = new Thread(new Runnable() {
+
+		@Override
+		public void run() {
+			try {
+				while (true) {
+					System.out.println("CONSULTANDO PESOS...");
+					inserePesos();
+					Thread.sleep(1000);
+
+					System.out.println("CONSULTANDO AREA MESA PEQUENA...");
+					insereAreaCortadaMesaPequena();
+					Thread.sleep(1000);
+
+					System.out.println("CONSULTANDO AREA MESA GRANDE...");
+					insereAreaCortadaMesaGrande();
+
+					System.out.println("AGUARDANDO 5 MINUTOS...");
+					Thread.sleep(300000);
+				}
+			} catch (Exception e) {
+				System.out.printf("OCORREU UM ERRO: \n%s" + e);
+			}
+
+		}
+	});
+
 	public static void main(String[] args) throws Exception {
-		inserePesos();
-		insereAreaCortadaMesaPequena();
-		insereAreaCortadaMesaGrande();
+		t.start();
 	}
 
 	public static void inserePesos() throws Exception {
@@ -50,7 +75,7 @@ public class Main {
 			aDao.inserir(areaCortada);
 		}
 	}
-	
+
 	public static void insereAreaCortadaMesaGrande() throws Exception {
 		Float area = obtemAreaMesa(1);
 		if (area != null) {
@@ -62,7 +87,6 @@ public class Main {
 			aDao.inserir(areaCortada);
 		}
 	}
-
 
 	private static List<Peso> obtemPesoFuncionario() throws Exception {
 		List<Peso> pesos = new ArrayList<>();
@@ -78,9 +102,13 @@ public class Main {
 					System.out.println("Nenhuma expedição encontrada.");
 					return pesos;
 				}
+				Element t = e.getElementsByTag("td").get(1);
 				Element f = e.getElementsByTag("td").get(3);
 				Element p = e.getElementsByTag("td").get(11);
+				String tipo = t.getElementsByTag("strong").get(0).html();
 				String fNome = f.getElementsByTag("font").get(0).html();
+				if (tipo.equals("PE"))
+					fNome = "FIDELCI SOUZA LIMA";
 				float pe = Float.parseFloat(p.getElementsByTag("font").get(0).html());
 				pesoPorFuncionario.put(fNome,
 						pesoPorFuncionario.get(fNome) == null ? pe : pesoPorFuncionario.get(fNome) + pe);
@@ -94,7 +122,7 @@ public class Main {
 					peso.setFuncionario(fDao.consultarPeloNome(k));
 					peso.setSetor(setorExpedicao);
 				} catch (Exception e1) {
-					System.out.println(e1);
+					System.out.printf("OCORREU UM ERRO: \n%s", e1);
 				}
 				pesos.add(peso);
 			});
