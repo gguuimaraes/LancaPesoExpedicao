@@ -14,7 +14,6 @@ import org.jsoup.select.Elements;
 
 import entidades.AreaCortada;
 import entidades.Peso;
-import entidades.Setor;
 import persistencia.AreaCortadaDao;
 import persistencia.FuncionarioDao;
 import persistencia.PesoDao;
@@ -95,7 +94,6 @@ public class Main {
 			Element table = doc.getElementsByClass("container").get(0).getElementsByTag("table").get(0);
 			Elements linhas = table.getElementsByTag("tr");
 			linhas.remove(0);
-			Setor setorExpedicao = sDao.consultarPeloNome("EXPEDICAO");
 			Map<String, Float> pesoPorFuncionario = new HashMap<>();
 			for (Element e : linhas) {
 				if (e.getElementsByTag("td").size() == 1) {
@@ -107,8 +105,7 @@ public class Main {
 				Element p = e.getElementsByTag("td").get(11);
 				String tipo = t.getElementsByTag("strong").get(0).html();
 				String fNome = f.getElementsByTag("font").get(0).html();
-				if (tipo.equals("PE"))
-					fNome = "FIDELCI SOUZA LIMA";
+				fNome = Negocio.getInstance().funcionarioPorTipoExpedicao(fNome, tipo);
 				float pe = Float.parseFloat(p.getElementsByTag("font").get(0).html());
 				pesoPorFuncionario.put(fNome,
 						pesoPorFuncionario.get(fNome) == null ? pe : pesoPorFuncionario.get(fNome) + pe);
@@ -120,7 +117,7 @@ public class Main {
 				peso.setPeso(v);
 				try {
 					peso.setFuncionario(fDao.consultarPeloNome(k));
-					peso.setSetor(setorExpedicao);
+					peso.setSetor(Negocio.getInstance().getSetorDoFuncionario(k));
 				} catch (Exception e1) {
 					System.out.printf("OCORREU UM ERRO: \n%s", e1);
 				}
