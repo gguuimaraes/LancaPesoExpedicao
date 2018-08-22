@@ -31,20 +31,24 @@ public class Main {
 		@Override
 		public void run() {
 			try {
+				Calendar c = Calendar.getInstance();
+				int pausa = 120000; // 2 minutos
 				while (true) {
-					System.out.println("CONSULTANDO PESOS...");
-					inserePesos();
-					Thread.sleep(1000);
-
-					System.out.println("CONSULTANDO AREA MESA PEQUENA...");
-					insereAreaCortadaMesaPequena();
-					Thread.sleep(1000);
-
-					System.out.println("CONSULTANDO AREA MESA GRANDE...");
-					insereAreaCortadaMesaGrande();
-
-					System.out.println("AGUARDANDO 5 MINUTOS...");
-					Thread.sleep(300000);
+					if (c.get(Calendar.HOUR_OF_DAY) > 8 && c.get(Calendar.HOUR_OF_DAY) < 18) {
+						System.out.println("CONSULTANDO PESOS...");
+						inserePesos();
+						Thread.sleep(1000);
+						System.out.println("CONSULTANDO AREA MESA PEQUENA...");
+						insereAreaCortadaMesaPequena();
+						Thread.sleep(1000);
+						System.out.println("CONSULTANDO AREA MESA GRANDE...");
+						insereAreaCortadaMesaGrande();
+						pausa = 120000;
+					} else {
+						pausa = 3600000;
+					}
+					System.out.println("AGUARDANDO " + pausa / 60000 + " MINUTOS...");
+					Thread.sleep(pausa);
 				}
 			} catch (Exception e) {
 				System.out.printf("OCORREU UM ERRO: \n%s" + e);
