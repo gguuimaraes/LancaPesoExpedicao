@@ -53,4 +53,12 @@ public class AreaCortada implements Serializable {
 		this.area = area;
 	}
 
+	@Override
+	public String toString() {
+		return "AreaCortada [data=" + data + ", funcionario=" + funcionario + ", setor=" + setor + ", area=" + area
+				+ "]";
+	}
+
+	
+	
 }

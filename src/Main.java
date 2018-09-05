@@ -7,6 +7,9 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+import org.json.AreaMesa;
+import org.json.JSONArray;
+import org.json.JSONObject;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -31,18 +34,17 @@ public class Main {
 		@Override
 		public void run() {
 			try {
-				Calendar c = Calendar.getInstance();
+				Calendar c;
 				int pausa = 120000; // 2 minutos
 				while (true) {
-					if (c.get(Calendar.HOUR_OF_DAY) > 8 && c.get(Calendar.HOUR_OF_DAY) < 18) {
+					c = Calendar.getInstance();
+					System.out.println("HORA DO DIA: " + c.get(Calendar.HOUR_OF_DAY));
+					if (c.get(Calendar.HOUR_OF_DAY) >= 8 && c.get(Calendar.HOUR_OF_DAY) <= 18) {
 						System.out.println("CONSULTANDO PESOS...");
 						inserePesos();
 						Thread.sleep(1000);
-						System.out.println("CONSULTANDO AREA MESA PEQUENA...");
-						insereAreaCortadaMesaPequena();
-						Thread.sleep(1000);
-						System.out.println("CONSULTANDO AREA MESA GRANDE...");
-						insereAreaCortadaMesaGrande();
+						System.out.println("CONSULTANDO AREA MESAS...");
+						insereAreaCortadaMesas();
 						pausa = 120000;
 					} else {
 						pausa = 3600000;
@@ -67,27 +69,24 @@ public class Main {
 		}
 	}
 
-	public static void insereAreaCortadaMesaPequena() throws Exception {
-		Float area = obtemAreaMesa(2);
-		if (area != null) {
-			AreaCortada areaCortada = new AreaCortada();
-			areaCortada.setArea(area);
-			areaCortada.setFuncionario(fDao.consultarPeloNome("WESLEY GENILSON DOS SANTOS"));
-			areaCortada.setData(new Date());
-			areaCortada.setSetor(sDao.consultarPeloNome("MESA PEQUENA"));
-			aDao.inserir(areaCortada);
-		}
-	}
+	public static void insereAreaCortadaMesas() throws Exception {
+		List<AreaMesa> areas = obtemAreaMesas();
+		if (!areas.isEmpty()) {
+			AreaCortada areaCortada;
+			for (AreaMesa area : areas) {
+				areaCortada = new AreaCortada();
+				areaCortada.setArea(area.getArea());
+				areaCortada.setData(area.getData());
+				if (area.getCodmesa() == 2) {
+					areaCortada.setFuncionario(fDao.consultarPeloNome("WESLEY GENILSON DOS SANTOS"));
+					areaCortada.setSetor(sDao.consultarPeloNome("MESA PEQUENA"));
+				} else if (area.getCodmesa() == 1) {
+					areaCortada.setFuncionario(fDao.consultarPeloNome("MAURICIO FERREIRA DE SOUZA"));
+					areaCortada.setSetor(sDao.consultarPeloNome("MESA GRANDE"));
+				}
+				aDao.inserir(areaCortada);
+			}
 
-	public static void insereAreaCortadaMesaGrande() throws Exception {
-		Float area = obtemAreaMesa(1);
-		if (area != null) {
-			AreaCortada areaCortada = new AreaCortada();
-			areaCortada.setArea(area);
-			areaCortada.setFuncionario(fDao.consultarPeloNome("MAURICIO FERREIRA DE SOUZA"));
-			areaCortada.setData(new Date());
-			areaCortada.setSetor(sDao.consultarPeloNome("MESA GRANDE"));
-			aDao.inserir(areaCortada);
 		}
 	}
 
@@ -143,23 +142,41 @@ public class Main {
 				.data("datafinal", sdf.format(c2.getTime())).userAgent("Mozilla").post();
 	}
 
-	private static Float obtemAreaMesa(int mesa) throws Exception {
-		Float area = null;
+	private static List<AreaMesa> obtemAreaMesas() throws Exception {
+		List<AreaMesa> areas = new ArrayList<>();
 		try {
-			Document doc = obtemPaginaArea(mesa);
-			Element a = doc.getElementsByAttributeValue("href", "resumopedidoscortados.php?codmesa=" + mesa).get(0);
-			area = Float.parseFloat(a.getElementsByTag("strong").get(0).html());
+			Document doc = obtemPaginaArea();
+			Element body = doc.getElementsByTag("body").get(0);
+			String json = body.text().substring(1);
+			JSONArray array = new JSONArray(json);
+			AreaMesa area = null;
+			SimpleDateFormat df = new SimpleDateFormat("yyyy-MM-dd");
+			for (int i = 0; i < array.length(); i++) {
+				JSONObject obj = array.getJSONObject(i);
+				area = new AreaMesa();
+				area.setCodmesa(obj.getInt("codmesa"));
+				area.setArea(obj.getFloat("area"));
+				area.setData(df.parse(obj.getString("data")));
+				areas.add(area);
+			}
+
 		} catch (IOException | IndexOutOfBoundsException e) {
 			throw e;
 		}
-		return area == 0 ? null : area;
+		return areas;
 
 	}
 
-	private static Document obtemPaginaArea(int mesa) throws IOException {
-		return Jsoup.connect(URL_AREA_MESA + mesa).userAgent("Mozilla").get();
+	private static Document obtemPaginaArea() throws IOException {
+		Calendar c = Calendar.getInstance();
+		Calendar c2 = Calendar.getInstance();
+		c2.add(Calendar.DATE, 1);
+		SimpleDateFormat df = new SimpleDateFormat("yyyy-MM-dd");
+
+		return Jsoup.connect(String.format(URL_AREA_MESA, df.format(c.getTime()), df.format(c2.getTime())))
+				.userAgent("Mozilla").get();
 	}
 
 	private static final String URL_PESO = "http://192.168.0.104/controleexpedicao/relgerencial2.php";
-	private static final String URL_AREA_MESA = "http://192.168.0.104/controlecorte/mesadecorte.php?codmesa=";
+	private static final String URL_AREA_MESA = "http://192.168.0.104/webservice/wscontroledecorte.php?datainicial=%s&datafinal=%s";
 }
