@@ -28,143 +28,153 @@ import br.com.vitral.persistencia.SetorDao;
 
 public class Repetidor implements Runnable {
 
-	@Override
-	public void run() {
-		try {
-			Calendar c;
-			int pausa = 120000; // 2 minutos
-			while (pausa > 0) {
-				c = Calendar.getInstance();
-				if (c.get(Calendar.HOUR_OF_DAY) >= 8 && c.get(Calendar.HOUR_OF_DAY) <= 18) {
-					
-					salvarPesoExpedicaoAntigo();
-					Thread.sleep(1000);
-					
-					//salvarPesoExpedicao();
-					//Thread.sleep(1000);
-					
-					salvarPesoEntrega();
-					Thread.sleep(1000);
-					
-					salvarAreaMesa();
-					
-					pausa = 120000;
-				} else {
-					pausa = 3600000;
-				}
-				System.out.println("AGUARDANDO " + pausa / 60000 + " MINUTOS...");
-				Thread.sleep(pausa);
-			}
-		} catch (Exception e) {
-			System.out.printf("OCORREU UM ERRO: \n%s" + e);
-		}
-
-	}
-
 	private static FuncionarioDao fDao = new FuncionarioDao();
 	private static SetorDao sDao = new SetorDao();
 	private static PesoDao pDao = new PesoDao();
 	private static AreaCortadaDao aDao = new AreaCortadaDao();
 
-	public static void salvarPesoExpedicaoAntigo() throws Exception {
-		System.out.println("CONSULTANDO PESO EXPEDICAO ANTIGO...");
-		for (Peso p : obtemPesoFuncionario()) {
-			pDao.salvar(p);
-		}
-	}
+	@Override
+	public void run() {
 
-	public static void salvarAreaMesa() throws Exception {
-		System.out.println("CONSULTANDO AREA MESA...");
-		List<JsonAreaMesa> areas = Analisador.areaMesa();
-		if (!areas.isEmpty()) {
-			AreaCortada areaCortada;
-			for (JsonAreaMesa area : areas) {
-				areaCortada = new AreaCortada();
-				areaCortada.setArea(area.getArea());
-				areaCortada.setData(area.getData());
-				if (area.getCodmesa() == 2) {
-					areaCortada.setFuncionario(fDao.consultarPeloNome("WESLEY GENILSON DOS SANTOS"));
-					areaCortada.setSetor(sDao.consultarPeloNome("MESA PEQUENA"));
-				} else if (area.getCodmesa() == 1) {
-					areaCortada.setFuncionario(fDao.consultarPeloNome("MAURICIO FERREIRA DE SOUZA"));
-					areaCortada.setSetor(sDao.consultarPeloNome("MESA GRANDE"));
-				}
-				aDao.salvar(areaCortada);
+		Calendar c;
+		int pausa = 120000; // 2 minutos
+		int hora;
+		while (pausa > 0) {
+			salvarPesoExpedicao();
+			pausar(1000);
+			salvarPesoEntrega();
+			pausar(1000);
+			salvarAreaMesa();
+			c = Calendar.getInstance();
+			hora = c.get(Calendar.HOUR_OF_DAY);
+			if (hora >= 8 && hora <= 18) {
+				pausa = 120000;
+			} else {
+				pausa = 3600000;
 			}
+			System.out.printf("Aguardando %d minutos...%n", pausa / 60000);
+			pausar(pausa);
+		}
 
+	}
+
+	static void pausar(int milisegundos) {
+		try {
+			Thread.sleep(milisegundos);
+		} catch (Exception e) {
+			System.err.printf("Erro: %s%n", e.getMessage());
 		}
 	}
 
-	public static void salvarPesoEntrega() throws Exception {
-		System.out.println("CONSULTANDO PESO ENTREGA...");
-		Exception erro = null;
-		List<JsonPesoEntrega> pesos = Analisador.pesoEntrega();
-		if (!pesos.isEmpty()) {
-			Peso peso;
-			Date agora = new Date();
-			Setor setorEntrega = sDao.consultarPeloNome("ENTREGA");
-			for (JsonPesoEntrega jPeso : pesos) {
-				peso = new Peso();
-				peso.setPeso(jPeso.getPeso());
-				peso.setData(agora);
-				Funcionario fu = fDao.consultarPeloNome(jPeso.getNome());
-				if (fu == null)
-					erro = new Exception(String.format("Erro ao salvar Peso Entrega, Funcionário %s não encontrado.\n",
-							jPeso.getNome().trim()));
-				else {
-					peso.setFuncionario(fu);
-					peso.setSetor(setorEntrega);
-					pDao.salvar(peso);
-				}
+	static void salvarPesoExpedicaoAntigo() {
+		System.out.println("Consultando peso expedição [antigo]...");
+		try {
+			for (Peso p : obtemPesoFuncionario()) {
+				pDao.salvar(p);
 			}
+		} catch (Exception e) {
+			System.err.printf("Erro: %s%n", e.getMessage());
 		}
-		if (erro != null)
-			throw erro;
 	}
 
-	public static void salvarPesoExpedicao() throws Exception {
-		System.out.println("CONSULTANDO PESO EXPEDICAO...");
-		Exception erro = null;
-		List<JsonPesoExpedicao> pesos = Analisador.pesoExpedicao();
-		if (!pesos.isEmpty()) {
-			Peso peso;
-			Date agora = new Date();
-			Setor setorExpedicao = sDao.consultarPeloNome("EXPEDICAO");
-			Setor setorExpedicaoVPE = sDao.consultarPeloNome("EXPEDICAO VPE");
-			// Setor setorPonteRolante = sDao.consultarPeloNome("PONTE ROLANTE");
-			for (JsonPesoExpedicao jPeso : pesos) {
-				peso = new Peso();
-				peso.setPeso(jPeso.getPeso());
-				peso.setData(agora);
-				Funcionario fu = fDao.consultarPeloNome(jPeso.getExpedidor());
-				if (fu == null) {
-					erro = new Exception(String.format(
-							"Erro ao salvar Peso Expedição, Funcionário %s não encontrado.\n", jPeso.getExpedidor()));
-				} else {
-					peso.setFuncionario(fu);
-					switch (jPeso.getExpedicao()) {
-					case "COMUM":
-						peso.setSetor(setorExpedicao);
-						break;
-					case "ALMOXARIFADO":
-						peso.setSetor(setorExpedicaoVPE);
-						break;
-					default:
-						System.out.printf(
-								"Erro ao salvar Peso Expedição, JsonPesoExpedicao.expedicao=%s não encontrada.%n",
-								jPeso.getExpedicao());
+	static void salvarAreaMesa() {
+		System.out.println("Consultando área mesa...");
+		try {
+			List<JsonAreaMesa> areas = Analisador.areaMesa();
+			if (!areas.isEmpty()) {
+				AreaCortada areaCortada;
+				for (JsonAreaMesa area : areas) {
+					areaCortada = new AreaCortada();
+					areaCortada.setArea(area.getArea());
+					areaCortada.setData(area.getData());
+					if (area.getCodmesa() == 2) {
+						areaCortada.setFuncionario(fDao.consultarPeloNome("WESLEY GENILSON DOS SANTOS"));
+						areaCortada.setSetor(sDao.consultarPeloNome("MESA PEQUENA"));
+					} else if (area.getCodmesa() == 1) {
+						areaCortada.setFuncionario(fDao.consultarPeloNome("MAURICIO FERREIRA DE SOUZA"));
+						areaCortada.setSetor(sDao.consultarPeloNome("MESA GRANDE"));
 					}
-					System.out.println(peso);
-					pDao.salvar(peso);
+					aDao.salvar(areaCortada);
 				}
 
 			}
+		} catch (Exception e) {
+			System.err.printf("Erro: %s%n", e.getMessage());
 		}
-		if (erro != null)
-			throw erro;
 	}
 
-	private static List<Peso> obtemPesoFuncionario() throws Exception {
+	static void salvarPesoEntrega() {
+		System.out.println("Consultando peso entrega...");
+		try {
+			List<JsonPesoEntrega> pesos = Analisador.pesoEntrega();
+			if (!pesos.isEmpty()) {
+				Peso peso;
+				Date agora = new Date();
+				Setor setorEntrega = sDao.consultarPeloNome("ENTREGA");
+				for (JsonPesoEntrega jPeso : pesos) {
+					peso = new Peso();
+					peso.setPeso(jPeso.getPeso());
+					peso.setData(agora);
+					Funcionario fu = fDao.consultarPeloNome(jPeso.getNome());
+					if (fu == null)
+						System.out.printf("Erro ao salvar Peso Entrega, Funcionário %s não encontrado.%n",
+								jPeso.getNome());
+					else {
+						peso.setFuncionario(fu);
+						peso.setSetor(setorEntrega);
+						pDao.salvar(peso);
+					}
+				}
+			}
+		} catch (Exception e) {
+			System.err.printf("Erro: %s%n", e.getMessage());
+		}
+	}
+
+	static void salvarPesoExpedicao() {
+		System.out.println("Consultando peso expedição...");
+		try {
+			List<JsonPesoExpedicao> pesos = Analisador.pesoExpedicao();
+			if (!pesos.isEmpty()) {
+				Peso peso;
+				Date agora = new Date();
+				Setor setorExpedicao = sDao.consultarPeloNome("EXPEDICAO");
+				Setor setorExpedicaoVPE = sDao.consultarPeloNome("EXPEDICAO VPE");
+				// Setor setorPonteRolante = sDao.consultarPeloNome("PONTE ROLANTE");
+				for (JsonPesoExpedicao jPeso : pesos) {
+					peso = new Peso();
+					peso.setPeso(jPeso.getPeso());
+					peso.setData(agora);
+					String nomeFu = Negocio.getInstance().tratarNomeFuncionario(jPeso.getExpedidor());
+					Funcionario fu = fDao.consultarPeloNome(nomeFu);
+					if (fu == null) {
+						System.out.printf("Erro ao salvar Peso Expedição, Funcionário %s não encontrado.%n", nomeFu);
+					} else {
+						peso.setFuncionario(fu);
+						switch (jPeso.getExpedicao()) {
+						case "COMUM":
+							peso.setSetor(setorExpedicao);
+							break;
+						case "ALMOXARIFADO":
+							peso.setSetor(setorExpedicaoVPE);
+							break;
+						default:
+							System.out.printf(
+									"Erro ao salvar Peso Expedição, JsonPesoExpedicao.expedicao=%s não encontrada.%n",
+									jPeso.getExpedicao());
+						}
+						// System.out.println(peso);
+						pDao.salvar(peso);
+					}
+
+				}
+			}
+		} catch (Exception e) {
+			System.err.printf("Erro: %s%n", e.getMessage());
+		}
+	}
+
+	static List<Peso> obtemPesoFuncionario() throws Exception {
 		List<Peso> pesos = new ArrayList<>();
 		try {
 			Document doc = Pagina.obterPagina(Pagina.URL_PESO_EXPEDICAO_ANTIGO);

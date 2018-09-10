@@ -25,8 +25,8 @@ public abstract class Analisador {
 				areas.add(
 						new JsonAreaMesa(obj.getInt("codmesa"), obj.getFloat("area"), df.parse(obj.getString("data"))));
 			}
-		} catch (IOException | IndexOutOfBoundsException e) {
-			throw e;
+		} catch (Exception e) {
+			throw new Exception(String.format("Falha em obter área mesa.%n%s", e.toString()));
 		}
 		return areas;
 	}
@@ -43,8 +43,8 @@ public abstract class Analisador {
 				}
 			}
 
-		} catch (IOException | IndexOutOfBoundsException e) {
-			throw e;
+		} catch (Exception e) {
+			throw new Exception(String.format("Falha em obter peso entrega.%n%s", e.toString()));
 		}
 		return pesos;
 	}
@@ -60,8 +60,8 @@ public abstract class Analisador {
 						obj.getFloat("peso"), obj.getString("expedicao")));
 			}
 
-		} catch (IOException | IndexOutOfBoundsException e) {
-			throw e;
+		} catch (Exception e) {
+			throw new Exception(String.format("Falha em obter peso expedição.%n%s", e.toString()));
 		}
 		return pesos;
 	}

@@ -32,18 +32,6 @@ public abstract class Pagina {
 				.data("datafinal", df.format(c2.getTime())).userAgent("Mozilla").post();
 	}
 
-	private static Document areaMesa() throws IOException {
-		return Pagina.obterPagina(URL_AREA_MESA);
-	}
-
-	private static Document pesoEntrega() throws IOException {
-		return Pagina.obterPagina(URL_PESO_ENTREGA);
-	}
-	
-	private static Document pesoExpedicao() throws IOException {
-		return Pagina.obterPagina(URL_PESO_EXPEDICAO);
-	}
-
 	public static final String URL_PESO_EXPEDICAO_ANTIGO = "http://192.168.0.104/controleexpedicao/relgerencial2.php";
 	public static final String URL_PESO_EXPEDICAO = "http://192.168.0.104/webservice/wsexpedicoespordia.php?datainicial=%s&datafinal=%s";
 	public static final String URL_PESO_ENTREGA = "http://192.168.0.104/webservice/wsentregapordia.php?datainicial=%s&datafinal=%s";

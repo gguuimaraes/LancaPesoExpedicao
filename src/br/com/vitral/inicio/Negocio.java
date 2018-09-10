@@ -1,4 +1,5 @@
 package br.com.vitral.inicio;
+
 import java.sql.SQLException;
 
 import br.com.vitral.entidade.Setor;
@@ -23,7 +24,7 @@ public class Negocio {
 			setorExpedicaoVPE = sDao.consultarPeloNome("EXPEDICAO VPE");
 			setorPonteRolante = sDao.consultarPeloNome("PONTE ROLANTE");
 		} catch (SQLException e) {
-			
+
 		}
 	}
 
@@ -51,5 +52,12 @@ public class Negocio {
 			return "FIDELCI SOUZA LIMA";
 		else
 			return funcionario;
+	}
+
+	public String tratarNomeFuncionario(String nome) {
+		if (nome.substring(nome.length() - 1).equals(" ")) {
+			nome = nome.substring(0, nome.length() - 1);
+		}
+		return nome;
 	}
 }
