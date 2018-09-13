@@ -1,6 +1,5 @@
 package br.com.vitral.consumidor;
 
-import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.List;
