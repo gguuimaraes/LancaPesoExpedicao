@@ -6,5 +6,5 @@ import java.util.List;
 public interface Dao<T> {
 	public List<T> listar() throws SQLException;
 
-	public void salvar(T objeto) throws SQLException;
+	public String salvar(T objeto) throws SQLException;
 }

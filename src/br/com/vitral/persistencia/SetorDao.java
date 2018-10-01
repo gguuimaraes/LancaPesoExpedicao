@@ -26,8 +26,8 @@ public class SetorDao implements Dao<Setor> {
 	}
 
 	@Override
-	public void salvar(Setor objeto) {
-
+	public String salvar(Setor objeto) {
+		return null;
 	}
 
 	public Setor consultarPeloNome(String nome) throws SQLException {

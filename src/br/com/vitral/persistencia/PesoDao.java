@@ -5,7 +5,6 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.logging.Logger;
 
 import br.com.vitral.entidade.Peso;
 import br.com.vitral.util.Conexao;
@@ -18,27 +17,31 @@ public class PesoDao implements Dao<Peso> {
 	}
 
 	@Override
-	public void salvar(Peso objeto) throws SQLException {
+	public String salvar(Peso objeto) throws SQLException {
+		StringBuilder retorno = new StringBuilder();
 		PreparedStatement ps = null;
 		try {
 			Conexao.getInstance().setAutoCommit(false);
 			Float peso = temFuncionarioSetorDia(objeto);
 			if (peso != null) {
-				if (peso == objeto.getPeso())
-					return;
-				ps = Conexao.getInstance().prepareStatement(
-						"UPDATE peso SET peso = ? WHERE funcionario_id = ? AND setor_id = ? AND data = ?;");
-				ps.setFloat(1, objeto.getPeso());
-				ps.setDate(4, new java.sql.Date(objeto.getData().getTime()));
-				System.out.print("Atualizando o ");
+				if (peso != objeto.getPeso()) {
+					ps = Conexao.getInstance().prepareStatement(
+							"UPDATE peso SET peso = ? WHERE funcionario_id = ? AND setor_id = ? AND data = ?;");
+					ps.setFloat(1, objeto.getPeso());
+					ps.setDate(4, new java.sql.Date(objeto.getData().getTime()));
+					retorno.append("Atualizando o Peso para o ");
+				} else {
+					return null;
+				}
 			} else {
 				ps = Conexao.getInstance().prepareStatement(
 						"INSERT INTO peso (data, funcionario_id, setor_id, peso) VALUES (?, ?, ?, ?);");
 				ps.setDate(1, new java.sql.Date(objeto.getData().getTime()));
 				ps.setFloat(4, objeto.getPeso());
-				System.out.print("Inserindo um ");
+				retorno.append("Inserindo um Peso do ");
 			}
-			System.out.printf("Peso para o Funcionario %s, Setor %s, Peso %.2f\n", objeto.getFuncionario().getNome(), objeto.getSetor().getNome(), objeto.getPeso());
+			retorno.append(String.format("Funcionario %s, Setor %s, Peso %.2f", objeto.getFuncionario().getNome(),
+					objeto.getSetor().getNome(), objeto.getPeso()));
 			ps.setInt(2, objeto.getFuncionario().getId());
 			ps.setInt(3, objeto.getSetor().getId());
 			ps.execute();
@@ -51,6 +54,7 @@ public class PesoDao implements Dao<Peso> {
 				ps.close();
 			Conexao.getInstance().setAutoCommit(true);
 		}
+		return retorno.toString();
 	}
 
 	/*

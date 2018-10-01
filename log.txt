@@ -1,0 +1,2287 @@
+INFO    2018-09-13 14:20:35,888 - Aguardando 2 minutos...
+
+2018-09-13 14:20:49,345 - Aguardando 2 minutos...
+
+INFO    2018-09-13 14:22:38,226 - Aguardando 2 minutos...
+
+2018-09-13 14:22:51,567 - Aguardando 2 minutos...
+
+INFO    2018-09-13 14:24:40,779 - Aguardando 2 minutos...
+
+2018-09-13 14:24:53,844 - Aguardando 2 minutos...
+
+INFO    2018-09-13 14:26:43,205 - Aguardando 2 minutos...
+
+2018-09-13 14:26:56,153 - Aguardando 2 minutos...
+
+INFO    2018-09-13 14:28:45,477 - Aguardando 2 minutos...
+
+2018-09-13 14:28:58,371 - Aguardando 2 minutos...
+
+INFO    2018-09-13 14:30:47,717 - Aguardando 2 minutos...
+
+2018-09-13 14:31:00,566 - Aguardando 2 minutos...
+
+INFO    2018-09-13 14:32:49,953 - Aguardando 2 minutos...
+
+2018-09-13 14:33:03,476 - Aguardando 2 minutos...
+
+INFO    2018-09-13 14:34:52,613 - Aguardando 2 minutos...
+
+2018-09-13 14:35:06,072 - Aguardando 2 minutos...
+
+INFO    2018-09-13 14:36:54,815 - Aguardando 2 minutos...
+
+2018-09-13 14:37:08,304 - Aguardando 2 minutos...
+
+INFO    2018-09-13 14:38:57,117 - Aguardando 2 minutos...
+
+2018-09-13 14:39:11,114 - Aguardando 2 minutos...
+
+INFO    2018-09-13 14:40:59,669 - Aguardando 2 minutos...
+
+2018-09-13 14:41:13,551 - Aguardando 2 minutos...
+
+INFO    2018-09-13 14:43:01,864 - Aguardando 2 minutos...
+
+2018-09-13 14:43:15,774 - Aguardando 2 minutos...
+
+INFO    2018-09-13 14:45:05,275 - Aguardando 2 minutos...
+
+2018-09-13 14:45:17,966 - Aguardando 2 minutos...
+
+INFO    2018-09-13 14:47:07,477 - Aguardando 2 minutos...
+
+2018-09-13 14:47:20,264 - Aguardando 2 minutos...
+
+INFO    2018-09-13 14:49:10,913 - Aguardando 2 minutos...
+
+INFO    13-09-18 14:49:20,422 [main] br.com.vitral.inicio.Main  - Iniciando Repetidor...
+2018-09-13 14:49:22,472 - Aguardando 2 minutos...
+
+13-09-18 14:51:03,863  - Iniciando Repetidor...
+INFO    2018-09-13 14:51:13,132 - Aguardando 2 minutos...
+
+13-09-18 14:51:16,421 - Iniciando Repetidor...
+2018-09-13 14:51:24,839 - Aguardando 2 minutos...
+
+13-09-18 14:51:26 - Iniciando Repetidor...
+INFO    2018-09-13 14:53:15,434 - Aguardando 2 minutos...
+
+2018-09-13 14:53:27,132 - Aguardando 2 minutos...
+
+13-09-18 14:54:00 [ INFO] - Iniciando Repetidor...
+13-09-18 14:54:02 [ INFO] - Aguardando 2 minutos...
+
+13-09-18 14:54:12 [INFO] - Iniciando Repetidor...
+13-09-18 14:54:15 [INFO] - Aguardando 2 minutos...
+
+INFO    2018-09-13 14:55:17,661 - Aguardando 2 minutos...
+
+2018-09-13 14:55:29,318 - Aguardando 2 minutos...
+
+13-09-18 14:56:21 [INFO] - Iniciando Repetidor...
+13-09-18 14:56:21 [INFO] - Consultando peso expedição...
+13-09-18 14:56:23 [INFO] - Consultando peso entrega...
+13-09-18 14:56:24 [INFO] - Consultando área mesa...
+13-09-18 14:56:24 [INFO] - Aguardando 2 minutos...
+
+13-09-18 14:56:47 [INFO] - Iniciando Repetidor
+13-09-18 14:56:47 [INFO] - Consultando peso expedição
+13-09-18 14:56:48 [INFO] - Consultando peso entrega
+13-09-18 14:56:49 [INFO] - Consultando área mesa
+13-09-18 14:56:49 [INFO] - Aguardando 2 minutos
+
+INFO    2018-09-13 14:57:19,920 - Aguardando 2 minutos...
+
+2018-09-13 14:57:31,575 - Aguardando 2 minutos...
+
+INFO    2018-09-13 14:59:22,112 - Aguardando 2 minutos...
+
+2018-09-13 14:59:33,824 - Aguardando 2 minutos...
+
+INFO    2018-09-13 15:01:24,297 - Aguardando 2 minutos...
+
+2018-09-13 15:01:36,011 - Aguardando 2 minutos...
+
+14-09-18 09:07:10,0948 [INFO] - Iniciando Repetidor
+14-09-18 09:07:10,0991 [INFO] - Consultando peso expedição
+14-09-18 09:07:11,0909 [ERROR] - null
+14-09-18 09:07:12,0910 [INFO] - Consultando peso entrega
+14-09-18 09:07:13,0386 [ERROR] - null
+14-09-18 09:07:14,0386 [INFO] - Consultando área mesa
+14-09-18 09:07:14,0462 [ERROR] - null
+14-09-18 09:07:14,0462 [INFO] - Aguardando 2 minutos
+14-09-18 09:07:52,0890 [INFO] - Iniciando Repetidor
+14-09-18 09:07:52,0896 [INFO] - Consultando peso expedição
+14-09-18 09:07:53,0372 [ERROR] - null
+14-09-18 09:07:54,0372 [INFO] - Consultando peso entrega
+14-09-18 09:07:54,0419 [ERROR] - null
+14-09-18 09:07:55,0419 [INFO] - Consultando área mesa
+14-09-18 09:07:55,0464 [ERROR] - null
+14-09-18 09:07:55,0465 [INFO] - Aguardando 2 minutos
+14-09-18 09:08:26,0523 [INFO] - Iniciando Repetidor
+14-09-18 09:08:37,0368 [INFO] - Consultando peso expedição
+14-09-18 09:09:08,0746 [ERROR] - null
+14-09-18 09:09:15,0305 [INFO] - Iniciando Repetidor
+14-09-18 09:09:18,0931 [INFO] - Consultando peso expedição
+14-09-18 09:13:57,0728 [INFO] - Iniciando Repetidor
+14-09-18 09:19:13,0834 [INFO] - Iniciando Repetidor
+14-09-18 09:19:14,0009 [INFO] - Consultando peso expedição
+14-09-18 09:19:20,0506 [ERROR] - null
+14-09-18 09:19:21,0507 [INFO] - Consultando peso entrega
+14-09-18 09:19:21,0574 [ERROR] - null
+14-09-18 09:19:22,0575 [INFO] - Consultando área mesa
+14-09-18 09:19:22,0780 [ERROR] - null
+14-09-18 09:19:22,0781 [INFO] - Aguardando 2 minutos
+14-09-18 09:22:05,0719 [INFO] - Iniciando Repetidor
+14-09-18 09:22:05,0729 [INFO] - Consultando peso expedição
+14-09-18 09:22:53,0241 [INFO] - Iniciando Repetidor
+14-09-18 09:22:53,0254 [INFO] - Consultando peso expedição
+14-09-18 14:29:33,0037 [INFO] - Iniciando Repetidor
+14-09-18 14:29:33,0073 [INFO] - Consultando peso expedição
+14-09-18 14:29:34,0375 [ERROR] - null
+14-09-18 14:29:35,0376 [INFO] - Consultando peso entrega
+14-09-18 14:29:50,0133 [ERROR] - null
+14-09-18 14:29:51,0134 [INFO] - Consultando área mesa
+14-09-18 14:29:51,0486 [ERROR] - null
+14-09-18 14:29:51,0487 [INFO] - Aguardando 2 minutos
+14-09-18 14:31:52,0314 [INFO] - Iniciando Repetidor
+14-09-18 14:31:52,0323 [INFO] - Consultando peso expedição
+14-09-18 14:31:52,0783 [ERROR] - java.lang.NullPointerException
+14-09-18 14:31:53,0783 [INFO] - Consultando peso entrega
+14-09-18 14:31:53,0986 [ERROR] - java.lang.NullPointerException
+14-09-18 14:31:54,0986 [INFO] - Consultando área mesa
+14-09-18 14:31:55,0032 [ERROR] - java.lang.NullPointerException
+14-09-18 14:31:55,0033 [INFO] - Aguardando 2 minutos
+14-09-18 14:32:26,0506 [INFO] - Iniciando Repetidor
+14-09-18 14:32:26,0516 [INFO] - Consultando peso expedição
+14-09-18 14:32:27,0980 [INFO] - Consultando peso entrega
+14-09-18 14:32:28,0032 [ERROR] - java.lang.NullPointerException
+14-09-18 14:32:29,0032 [INFO] - Consultando área mesa
+14-09-18 14:32:29,0077 [ERROR] - java.lang.NullPointerException
+14-09-18 14:32:29,0077 [INFO] - Aguardando 2 minutos
+14-09-18 14:32:57,0778 [INFO] - Iniciando Repetidor
+14-09-18 14:32:57,0783 [INFO] - Consultando peso expedição
+14-09-18 14:32:58,0200 [INFO] - retorno do peso expedicao
+14-09-18 14:32:58,0201 [INFO] - retorno do peso expedicao
+14-09-18 14:32:58,0201 [INFO] - retorno do peso expedicao
+14-09-18 14:32:58,0202 [INFO] - retorno do peso expedicao
+14-09-18 14:32:58,0202 [INFO] - retorno do peso expedicao
+14-09-18 14:32:58,0203 [INFO] - retorno do peso expedicao
+14-09-18 14:32:59,0203 [INFO] - Consultando peso entrega
+14-09-18 14:32:59,0417 [ERROR] - java.lang.NullPointerException
+14-09-18 14:33:00,0417 [INFO] - Consultando área mesa
+14-09-18 14:33:00,0463 [ERROR] - java.lang.NullPointerException
+14-09-18 14:33:00,0464 [INFO] - Aguardando 2 minutos
+14-09-18 14:33:52,0513 [INFO] - Iniciando Repetidor
+14-09-18 14:33:52,0519 [INFO] - Consultando peso expedição
+14-09-18 14:33:53,0046 [INFO] - retorno do peso expedicao
+14-09-18 14:33:53,0046 [INFO] - retorno do peso expedicao
+14-09-18 14:33:53,0047 [INFO] - retorno do peso expedicao
+14-09-18 14:33:53,0047 [INFO] - retorno do peso expedicao
+14-09-18 14:33:53,0048 [INFO] - retorno do peso expedicao
+14-09-18 14:33:53,0048 [INFO] - retorno do peso expedicao
+14-09-18 14:33:54,0048 [INFO] - Consultando peso entrega
+14-09-18 14:33:54,0245 [ERROR] - java.lang.NullPointerException
+14-09-18 14:33:55,0027 [INFO] - Consultando peso expedição
+14-09-18 14:33:55,0197 [ERROR] - java.lang.NullPointerException
+14-09-18 14:33:55,0245 [INFO] - Consultando área mesa
+14-09-18 14:33:55,0300 [ERROR] - java.lang.NullPointerException
+14-09-18 14:33:55,0300 [INFO] - Aguardando 2 minutos
+14-09-18 14:33:56,0197 [INFO] - Consultando peso entrega
+14-09-18 14:33:56,0239 [ERROR] - java.lang.NullPointerException
+14-09-18 14:33:57,0239 [INFO] - Consultando área mesa
+14-09-18 14:33:57,0277 [ERROR] - java.lang.NullPointerException
+14-09-18 14:33:57,0277 [INFO] - Aguardando 2 minutos
+14-09-18 14:33:57,0998 [INFO] - Iniciando Repetidor
+14-09-18 14:33:58,0007 [INFO] - Consultando peso expedição
+14-09-18 14:33:58,0423 [ERROR] - java.lang.NullPointerException
+14-09-18 14:33:59,0423 [INFO] - Consultando peso entrega
+14-09-18 14:34:00,0180 [ERROR] - java.lang.NullPointerException
+14-09-18 14:34:01,0180 [INFO] - Consultando área mesa
+14-09-18 14:34:01,0247 [ERROR] - java.lang.NullPointerException
+14-09-18 14:34:01,0247 [INFO] - Aguardando 2 minutos
+14-09-18 14:35:16,0492 [INFO] - Iniciando Repetidor
+14-09-18 14:35:16,0497 [INFO] - Consultando peso expedição
+14-09-18 14:35:16,0961 [ERROR] - java.lang.NullPointerException
+14-09-18 14:35:17,0961 [INFO] - Consultando peso entrega
+14-09-18 14:35:18,0897 [ERROR] - java.lang.NullPointerException
+14-09-18 14:35:19,0898 [INFO] - Consultando área mesa
+14-09-18 14:35:19,0944 [ERROR] - java.lang.NullPointerException
+14-09-18 14:35:19,0944 [INFO] - Aguardando 2 minutos
+14-09-18 14:35:57,0272 [INFO] - Consultando peso expedição
+14-09-18 14:35:57,0388 [ERROR] - java.lang.NullPointerException
+14-09-18 14:35:58,0389 [INFO] - Consultando peso entrega
+14-09-18 14:35:58,0430 [ERROR] - java.lang.NullPointerException
+14-09-18 14:35:59,0430 [INFO] - Consultando área mesa
+14-09-18 14:35:59,0469 [ERROR] - java.lang.NullPointerException
+14-09-18 14:35:59,0469 [INFO] - Aguardando 2 minutos
+14-09-18 14:36:01,0242 [INFO] - Consultando peso expedição
+14-09-18 14:36:01,0436 [ERROR] - java.lang.NullPointerException
+14-09-18 14:36:02,0436 [INFO] - Consultando peso entrega
+14-09-18 14:36:02,0478 [ERROR] - java.lang.NullPointerException
+14-09-18 14:36:03,0478 [INFO] - Consultando área mesa
+14-09-18 14:36:03,0517 [ERROR] - java.lang.NullPointerException
+14-09-18 14:36:03,0517 [INFO] - Aguardando 2 minutos
+14-09-18 14:36:09,0642 [INFO] - Iniciando Repetidor
+14-09-18 14:36:09,0648 [INFO] - Consultando peso expedição
+14-09-18 14:36:10,0130 [ERROR] - java.lang.NullPointerException
+14-09-18 14:36:11,0130 [INFO] - Consultando peso entrega
+14-09-18 14:36:11,0177 [ERROR] - java.lang.NullPointerException
+14-09-18 14:36:12,0177 [INFO] - Consultando área mesa
+14-09-18 14:36:12,0224 [ERROR] - java.lang.NullPointerException
+14-09-18 14:36:12,0224 [INFO] - Aguardando 2 minutos
+14-09-18 14:36:21,0640 [INFO] - Iniciando Repetidor
+14-09-18 14:36:21,0662 [INFO] - Consultando peso expedição
+14-09-18 14:37:59,0463 [INFO] - Consultando peso expedição
+14-09-18 14:37:59,0695 [ERROR] - java.lang.NullPointerException
+14-09-18 14:38:00,0695 [INFO] - Consultando peso entrega
+14-09-18 14:38:00,0854 [ERROR] - java.lang.NullPointerException
+14-09-18 14:38:01,0854 [INFO] - Consultando área mesa
+14-09-18 14:38:01,0938 [INFO] - Atualizando a AreaCortada do Funcionario WESLEY GENILSON DOS SANTOS, Setor MESA PEQUENA, Area 116,60
+14-09-18 14:38:01,0939 [INFO] - Aguardando 2 minutos
+14-09-18 14:38:03,0511 [INFO] - Consultando peso expedição
+14-09-18 14:38:03,0656 [ERROR] - java.lang.NullPointerException
+14-09-18 14:38:04,0656 [INFO] - Consultando peso entrega
+14-09-18 14:38:04,0697 [ERROR] - java.lang.NullPointerException
+14-09-18 14:38:05,0697 [INFO] - Consultando área mesa
+14-09-18 14:38:05,0735 [ERROR] - java.lang.NullPointerException
+14-09-18 14:38:05,0736 [INFO] - Aguardando 2 minutos
+14-09-18 14:40:01,0933 [INFO] - Consultando peso expedição
+14-09-18 14:40:05,0730 [INFO] - Consultando peso expedição
+14-09-18 14:40:05,0966 [ERROR] - java.lang.NullPointerException
+14-09-18 14:40:06,0966 [INFO] - Consultando peso entrega
+14-09-18 14:40:07,0007 [ERROR] - java.lang.NullPointerException
+14-09-18 14:40:07,0402 [ERROR] - java.lang.NullPointerException
+14-09-18 14:40:08,0007 [INFO] - Consultando área mesa
+14-09-18 14:40:08,0045 [ERROR] - java.lang.NullPointerException
+14-09-18 14:40:08,0046 [INFO] - Aguardando 2 minutos
+14-09-18 14:40:08,0402 [INFO] - Consultando peso entrega
+14-09-18 14:40:08,0441 [ERROR] - java.lang.NullPointerException
+14-09-18 14:40:09,0442 [INFO] - Consultando área mesa
+14-09-18 14:40:09,0480 [ERROR] - java.lang.NullPointerException
+14-09-18 14:40:09,0480 [INFO] - Aguardando 2 minutos
+14-09-18 14:41:40,0475 [INFO] - Iniciando Repetidor
+14-09-18 14:41:40,0481 [INFO] - Consultando peso expedição
+14-09-18 14:41:40,0919 [INFO] - Atualizando o Peso para o Funcionario FIDELCI SOUZA LIMA, Setor EXPEDICAO VPE, Peso 96,29
+14-09-18 14:41:41,0022 [INFO] - Inserindo um Peso do Funcionario FILIPE DA PAIXAO ANDRADE, Setor EXPEDICAO, Peso 129,20
+14-09-18 14:41:41,0026 [INFO] - Atualizando o Peso para o Funcionario LEANDRO RODRIGUES DA SILVA TAVARES, Setor EXPEDICAO, Peso 4106,69
+14-09-18 14:41:41,0034 [INFO] - Atualizando o Peso para o Funcionario WILLIAN HENRIQUE CONCEICAO SOUZA, Setor EXPEDICAO, Peso 2442,14
+14-09-18 14:41:42,0034 [INFO] - Consultando peso entrega
+14-09-18 14:41:42,0227 [INFO] - Inserindo um Peso do Funcionario ALMIR ROGERIO DOS SANTOS VIEIRA, Setor ENTREGA, Peso 170,15
+14-09-18 14:41:43,0228 [INFO] - Consultando área mesa
+14-09-18 14:41:43,0275 [INFO] - Aguardando 2 minutos
+14-09-18 14:41:57,0871 [INFO] - Iniciando Repetidor
+14-09-18 14:41:57,0876 [INFO] - Consultando peso expedição
+14-09-18 14:41:59,0358 [INFO] - Consultando peso entrega
+14-09-18 14:42:00,0404 [INFO] - Consultando área mesa
+14-09-18 14:42:00,0448 [INFO] - Aguardando 2 minutos
+14-09-18 14:42:08,0040 [INFO] - Consultando peso expedição
+14-09-18 14:42:08,0160 [ERROR] - java.lang.NullPointerException
+14-09-18 14:42:09,0160 [INFO] - Consultando peso entrega
+14-09-18 14:42:09,0200 [ERROR] - java.lang.NullPointerException
+14-09-18 14:42:09,0475 [INFO] - Consultando peso expedição
+14-09-18 14:42:09,0699 [ERROR] - java.lang.NullPointerException
+14-09-18 14:42:10,0200 [INFO] - Consultando área mesa
+14-09-18 14:42:10,0238 [ERROR] - java.lang.NullPointerException
+14-09-18 14:42:10,0238 [INFO] - Aguardando 2 minutos
+14-09-18 14:42:10,0699 [INFO] - Consultando peso entrega
+14-09-18 14:42:10,0739 [ERROR] - java.lang.NullPointerException
+14-09-18 14:42:11,0739 [INFO] - Consultando área mesa
+14-09-18 14:42:11,0777 [ERROR] - java.lang.NullPointerException
+14-09-18 14:42:11,0778 [INFO] - Aguardando 2 minutos
+14-09-18 14:42:57,0084 [INFO] - Iniciando Repetidor
+14-09-18 14:42:57,0091 [INFO] - Consultando peso expedição
+14-09-18 14:42:58,0530 [INFO] - Consultando peso entrega
+14-09-18 14:42:59,0575 [INFO] - Consultando área mesa
+14-09-18 14:42:59,0620 [INFO] - Aguardando 2 minutos
+14-09-18 14:44:00,0443 [INFO] - Consultando peso expedição
+14-09-18 14:44:01,0566 [INFO] - Consultando peso entrega
+14-09-18 14:44:02,0611 [INFO] - Consultando área mesa
+14-09-18 14:44:02,0655 [INFO] - Atualizando a AreaCortada do Funcionario WESLEY GENILSON DOS SANTOS, Setor MESA PEQUENA, Area 120,34
+14-09-18 14:44:02,0655 [INFO] - Aguardando 2 minutos
+14-09-18 14:44:10,0232 [INFO] - Consultando peso expedição
+14-09-18 14:44:10,0411 [ERROR] - java.lang.NullPointerException
+14-09-18 14:44:11,0412 [INFO] - Consultando peso entrega
+14-09-18 14:44:11,0452 [ERROR] - java.lang.NullPointerException
+14-09-18 14:44:11,0772 [INFO] - Consultando peso expedição
+14-09-18 14:44:11,0968 [ERROR] - java.lang.NullPointerException
+14-09-18 14:44:12,0452 [INFO] - Consultando área mesa
+14-09-18 14:44:12,0490 [ERROR] - java.lang.NullPointerException
+14-09-18 14:44:12,0491 [INFO] - Aguardando 2 minutos
+14-09-18 14:44:12,0968 [INFO] - Consultando peso entrega
+14-09-18 14:44:13,0012 [ERROR] - java.lang.NullPointerException
+14-09-18 14:44:14,0012 [INFO] - Consultando área mesa
+14-09-18 14:44:14,0050 [ERROR] - java.lang.NullPointerException
+14-09-18 14:44:14,0050 [INFO] - Aguardando 2 minutos
+14-09-18 14:44:59,0614 [INFO] - Consultando peso expedição
+14-09-18 14:44:59,0754 [INFO] - Atualizando o Peso para o Funcionario LEANDRO RODRIGUES DA SILVA TAVARES, Setor EXPEDICAO, Peso 4164,47
+14-09-18 14:44:59,0774 [INFO] - Atualizando o Peso para o Funcionario WILLIAN HENRIQUE CONCEICAO SOUZA, Setor EXPEDICAO, Peso 2502,40
+14-09-18 14:45:00,0775 [INFO] - Consultando peso entrega
+14-09-18 14:45:01,0975 [INFO] - Consultando área mesa
+14-09-18 14:45:02,0012 [INFO] - Aguardando 2 minutos
+14-09-18 14:46:02,0650 [INFO] - Consultando peso expedição
+14-09-18 14:46:03,0772 [INFO] - Consultando peso entrega
+14-09-18 14:46:04,0815 [INFO] - Consultando área mesa
+14-09-18 14:46:04,0854 [INFO] - Aguardando 2 minutos
+14-09-18 14:46:12,0485 [INFO] - Consultando peso expedição
+14-09-18 14:46:12,0613 [ERROR] - java.lang.NullPointerException
+14-09-18 14:46:13,0613 [INFO] - Consultando peso entrega
+14-09-18 14:46:13,0655 [ERROR] - java.lang.NullPointerException
+14-09-18 14:46:14,0044 [INFO] - Consultando peso expedição
+14-09-18 14:46:14,0174 [ERROR] - java.lang.NullPointerException
+14-09-18 14:46:14,0655 [INFO] - Consultando área mesa
+14-09-18 14:46:14,0732 [ERROR] - java.lang.NullPointerException
+14-09-18 14:46:14,0732 [INFO] - Aguardando 2 minutos
+14-09-18 14:46:15,0174 [INFO] - Consultando peso entrega
+14-09-18 14:46:15,0346 [ERROR] - java.lang.NullPointerException
+14-09-18 14:46:16,0346 [INFO] - Consultando área mesa
+14-09-18 14:46:16,0385 [ERROR] - java.lang.NullPointerException
+14-09-18 14:46:16,0386 [INFO] - Aguardando 2 minutos
+14-09-18 14:47:02,0006 [INFO] - Consultando peso expedição
+14-09-18 14:47:03,0130 [INFO] - Consultando peso entrega
+14-09-18 14:47:04,0173 [INFO] - Consultando área mesa
+14-09-18 14:47:04,0210 [INFO] - Aguardando 2 minutos
+14-09-18 14:48:04,0849 [INFO] - Consultando peso expedição
+14-09-18 14:48:06,0054 [INFO] - Consultando peso entrega
+14-09-18 14:48:07,0096 [INFO] - Consultando área mesa
+14-09-18 14:48:07,0134 [INFO] - Aguardando 2 minutos
+14-09-18 14:48:14,0726 [INFO] - Consultando peso expedição
+14-09-18 14:48:14,0838 [ERROR] - java.lang.NullPointerException
+14-09-18 14:48:15,0838 [INFO] - Consultando peso entrega
+14-09-18 14:48:15,0877 [ERROR] - java.lang.NullPointerException
+14-09-18 14:48:16,0380 [INFO] - Consultando peso expedição
+14-09-18 14:48:16,0508 [ERROR] - java.lang.NullPointerException
+14-09-18 14:48:16,0877 [INFO] - Consultando área mesa
+14-09-18 14:48:16,0915 [ERROR] - java.lang.NullPointerException
+14-09-18 14:48:16,0916 [INFO] - Aguardando 2 minutos
+14-09-18 14:48:17,0509 [INFO] - Consultando peso entrega
+14-09-18 14:48:17,0549 [ERROR] - java.lang.NullPointerException
+14-09-18 14:48:18,0550 [INFO] - Consultando área mesa
+14-09-18 14:48:18,0589 [ERROR] - java.lang.NullPointerException
+14-09-18 14:48:18,0589 [INFO] - Aguardando 2 minutos
+14-09-18 14:49:04,0205 [INFO] - Consultando peso expedição
+14-09-18 14:49:05,0338 [INFO] - Consultando peso entrega
+14-09-18 14:49:06,0380 [INFO] - Consultando área mesa
+14-09-18 14:49:06,0418 [INFO] - Aguardando 2 minutos
+14-09-18 14:50:07,0129 [INFO] - Consultando peso expedição
+14-09-18 14:50:08,0292 [INFO] - Consultando peso entrega
+14-09-18 14:50:09,0333 [INFO] - Consultando área mesa
+14-09-18 14:50:09,0371 [INFO] - Aguardando 2 minutos
+14-09-18 14:50:16,0910 [INFO] - Consultando peso expedição
+14-09-18 14:50:17,0082 [ERROR] - java.lang.NullPointerException
+14-09-18 14:50:18,0082 [INFO] - Consultando peso entrega
+14-09-18 14:50:18,0583 [INFO] - Consultando peso expedição
+14-09-18 14:50:18,0701 [ERROR] - java.lang.NullPointerException
+14-09-18 14:50:18,0778 [ERROR] - java.lang.NullPointerException
+14-09-18 14:50:19,0702 [INFO] - Consultando peso entrega
+14-09-18 14:50:19,0753 [ERROR] - java.lang.NullPointerException
+14-09-18 14:50:19,0778 [INFO] - Consultando área mesa
+14-09-18 14:50:19,0816 [ERROR] - java.lang.NullPointerException
+14-09-18 14:50:19,0817 [INFO] - Aguardando 2 minutos
+14-09-18 14:50:20,0753 [INFO] - Consultando área mesa
+14-09-18 14:50:20,0788 [ERROR] - java.lang.NullPointerException
+14-09-18 14:50:20,0788 [INFO] - Aguardando 2 minutos
+14-09-18 14:51:06,0412 [INFO] - Consultando peso expedição
+14-09-18 14:51:07,0586 [INFO] - Consultando peso entrega
+14-09-18 14:51:08,0628 [INFO] - Consultando área mesa
+14-09-18 14:51:08,0668 [INFO] - Aguardando 2 minutos
+14-09-18 14:52:09,0365 [INFO] - Consultando peso expedição
+14-09-18 14:52:10,0566 [INFO] - Consultando peso entrega
+14-09-18 14:52:11,0751 [INFO] - Consultando área mesa
+14-09-18 14:52:11,0786 [INFO] - Aguardando 2 minutos
+14-09-18 14:52:19,0811 [INFO] - Consultando peso expedição
+14-09-18 14:52:19,0931 [ERROR] - java.lang.NullPointerException
+14-09-18 14:52:20,0782 [INFO] - Consultando peso expedição
+14-09-18 14:52:20,0893 [ERROR] - java.lang.NullPointerException
+14-09-18 14:52:20,0932 [INFO] - Consultando peso entrega
+14-09-18 14:52:20,0970 [ERROR] - java.lang.NullPointerException
+14-09-18 14:52:21,0894 [INFO] - Consultando peso entrega
+14-09-18 14:52:21,0932 [ERROR] - java.lang.NullPointerException
+14-09-18 14:52:21,0970 [INFO] - Consultando área mesa
+14-09-18 14:52:22,0006 [ERROR] - java.lang.NullPointerException
+14-09-18 14:52:22,0007 [INFO] - Aguardando 2 minutos
+14-09-18 14:52:22,0932 [INFO] - Consultando área mesa
+14-09-18 14:52:22,0967 [ERROR] - java.lang.NullPointerException
+14-09-18 14:52:22,0968 [INFO] - Aguardando 2 minutos
+14-09-18 14:53:08,0662 [INFO] - Consultando peso expedição
+14-09-18 14:53:09,0783 [INFO] - Consultando peso entrega
+14-09-18 14:53:10,0826 [INFO] - Consultando área mesa
+14-09-18 14:53:10,0861 [INFO] - Aguardando 2 minutos
+14-09-18 14:54:11,0780 [INFO] - Consultando peso expedição
+14-09-18 14:54:12,0900 [INFO] - Consultando peso entrega
+14-09-18 14:54:13,0965 [INFO] - Consultando área mesa
+14-09-18 14:54:14,0002 [INFO] - Aguardando 2 minutos
+14-09-18 14:54:22,0001 [INFO] - Consultando peso expedição
+14-09-18 14:54:22,0203 [ERROR] - java.lang.NullPointerException
+14-09-18 14:54:22,0962 [INFO] - Consultando peso expedição
+14-09-18 14:54:23,0128 [ERROR] - java.lang.NullPointerException
+14-09-18 14:54:23,0203 [INFO] - Consultando peso entrega
+14-09-18 14:54:23,0243 [ERROR] - java.lang.NullPointerException
+14-09-18 14:54:24,0128 [INFO] - Consultando peso entrega
+14-09-18 14:54:24,0169 [ERROR] - java.lang.NullPointerException
+14-09-18 14:54:24,0243 [INFO] - Consultando área mesa
+14-09-18 14:54:24,0279 [ERROR] - java.lang.NullPointerException
+14-09-18 14:54:24,0280 [INFO] - Aguardando 2 minutos
+14-09-18 14:54:25,0169 [INFO] - Consultando área mesa
+14-09-18 14:54:25,0206 [ERROR] - java.lang.NullPointerException
+14-09-18 14:54:25,0206 [INFO] - Aguardando 2 minutos
+14-09-18 14:55:10,0855 [INFO] - Consultando peso expedição
+14-09-18 14:55:11,0974 [INFO] - Consultando peso entrega
+14-09-18 14:55:13,0171 [INFO] - Consultando área mesa
+14-09-18 14:55:13,0209 [INFO] - Aguardando 2 minutos
+14-09-18 14:56:13,0997 [INFO] - Consultando peso expedição
+14-09-18 14:56:15,0211 [INFO] - Consultando peso entrega
+14-09-18 14:56:16,0609 [INFO] - Consultando área mesa
+14-09-18 14:56:16,0659 [INFO] - Aguardando 2 minutos
+14-09-18 14:56:24,0274 [INFO] - Consultando peso expedição
+14-09-18 14:56:24,0469 [ERROR] - java.lang.NullPointerException
+14-09-18 14:56:25,0201 [INFO] - Consultando peso expedição
+14-09-18 14:56:25,0324 [ERROR] - java.lang.NullPointerException
+14-09-18 14:56:25,0470 [INFO] - Consultando peso entrega
+14-09-18 14:56:25,0510 [ERROR] - java.lang.NullPointerException
+14-09-18 14:56:26,0324 [INFO] - Consultando peso entrega
+14-09-18 14:56:26,0363 [ERROR] - java.lang.NullPointerException
+14-09-18 14:56:26,0510 [INFO] - Consultando área mesa
+14-09-18 14:56:26,0547 [ERROR] - java.lang.NullPointerException
+14-09-18 14:56:26,0547 [INFO] - Aguardando 2 minutos
+14-09-18 14:56:27,0363 [INFO] - Consultando área mesa
+14-09-18 14:56:27,0402 [ERROR] - java.lang.NullPointerException
+14-09-18 14:56:27,0403 [INFO] - Aguardando 2 minutos
+14-09-18 14:57:13,0203 [INFO] - Consultando peso expedição
+14-09-18 14:57:14,0325 [INFO] - Consultando peso entrega
+14-09-18 14:57:15,0366 [INFO] - Consultando área mesa
+14-09-18 14:57:15,0405 [INFO] - Aguardando 2 minutos
+14-09-18 14:58:16,0653 [INFO] - Consultando peso expedição
+14-09-18 14:58:17,0835 [INFO] - Consultando peso entrega
+14-09-18 14:58:18,0886 [INFO] - Consultando área mesa
+14-09-18 14:58:18,0936 [INFO] - Aguardando 2 minutos
+14-09-18 14:58:26,0542 [INFO] - Consultando peso expedição
+14-09-18 14:58:26,0727 [ERROR] - java.lang.NullPointerException
+14-09-18 14:58:27,0397 [INFO] - Consultando peso expedição
+14-09-18 14:58:27,0546 [ERROR] - java.lang.NullPointerException
+14-09-18 14:58:27,0727 [INFO] - Consultando peso entrega
+14-09-18 14:58:27,0765 [ERROR] - java.lang.NullPointerException
+14-09-18 14:58:28,0547 [INFO] - Consultando peso entrega
+14-09-18 14:58:28,0587 [ERROR] - java.lang.NullPointerException
+14-09-18 14:58:28,0766 [INFO] - Consultando área mesa
+14-09-18 14:58:28,0803 [ERROR] - java.lang.NullPointerException
+14-09-18 14:58:28,0804 [INFO] - Aguardando 2 minutos
+14-09-18 14:58:29,0588 [INFO] - Consultando área mesa
+14-09-18 14:58:29,0627 [ERROR] - java.lang.NullPointerException
+14-09-18 14:58:29,0627 [INFO] - Aguardando 2 minutos
+14-09-18 14:59:15,0400 [INFO] - Consultando peso expedição
+14-09-18 14:59:16,0520 [INFO] - Consultando peso entrega
+14-09-18 14:59:17,0563 [INFO] - Consultando área mesa
+14-09-18 14:59:17,0601 [INFO] - Aguardando 2 minutos
+14-09-18 15:00:18,0930 [INFO] - Consultando peso expedição
+14-09-18 15:00:20,0050 [INFO] - Consultando peso entrega
+14-09-18 15:00:21,0092 [INFO] - Consultando área mesa
+14-09-18 15:00:21,0129 [INFO] - Aguardando 2 minutos
+14-09-18 15:00:28,0798 [INFO] - Consultando peso expedição
+14-09-18 15:00:28,0966 [ERROR] - java.lang.NullPointerException
+14-09-18 15:00:29,0621 [INFO] - Consultando peso expedição
+14-09-18 15:00:29,0734 [ERROR] - java.lang.NullPointerException
+14-09-18 15:00:29,0966 [INFO] - Consultando peso entrega
+14-09-18 15:00:30,0158 [ERROR] - java.lang.NullPointerException
+14-09-18 15:00:30,0734 [INFO] - Consultando peso entrega
+14-09-18 15:00:30,0773 [ERROR] - java.lang.NullPointerException
+14-09-18 15:00:31,0158 [INFO] - Consultando área mesa
+14-09-18 15:00:31,0218 [ERROR] - java.lang.NullPointerException
+14-09-18 15:00:31,0219 [INFO] - Aguardando 2 minutos
+14-09-18 15:00:31,0773 [INFO] - Consultando área mesa
+14-09-18 15:00:31,0811 [ERROR] - java.lang.NullPointerException
+14-09-18 15:00:31,0811 [INFO] - Aguardando 2 minutos
+14-09-18 15:01:17,0595 [INFO] - Consultando peso expedição
+14-09-18 15:01:18,0728 [INFO] - Consultando peso entrega
+14-09-18 15:01:19,0913 [INFO] - Consultando área mesa
+14-09-18 15:01:19,0971 [INFO] - Aguardando 2 minutos
+14-09-18 15:02:21,0123 [INFO] - Consultando peso expedição
+14-09-18 15:02:22,0283 [INFO] - Consultando peso entrega
+14-09-18 15:02:23,0323 [INFO] - Consultando área mesa
+14-09-18 15:02:23,0358 [INFO] - Aguardando 2 minutos
+14-09-18 15:02:31,0213 [INFO] - Consultando peso expedição
+14-09-18 15:02:31,0344 [ERROR] - java.lang.NullPointerException
+14-09-18 15:02:31,0805 [INFO] - Consultando peso expedição
+14-09-18 15:02:31,0915 [ERROR] - java.lang.NullPointerException
+14-09-18 15:02:32,0345 [INFO] - Consultando peso entrega
+14-09-18 15:02:32,0383 [ERROR] - java.lang.NullPointerException
+14-09-18 15:02:32,0915 [INFO] - Consultando peso entrega
+14-09-18 15:02:32,0954 [ERROR] - java.lang.NullPointerException
+14-09-18 15:02:33,0383 [INFO] - Consultando área mesa
+14-09-18 15:02:33,0419 [ERROR] - java.lang.NullPointerException
+14-09-18 15:02:33,0419 [INFO] - Aguardando 2 minutos
+14-09-18 15:02:33,0954 [INFO] - Consultando área mesa
+14-09-18 15:02:33,0990 [ERROR] - java.lang.NullPointerException
+14-09-18 15:02:33,0990 [INFO] - Aguardando 2 minutos
+14-09-18 15:03:19,0965 [INFO] - Consultando peso expedição
+14-09-18 15:03:21,0086 [INFO] - Consultando peso entrega
+14-09-18 15:03:22,0128 [INFO] - Consultando área mesa
+14-09-18 15:03:22,0171 [INFO] - Aguardando 2 minutos
+14-09-18 15:04:23,0352 [INFO] - Consultando peso expedição
+14-09-18 15:04:24,0474 [INFO] - Consultando peso entrega
+14-09-18 15:04:27,0069 [INFO] - Consultando área mesa
+14-09-18 15:04:27,0834 [INFO] - Aguardando 2 minutos
+14-09-18 15:04:33,0413 [INFO] - Consultando peso expedição
+14-09-18 15:04:33,0537 [ERROR] - java.lang.NullPointerException
+14-09-18 15:04:33,0984 [INFO] - Consultando peso expedição
+14-09-18 15:04:34,0152 [ERROR] - java.lang.NullPointerException
+14-09-18 15:04:34,0538 [INFO] - Consultando peso entrega
+14-09-18 15:04:34,0667 [ERROR] - java.lang.NullPointerException
+14-09-18 15:04:35,0153 [INFO] - Consultando peso entrega
+14-09-18 15:04:35,0192 [ERROR] - java.lang.NullPointerException
+14-09-18 15:04:35,0667 [INFO] - Consultando área mesa
+14-09-18 15:04:35,0704 [ERROR] - java.lang.NullPointerException
+14-09-18 15:04:35,0704 [INFO] - Aguardando 2 minutos
+14-09-18 15:04:36,0192 [INFO] - Consultando área mesa
+14-09-18 15:04:36,0230 [ERROR] - java.lang.NullPointerException
+14-09-18 15:04:36,0231 [INFO] - Aguardando 2 minutos
+14-09-18 15:05:22,0165 [INFO] - Consultando peso expedição
+14-09-18 15:05:23,0339 [INFO] - Consultando peso entrega
+14-09-18 15:05:24,0535 [INFO] - Consultando área mesa
+14-09-18 15:05:24,0572 [INFO] - Aguardando 2 minutos
+14-09-18 15:06:27,0828 [INFO] - Consultando peso expedição
+14-09-18 15:06:28,0951 [INFO] - Consultando peso entrega
+14-09-18 15:06:30,0139 [INFO] - Consultando área mesa
+14-09-18 15:06:30,0175 [INFO] - Aguardando 2 minutos
+14-09-18 15:06:35,0698 [INFO] - Consultando peso expedição
+14-09-18 15:06:35,0861 [ERROR] - java.lang.NullPointerException
+14-09-18 15:06:36,0225 [INFO] - Consultando peso expedição
+14-09-18 15:06:36,0338 [ERROR] - java.lang.NullPointerException
+14-09-18 15:06:36,0861 [INFO] - Consultando peso entrega
+14-09-18 15:06:37,0338 [INFO] - Consultando peso entrega
+14-09-18 15:06:37,0366 [ERROR] - java.lang.NullPointerException
+14-09-18 15:06:37,0378 [ERROR] - java.lang.NullPointerException
+14-09-18 15:06:38,0367 [INFO] - Consultando área mesa
+14-09-18 15:06:38,0379 [INFO] - Consultando área mesa
+14-09-18 15:06:38,0452 [ERROR] - java.lang.NullPointerException
+14-09-18 15:06:38,0452 [INFO] - Aguardando 2 minutos
+14-09-18 15:06:38,0452 [ERROR] - java.lang.NullPointerException
+14-09-18 15:06:38,0453 [INFO] - Aguardando 2 minutos
+14-09-18 15:07:24,0566 [INFO] - Consultando peso expedição
+14-09-18 15:07:25,0707 [INFO] - Consultando peso entrega
+14-09-18 15:07:26,0854 [INFO] - Consultando área mesa
+14-09-18 15:07:26,0891 [INFO] - Aguardando 2 minutos
+14-09-18 15:08:30,0170 [INFO] - Consultando peso expedição
+14-09-18 15:08:31,0359 [INFO] - Consultando peso entrega
+14-09-18 15:08:32,0516 [INFO] - Consultando área mesa
+14-09-18 15:08:32,0554 [INFO] - Aguardando 2 minutos
+14-09-18 15:08:38,0446 [INFO] - Consultando peso expedição
+14-09-18 15:08:38,0447 [INFO] - Consultando peso expedição
+14-09-18 15:08:38,0669 [ERROR] - java.lang.NullPointerException
+14-09-18 15:08:38,0669 [ERROR] - java.lang.NullPointerException
+14-09-18 15:08:39,0669 [INFO] - Consultando peso entrega
+14-09-18 15:08:39,0669 [INFO] - Consultando peso entrega
+14-09-18 15:08:39,0712 [ERROR] - java.lang.NullPointerException
+14-09-18 15:08:39,0712 [ERROR] - java.lang.NullPointerException
+14-09-18 15:08:40,0712 [INFO] - Consultando área mesa
+14-09-18 15:08:40,0712 [INFO] - Consultando área mesa
+14-09-18 15:08:40,0753 [ERROR] - java.lang.NullPointerException
+14-09-18 15:08:40,0753 [INFO] - Aguardando 2 minutos
+14-09-18 15:08:40,0754 [ERROR] - java.lang.NullPointerException
+14-09-18 15:08:40,0754 [INFO] - Aguardando 2 minutos
+14-09-18 15:09:26,0885 [INFO] - Consultando peso expedição
+14-09-18 15:09:28,0004 [INFO] - Consultando peso entrega
+14-09-18 15:09:29,0157 [INFO] - Consultando área mesa
+14-09-18 15:09:29,0196 [INFO] - Aguardando 2 minutos
+14-09-18 15:10:32,0548 [INFO] - Consultando peso expedição
+14-09-18 15:10:33,0718 [INFO] - Consultando peso entrega
+14-09-18 15:10:35,0410 [INFO] - Consultando área mesa
+14-09-18 15:10:35,0493 [INFO] - Aguardando 2 minutos
+14-09-18 15:10:40,0747 [INFO] - Consultando peso expedição
+14-09-18 15:10:40,0749 [INFO] - Consultando peso expedição
+14-09-18 15:10:40,0866 [ERROR] - java.lang.NullPointerException
+14-09-18 15:10:40,0942 [ERROR] - java.lang.NullPointerException
+14-09-18 15:10:41,0866 [INFO] - Consultando peso entrega
+14-09-18 15:10:41,0943 [INFO] - Consultando peso entrega
+14-09-18 15:10:42,0047 [ERROR] - java.lang.NullPointerException
+14-09-18 15:10:42,0047 [ERROR] - java.lang.NullPointerException
+14-09-18 15:10:43,0048 [INFO] - Consultando área mesa
+14-09-18 15:10:43,0048 [INFO] - Consultando área mesa
+14-09-18 15:10:43,0096 [ERROR] - java.lang.NullPointerException
+14-09-18 15:10:43,0096 [ERROR] - java.lang.NullPointerException
+14-09-18 15:10:43,0096 [INFO] - Aguardando 2 minutos
+14-09-18 15:10:43,0096 [INFO] - Aguardando 2 minutos
+14-09-18 15:11:29,0190 [INFO] - Consultando peso expedição
+14-09-18 15:11:30,0351 [INFO] - Consultando peso entrega
+14-09-18 15:11:31,0627 [INFO] - Consultando área mesa
+14-09-18 15:11:31,0664 [INFO] - Aguardando 2 minutos
+14-09-18 15:12:35,0488 [INFO] - Consultando peso expedição
+14-09-18 15:12:35,0660 [INFO] - Atualizando o Peso para o Funcionario WILLIAN HENRIQUE CONCEICAO SOUZA, Setor EXPEDICAO, Peso 2617,96
+14-09-18 15:12:36,0660 [INFO] - Consultando peso entrega
+14-09-18 15:12:37,0700 [INFO] - Consultando área mesa
+14-09-18 15:12:37,0737 [INFO] - Aguardando 2 minutos
+14-09-18 15:12:43,0090 [INFO] - Consultando peso expedição
+14-09-18 15:12:43,0090 [INFO] - Consultando peso expedição
+14-09-18 15:12:43,0207 [ERROR] - java.lang.NullPointerException
+14-09-18 15:12:43,0279 [ERROR] - java.lang.NullPointerException
+14-09-18 15:12:44,0207 [INFO] - Consultando peso entrega
+14-09-18 15:12:44,0249 [ERROR] - java.lang.NullPointerException
+14-09-18 15:12:44,0279 [INFO] - Consultando peso entrega
+14-09-18 15:12:44,0318 [ERROR] - java.lang.NullPointerException
+14-09-18 15:12:45,0249 [INFO] - Consultando área mesa
+14-09-18 15:12:45,0285 [ERROR] - java.lang.NullPointerException
+14-09-18 15:12:45,0286 [INFO] - Aguardando 2 minutos
+14-09-18 15:12:45,0318 [INFO] - Consultando área mesa
+14-09-18 15:12:45,0355 [ERROR] - java.lang.NullPointerException
+14-09-18 15:12:45,0356 [INFO] - Aguardando 2 minutos
+14-09-18 15:13:31,0658 [INFO] - Consultando peso expedição
+14-09-18 15:13:32,0784 [INFO] - Consultando peso entrega
+14-09-18 15:13:33,0823 [INFO] - Consultando área mesa
+14-09-18 15:13:33,0864 [INFO] - Aguardando 2 minutos
+14-09-18 15:14:37,0731 [INFO] - Consultando peso expedição
+14-09-18 15:14:38,0876 [INFO] - Consultando peso entrega
+14-09-18 15:14:39,0955 [INFO] - Consultando área mesa
+14-09-18 15:14:39,0998 [INFO] - Aguardando 2 minutos
+14-09-18 15:14:45,0280 [INFO] - Consultando peso expedição
+14-09-18 15:14:45,0350 [INFO] - Consultando peso expedição
+14-09-18 15:14:45,0415 [ERROR] - java.lang.NullPointerException
+14-09-18 15:14:45,0495 [ERROR] - java.lang.NullPointerException
+14-09-18 15:14:46,0415 [INFO] - Consultando peso entrega
+14-09-18 15:14:46,0460 [ERROR] - java.lang.NullPointerException
+14-09-18 15:14:46,0495 [INFO] - Consultando peso entrega
+14-09-18 15:14:46,0535 [ERROR] - java.lang.NullPointerException
+14-09-18 15:14:47,0460 [INFO] - Consultando área mesa
+14-09-18 15:14:47,0502 [ERROR] - java.lang.NullPointerException
+14-09-18 15:14:47,0503 [INFO] - Aguardando 2 minutos
+14-09-18 15:14:47,0535 [INFO] - Consultando área mesa
+14-09-18 15:14:47,0571 [ERROR] - java.lang.NullPointerException
+14-09-18 15:14:47,0571 [INFO] - Aguardando 2 minutos
+14-09-18 15:15:33,0858 [INFO] - Consultando peso expedição
+14-09-18 15:15:35,0023 [INFO] - Consultando peso entrega
+14-09-18 15:15:36,0239 [INFO] - Consultando área mesa
+14-09-18 15:15:36,0278 [INFO] - Aguardando 2 minutos
+14-09-18 15:16:39,0992 [INFO] - Consultando peso expedição
+14-09-18 15:16:41,0234 [INFO] - Consultando peso entrega
+14-09-18 15:16:42,0419 [INFO] - Consultando área mesa
+14-09-18 15:16:42,0460 [INFO] - Aguardando 2 minutos
+14-09-18 15:16:47,0497 [INFO] - Consultando peso expedição
+14-09-18 15:16:47,0566 [INFO] - Consultando peso expedição
+14-09-18 15:16:47,0623 [ERROR] - java.lang.NullPointerException
+14-09-18 15:16:47,0729 [ERROR] - java.lang.NullPointerException
+14-09-18 15:16:48,0623 [INFO] - Consultando peso entrega
+14-09-18 15:16:48,0664 [ERROR] - java.lang.NullPointerException
+14-09-18 15:16:48,0729 [INFO] - Consultando peso entrega
+14-09-18 15:16:48,0769 [ERROR] - java.lang.NullPointerException
+14-09-18 15:16:49,0664 [INFO] - Consultando área mesa
+14-09-18 15:16:49,0702 [ERROR] - java.lang.NullPointerException
+14-09-18 15:16:49,0703 [INFO] - Aguardando 2 minutos
+14-09-18 15:16:49,0769 [INFO] - Consultando área mesa
+14-09-18 15:16:49,0806 [ERROR] - java.lang.NullPointerException
+14-09-18 15:16:49,0807 [INFO] - Aguardando 2 minutos
+14-09-18 15:17:36,0272 [INFO] - Consultando peso expedição
+14-09-18 15:17:37,0501 [INFO] - Consultando peso entrega
+14-09-18 15:17:38,0544 [INFO] - Consultando área mesa
+14-09-18 15:17:38,0596 [INFO] - Aguardando 2 minutos
+14-09-18 15:18:42,0455 [INFO] - Consultando peso expedição
+14-09-18 15:18:43,0652 [INFO] - Consultando peso entrega
+14-09-18 15:18:44,0692 [INFO] - Consultando área mesa
+14-09-18 15:18:44,0730 [INFO] - Aguardando 2 minutos
+14-09-18 15:18:49,0697 [INFO] - Consultando peso expedição
+14-09-18 15:18:49,0801 [INFO] - Consultando peso expedição
+14-09-18 15:18:49,0840 [ERROR] - java.lang.NullPointerException
+14-09-18 15:18:49,0947 [ERROR] - java.lang.NullPointerException
+14-09-18 15:18:50,0840 [INFO] - Consultando peso entrega
+14-09-18 15:18:50,0879 [ERROR] - java.lang.NullPointerException
+14-09-18 15:18:50,0947 [INFO] - Consultando peso entrega
+14-09-18 15:18:50,0986 [ERROR] - java.lang.NullPointerException
+14-09-18 15:18:51,0879 [INFO] - Consultando área mesa
+14-09-18 15:18:51,0916 [ERROR] - java.lang.NullPointerException
+14-09-18 15:18:51,0916 [INFO] - Aguardando 2 minutos
+14-09-18 15:18:51,0986 [INFO] - Consultando área mesa
+14-09-18 15:18:52,0022 [ERROR] - java.lang.NullPointerException
+14-09-18 15:18:52,0022 [INFO] - Aguardando 2 minutos
+14-09-18 15:19:38,0590 [INFO] - Consultando peso expedição
+14-09-18 15:19:39,0753 [INFO] - Consultando peso entrega
+14-09-18 15:19:40,0853 [INFO] - Consultando área mesa
+14-09-18 15:19:40,0963 [INFO] - Aguardando 2 minutos
+14-09-18 15:20:44,0725 [INFO] - Consultando peso expedição
+14-09-18 15:20:46,0070 [INFO] - Consultando peso entrega
+14-09-18 15:20:47,0799 [INFO] - Consultando área mesa
+14-09-18 15:20:47,0874 [INFO] - Aguardando 2 minutos
+14-09-18 15:20:51,0910 [INFO] - Consultando peso expedição
+14-09-18 15:20:52,0017 [INFO] - Consultando peso expedição
+14-09-18 15:20:52,0023 [ERROR] - java.lang.NullPointerException
+14-09-18 15:20:52,0133 [ERROR] - java.lang.NullPointerException
+14-09-18 15:20:53,0024 [INFO] - Consultando peso entrega
+14-09-18 15:20:53,0062 [ERROR] - java.lang.NullPointerException
+14-09-18 15:20:53,0133 [INFO] - Consultando peso entrega
+14-09-18 15:20:53,0173 [ERROR] - java.lang.NullPointerException
+14-09-18 15:20:54,0062 [INFO] - Consultando área mesa
+14-09-18 15:20:54,0101 [ERROR] - java.lang.NullPointerException
+14-09-18 15:20:54,0102 [INFO] - Aguardando 2 minutos
+14-09-18 15:20:54,0174 [INFO] - Consultando área mesa
+14-09-18 15:20:54,0218 [ERROR] - java.lang.NullPointerException
+14-09-18 15:20:54,0218 [INFO] - Aguardando 2 minutos
+14-09-18 15:21:40,0957 [INFO] - Consultando peso expedição
+14-09-18 15:21:42,0094 [INFO] - Consultando peso entrega
+14-09-18 15:21:43,0276 [INFO] - Consultando área mesa
+14-09-18 15:21:43,0313 [INFO] - Aguardando 2 minutos
+14-09-18 15:22:47,0868 [INFO] - Consultando peso expedição
+14-09-18 15:22:49,0025 [INFO] - Consultando peso entrega
+14-09-18 15:22:50,0078 [INFO] - Consultando área mesa
+14-09-18 15:22:50,0133 [INFO] - Aguardando 2 minutos
+14-09-18 15:22:54,0096 [INFO] - Consultando peso expedição
+14-09-18 15:22:54,0212 [INFO] - Consultando peso expedição
+14-09-18 15:22:54,0231 [ERROR] - java.lang.NullPointerException
+14-09-18 15:22:54,0323 [ERROR] - java.lang.NullPointerException
+14-09-18 15:22:55,0231 [INFO] - Consultando peso entrega
+14-09-18 15:22:55,0270 [ERROR] - java.lang.NullPointerException
+14-09-18 15:22:55,0323 [INFO] - Consultando peso entrega
+14-09-18 15:22:55,0365 [ERROR] - java.lang.NullPointerException
+14-09-18 15:22:56,0271 [INFO] - Consultando área mesa
+14-09-18 15:22:56,0308 [ERROR] - java.lang.NullPointerException
+14-09-18 15:22:56,0308 [INFO] - Aguardando 2 minutos
+14-09-18 15:22:56,0365 [INFO] - Consultando área mesa
+14-09-18 15:22:56,0402 [ERROR] - java.lang.NullPointerException
+14-09-18 15:22:56,0402 [INFO] - Aguardando 2 minutos
+14-09-18 15:23:43,0307 [INFO] - Consultando peso expedição
+14-09-18 15:23:44,0435 [INFO] - Consultando peso entrega
+14-09-18 15:23:45,0476 [INFO] - Consultando área mesa
+14-09-18 15:23:45,0542 [INFO] - Aguardando 2 minutos
+14-09-18 15:24:50,0127 [INFO] - Consultando peso expedição
+14-09-18 15:24:51,0291 [INFO] - Consultando peso entrega
+14-09-18 15:24:52,0593 [INFO] - Consultando área mesa
+14-09-18 15:24:52,0694 [INFO] - Aguardando 2 minutos
+14-09-18 15:24:56,0303 [INFO] - Consultando peso expedição
+14-09-18 15:24:56,0397 [INFO] - Consultando peso expedição
+14-09-18 15:24:56,0413 [ERROR] - java.lang.NullPointerException
+14-09-18 15:24:56,0508 [ERROR] - java.lang.NullPointerException
+14-09-18 15:24:57,0413 [INFO] - Consultando peso entrega
+14-09-18 15:24:57,0450 [ERROR] - java.lang.NullPointerException
+14-09-18 15:24:57,0508 [INFO] - Consultando peso entrega
+14-09-18 15:24:57,0546 [ERROR] - java.lang.NullPointerException
+14-09-18 15:24:58,0451 [INFO] - Consultando área mesa
+14-09-18 15:24:58,0486 [ERROR] - java.lang.NullPointerException
+14-09-18 15:24:58,0487 [INFO] - Aguardando 2 minutos
+14-09-18 15:24:58,0546 [INFO] - Consultando área mesa
+14-09-18 15:24:58,0582 [ERROR] - java.lang.NullPointerException
+14-09-18 15:24:58,0582 [INFO] - Aguardando 2 minutos
+14-09-18 15:25:45,0536 [INFO] - Consultando peso expedição
+14-09-18 15:25:46,0706 [INFO] - Consultando peso entrega
+14-09-18 15:25:47,0907 [INFO] - Consultando área mesa
+14-09-18 15:25:48,0056 [INFO] - Aguardando 2 minutos
+14-09-18 15:26:52,0688 [INFO] - Consultando peso expedição
+14-09-18 15:26:54,0142 [INFO] - Consultando peso entrega
+14-09-18 15:26:55,0324 [INFO] - Consultando área mesa
+14-09-18 15:26:55,0375 [INFO] - Aguardando 2 minutos
+14-09-18 15:26:58,0481 [INFO] - Consultando peso expedição
+14-09-18 15:26:58,0576 [INFO] - Consultando peso expedição
+14-09-18 15:26:58,0816 [ERROR] - java.lang.NullPointerException
+14-09-18 15:26:58,0818 [ERROR] - java.lang.NullPointerException
+14-09-18 15:26:59,0816 [INFO] - Consultando peso entrega
+14-09-18 15:26:59,0819 [INFO] - Consultando peso entrega
+14-09-18 15:26:59,0857 [ERROR] - java.lang.NullPointerException
+14-09-18 15:26:59,0858 [ERROR] - java.lang.NullPointerException
+14-09-18 15:27:00,0857 [INFO] - Consultando área mesa
+14-09-18 15:27:00,0858 [INFO] - Consultando área mesa
+14-09-18 15:27:00,0899 [ERROR] - java.lang.NullPointerException
+14-09-18 15:27:00,0899 [ERROR] - java.lang.NullPointerException
+14-09-18 15:27:00,0899 [INFO] - Aguardando 2 minutos
+14-09-18 15:27:00,0900 [INFO] - Aguardando 2 minutos
+14-09-18 15:27:48,0051 [INFO] - Consultando peso expedição
+14-09-18 15:27:49,0458 [INFO] - Consultando peso entrega
+14-09-18 15:27:50,0499 [INFO] - Consultando área mesa
+14-09-18 15:27:50,0536 [INFO] - Aguardando 2 minutos
+14-09-18 15:28:55,0369 [INFO] - Consultando peso expedição
+14-09-18 15:28:56,0633 [INFO] - Consultando peso entrega
+14-09-18 15:28:57,0676 [INFO] - Consultando área mesa
+14-09-18 15:28:57,0716 [INFO] - Aguardando 2 minutos
+14-09-18 15:29:00,0894 [INFO] - Consultando peso expedição
+14-09-18 15:29:00,0894 [INFO] - Consultando peso expedição
+14-09-18 15:29:01,0058 [ERROR] - java.lang.NullPointerException
+14-09-18 15:29:01,0112 [ERROR] - java.lang.NullPointerException
+14-09-18 15:29:02,0058 [INFO] - Consultando peso entrega
+14-09-18 15:29:02,0099 [ERROR] - java.lang.NullPointerException
+14-09-18 15:29:02,0112 [INFO] - Consultando peso entrega
+14-09-18 15:29:02,0151 [ERROR] - java.lang.NullPointerException
+14-09-18 15:29:03,0099 [INFO] - Consultando área mesa
+14-09-18 15:29:03,0137 [ERROR] - java.lang.NullPointerException
+14-09-18 15:29:03,0137 [INFO] - Aguardando 2 minutos
+14-09-18 15:29:03,0151 [INFO] - Consultando área mesa
+14-09-18 15:29:03,0188 [ERROR] - java.lang.NullPointerException
+14-09-18 15:29:03,0189 [INFO] - Aguardando 2 minutos
+14-09-18 15:29:50,0531 [INFO] - Consultando peso expedição
+14-09-18 15:29:51,0718 [INFO] - Consultando peso entrega
+14-09-18 15:29:52,0758 [INFO] - Consultando área mesa
+14-09-18 15:29:52,0794 [INFO] - Aguardando 2 minutos
+14-09-18 15:30:57,0710 [INFO] - Consultando peso expedição
+14-09-18 15:30:57,0908 [INFO] - Atualizando o Peso para o Funcionario WILLIAN HENRIQUE CONCEICAO SOUZA, Setor EXPEDICAO, Peso 2651,62
+14-09-18 15:30:58,0909 [INFO] - Consultando peso entrega
+14-09-18 15:31:00,0238 [INFO] - Consultando área mesa
+14-09-18 15:31:00,0296 [INFO] - Atualizando a AreaCortada do Funcionario WESLEY GENILSON DOS SANTOS, Setor MESA PEQUENA, Area 124,30
+14-09-18 15:31:00,0296 [INFO] - Aguardando 2 minutos
+14-09-18 15:31:03,0131 [INFO] - Consultando peso expedição
+14-09-18 15:31:03,0183 [INFO] - Consultando peso expedição
+14-09-18 15:31:03,0471 [ERROR] - java.lang.NullPointerException
+14-09-18 15:31:03,0488 [ERROR] - java.lang.NullPointerException
+14-09-18 15:31:04,0471 [INFO] - Consultando peso entrega
+14-09-18 15:31:04,0488 [INFO] - Consultando peso entrega
+14-09-18 15:31:04,0511 [ERROR] - java.lang.NullPointerException
+14-09-18 15:31:04,0531 [ERROR] - java.lang.NullPointerException
+14-09-18 15:31:05,0511 [INFO] - Consultando área mesa
+14-09-18 15:31:05,0531 [INFO] - Consultando área mesa
+14-09-18 15:31:05,0547 [ERROR] - java.lang.NullPointerException
+14-09-18 15:31:05,0547 [INFO] - Aguardando 2 minutos
+14-09-18 15:31:05,0569 [ERROR] - java.lang.NullPointerException
+14-09-18 15:31:05,0569 [INFO] - Aguardando 2 minutos
+14-09-18 15:31:52,0788 [INFO] - Consultando peso expedição
+14-09-18 15:31:53,0999 [INFO] - Consultando peso entrega
+14-09-18 15:31:55,0171 [INFO] - Consultando área mesa
+14-09-18 15:31:55,0207 [INFO] - Aguardando 2 minutos
+14-09-18 15:33:00,0290 [INFO] - Consultando peso expedição
+14-09-18 15:33:01,0475 [INFO] - Consultando peso entrega
+14-09-18 15:33:02,0538 [INFO] - Consultando área mesa
+14-09-18 15:33:02,0575 [INFO] - Aguardando 2 minutos
+14-09-18 15:33:05,0541 [INFO] - Consultando peso expedição
+14-09-18 15:33:05,0563 [INFO] - Consultando peso expedição
+14-09-18 15:33:05,0815 [ERROR] - java.lang.NullPointerException
+14-09-18 15:33:05,0864 [ERROR] - java.lang.NullPointerException
+14-09-18 15:33:06,0815 [INFO] - Consultando peso entrega
+14-09-18 15:33:06,0854 [ERROR] - java.lang.NullPointerException
+14-09-18 15:33:06,0864 [INFO] - Consultando peso entrega
+14-09-18 15:33:06,0901 [ERROR] - java.lang.NullPointerException
+14-09-18 15:33:07,0854 [INFO] - Consultando área mesa
+14-09-18 15:33:07,0891 [ERROR] - java.lang.NullPointerException
+14-09-18 15:33:07,0891 [INFO] - Aguardando 2 minutos
+14-09-18 15:33:07,0901 [INFO] - Consultando área mesa
+14-09-18 15:33:07,0938 [ERROR] - java.lang.NullPointerException
+14-09-18 15:33:07,0938 [INFO] - Aguardando 2 minutos
+14-09-18 15:33:55,0201 [INFO] - Consultando peso expedição
+14-09-18 15:33:56,0338 [INFO] - Consultando peso entrega
+14-09-18 15:33:57,0415 [INFO] - Consultando área mesa
+14-09-18 15:33:57,0451 [INFO] - Aguardando 2 minutos
+14-09-18 15:35:02,0569 [INFO] - Consultando peso expedição
+14-09-18 15:35:03,0872 [INFO] - Consultando peso entrega
+14-09-18 15:35:04,0912 [INFO] - Consultando área mesa
+14-09-18 15:35:04,0947 [INFO] - Aguardando 2 minutos
+14-09-18 15:35:07,0885 [INFO] - Consultando peso expedição
+14-09-18 15:35:07,0932 [INFO] - Consultando peso expedição
+14-09-18 15:35:08,0007 [ERROR] - java.lang.NullPointerException
+14-09-18 15:35:08,0081 [ERROR] - java.lang.NullPointerException
+14-09-18 15:35:09,0007 [INFO] - Consultando peso entrega
+14-09-18 15:35:09,0046 [ERROR] - java.lang.NullPointerException
+14-09-18 15:35:09,0082 [INFO] - Consultando peso entrega
+14-09-18 15:35:09,0121 [ERROR] - java.lang.NullPointerException
+14-09-18 15:35:10,0047 [INFO] - Consultando área mesa
+14-09-18 15:35:10,0085 [ERROR] - java.lang.NullPointerException
+14-09-18 15:35:10,0085 [INFO] - Aguardando 2 minutos
+14-09-18 15:35:10,0121 [INFO] - Consultando área mesa
+14-09-18 15:35:10,0158 [ERROR] - java.lang.NullPointerException
+14-09-18 15:35:10,0158 [INFO] - Aguardando 2 minutos
+14-09-18 15:35:57,0445 [INFO] - Consultando peso expedição
+14-09-18 15:35:58,0586 [INFO] - Consultando peso entrega
+14-09-18 15:35:59,0777 [INFO] - Consultando área mesa
+14-09-18 15:35:59,0814 [INFO] - Aguardando 2 minutos
+14-09-18 15:37:04,0941 [INFO] - Consultando peso expedição
+14-09-18 15:37:06,0079 [INFO] - Consultando peso entrega
+14-09-18 15:37:07,0246 [INFO] - Consultando área mesa
+14-09-18 15:37:07,0283 [INFO] - Aguardando 2 minutos
+14-09-18 15:37:10,0079 [INFO] - Consultando peso expedição
+14-09-18 15:37:10,0152 [INFO] - Consultando peso expedição
+14-09-18 15:37:10,0229 [ERROR] - java.lang.NullPointerException
+14-09-18 15:37:10,0303 [ERROR] - java.lang.NullPointerException
+14-09-18 15:37:11,0229 [INFO] - Consultando peso entrega
+14-09-18 15:37:11,0268 [ERROR] - java.lang.NullPointerException
+14-09-18 15:37:11,0303 [INFO] - Consultando peso entrega
+14-09-18 15:37:11,0342 [ERROR] - java.lang.NullPointerException
+14-09-18 15:37:12,0268 [INFO] - Consultando área mesa
+14-09-18 15:37:12,0307 [ERROR] - java.lang.NullPointerException
+14-09-18 15:37:12,0308 [INFO] - Aguardando 2 minutos
+14-09-18 15:37:12,0342 [INFO] - Consultando área mesa
+14-09-18 15:37:12,0380 [ERROR] - java.lang.NullPointerException
+14-09-18 15:37:12,0381 [INFO] - Aguardando 2 minutos
+14-09-18 15:37:59,0808 [INFO] - Consultando peso expedição
+14-09-18 15:38:00,0955 [INFO] - Consultando peso entrega
+14-09-18 15:38:01,0996 [INFO] - Consultando área mesa
+14-09-18 15:38:02,0033 [INFO] - Aguardando 2 minutos
+14-09-18 15:39:07,0277 [INFO] - Consultando peso expedição
+14-09-18 15:39:08,0416 [INFO] - Consultando peso entrega
+14-09-18 15:39:09,0458 [INFO] - Consultando área mesa
+14-09-18 15:39:09,0494 [INFO] - Aguardando 2 minutos
+14-09-18 15:39:12,0302 [INFO] - Consultando peso expedição
+14-09-18 15:39:12,0375 [INFO] - Consultando peso expedição
+14-09-18 15:39:12,0589 [ERROR] - java.lang.NullPointerException
+14-09-18 15:39:12,0642 [ERROR] - java.lang.NullPointerException
+14-09-18 15:39:13,0590 [INFO] - Consultando peso entrega
+14-09-18 15:39:13,0628 [ERROR] - java.lang.NullPointerException
+14-09-18 15:39:13,0643 [INFO] - Consultando peso entrega
+14-09-18 15:39:13,0683 [ERROR] - java.lang.NullPointerException
+14-09-18 15:39:14,0628 [INFO] - Consultando área mesa
+14-09-18 15:39:14,0683 [INFO] - Consultando área mesa
+14-09-18 15:39:14,0704 [INFO] - Atualizando a AreaCortada do Funcionario WESLEY GENILSON DOS SANTOS, Setor MESA PEQUENA, Area 139,71
+14-09-18 15:39:14,0704 [INFO] - Aguardando 2 minutos
+14-09-18 15:39:14,0718 [ERROR] - java.lang.NullPointerException
+14-09-18 15:39:14,0719 [INFO] - Aguardando 2 minutos
+14-09-18 15:40:02,0027 [INFO] - Consultando peso expedição
+14-09-18 15:40:03,0297 [INFO] - Consultando peso entrega
+14-09-18 15:40:04,0349 [INFO] - Consultando área mesa
+14-09-18 15:40:04,0402 [INFO] - Aguardando 2 minutos
+14-09-18 15:41:09,0496 [INFO] - Consultando peso expedição
+14-09-18 15:41:10,0728 [INFO] - Consultando peso entrega
+14-09-18 15:41:11,0910 [INFO] - Consultando área mesa
+14-09-18 15:41:11,0969 [INFO] - Aguardando 2 minutos
+14-09-18 15:41:14,0698 [INFO] - Consultando peso expedição
+14-09-18 15:41:14,0713 [INFO] - Consultando peso expedição
+14-09-18 15:41:14,0884 [ERROR] - java.lang.NullPointerException
+14-09-18 15:41:14,0930 [ERROR] - java.lang.NullPointerException
+14-09-18 15:41:15,0885 [INFO] - Consultando peso entrega
+14-09-18 15:41:15,0930 [INFO] - Consultando peso entrega
+14-09-18 15:41:16,0940 [ERROR] - java.lang.NullPointerException
+14-09-18 15:41:16,0940 [ERROR] - java.lang.NullPointerException
+14-09-18 15:41:17,0940 [INFO] - Consultando área mesa
+14-09-18 15:41:17,0940 [INFO] - Consultando área mesa
+14-09-18 15:41:18,0003 [ERROR] - java.lang.NullPointerException
+14-09-18 15:41:18,0003 [ERROR] - java.lang.NullPointerException
+14-09-18 15:41:18,0003 [INFO] - Aguardando 2 minutos
+14-09-18 15:41:18,0003 [INFO] - Aguardando 2 minutos
+14-09-18 15:42:04,0396 [INFO] - Consultando peso expedição
+14-09-18 15:42:05,0514 [INFO] - Consultando peso entrega
+14-09-18 15:42:06,0569 [INFO] - Consultando área mesa
+14-09-18 15:42:06,0607 [INFO] - Aguardando 2 minutos
+14-09-18 15:43:11,0963 [INFO] - Consultando peso expedição
+14-09-18 15:43:13,0093 [INFO] - Consultando peso entrega
+14-09-18 15:43:14,0138 [INFO] - Consultando área mesa
+14-09-18 15:43:14,0175 [INFO] - Aguardando 2 minutos
+14-09-18 15:43:17,0997 [INFO] - Consultando peso expedição
+14-09-18 15:43:17,0997 [INFO] - Consultando peso expedição
+14-09-18 15:43:18,0243 [ERROR] - java.lang.NullPointerException
+14-09-18 15:43:18,0260 [ERROR] - java.lang.NullPointerException
+14-09-18 15:43:19,0243 [INFO] - Consultando peso entrega
+14-09-18 15:43:19,0260 [INFO] - Consultando peso entrega
+14-09-18 15:43:19,0282 [ERROR] - java.lang.NullPointerException
+14-09-18 15:43:19,0301 [ERROR] - java.lang.NullPointerException
+14-09-18 15:43:20,0282 [INFO] - Consultando área mesa
+14-09-18 15:43:20,0301 [INFO] - Consultando área mesa
+14-09-18 15:43:20,0321 [ERROR] - java.lang.NullPointerException
+14-09-18 15:43:20,0321 [INFO] - Aguardando 2 minutos
+14-09-18 15:43:20,0338 [ERROR] - java.lang.NullPointerException
+14-09-18 15:43:20,0339 [INFO] - Aguardando 2 minutos
+14-09-18 15:44:06,0601 [INFO] - Consultando peso expedição
+14-09-18 15:44:07,0733 [INFO] - Consultando peso entrega
+14-09-18 15:44:08,0774 [INFO] - Consultando área mesa
+14-09-18 15:44:08,0824 [INFO] - Aguardando 2 minutos
+14-09-18 15:45:14,0170 [INFO] - Consultando peso expedição
+14-09-18 15:45:15,0298 [INFO] - Consultando peso entrega
+14-09-18 15:45:16,0339 [INFO] - Consultando área mesa
+14-09-18 15:45:16,0413 [INFO] - Atualizando a AreaCortada do Funcionario WESLEY GENILSON DOS SANTOS, Setor MESA PEQUENA, Area 143,56
+14-09-18 15:45:16,0414 [INFO] - Aguardando 2 minutos
+14-09-18 15:45:20,0315 [INFO] - Consultando peso expedição
+14-09-18 15:45:20,0333 [INFO] - Consultando peso expedição
+14-09-18 15:45:20,0516 [ERROR] - java.lang.NullPointerException
+14-09-18 15:45:20,0533 [ERROR] - java.lang.NullPointerException
+14-09-18 15:45:21,0516 [INFO] - Consultando peso entrega
+14-09-18 15:45:21,0533 [INFO] - Consultando peso entrega
+14-09-18 15:45:21,0556 [ERROR] - java.lang.NullPointerException
+14-09-18 15:45:21,0574 [ERROR] - java.lang.NullPointerException
+14-09-18 15:45:22,0557 [INFO] - Consultando área mesa
+14-09-18 15:45:22,0574 [INFO] - Consultando área mesa
+14-09-18 15:45:22,0672 [ERROR] - java.lang.NullPointerException
+14-09-18 15:45:22,0672 [INFO] - Aguardando 2 minutos
+14-09-18 15:45:22,0673 [ERROR] - java.lang.NullPointerException
+14-09-18 15:45:22,0673 [INFO] - Aguardando 2 minutos
+14-09-18 15:46:08,0818 [INFO] - Consultando peso expedição
+14-09-18 15:46:10,0014 [INFO] - Consultando peso entrega
+14-09-18 15:46:11,0208 [INFO] - Consultando área mesa
+14-09-18 15:46:11,0244 [INFO] - Aguardando 2 minutos
+14-09-18 15:47:16,0408 [INFO] - Consultando peso expedição
+14-09-18 15:47:17,0569 [INFO] - Consultando peso entrega
+14-09-18 15:47:18,0752 [INFO] - Consultando área mesa
+14-09-18 15:47:18,0788 [INFO] - Aguardando 2 minutos
+14-09-18 15:47:22,0666 [INFO] - Consultando peso expedição
+14-09-18 15:47:22,0667 [INFO] - Consultando peso expedição
+14-09-18 15:47:22,0826 [ERROR] - java.lang.NullPointerException
+14-09-18 15:47:22,0992 [ERROR] - java.lang.NullPointerException
+14-09-18 15:47:23,0827 [INFO] - Consultando peso entrega
+14-09-18 15:47:23,0865 [ERROR] - java.lang.NullPointerException
+14-09-18 15:47:23,0992 [INFO] - Consultando peso entrega
+14-09-18 15:47:24,0029 [ERROR] - java.lang.NullPointerException
+14-09-18 15:47:24,0865 [INFO] - Consultando área mesa
+14-09-18 15:47:24,0905 [ERROR] - java.lang.NullPointerException
+14-09-18 15:47:24,0905 [INFO] - Aguardando 2 minutos
+14-09-18 15:47:25,0029 [INFO] - Consultando área mesa
+14-09-18 15:47:25,0065 [ERROR] - java.lang.NullPointerException
+14-09-18 15:47:25,0065 [INFO] - Aguardando 2 minutos
+14-09-18 15:48:11,0261 [INFO] - Consultando peso expedição
+14-09-18 15:48:12,0432 [INFO] - Consultando peso entrega
+14-09-18 15:48:13,0475 [INFO] - Consultando área mesa
+14-09-18 15:48:13,0530 [INFO] - Aguardando 2 minutos
+14-09-18 15:49:18,0782 [INFO] - Consultando peso expedição
+14-09-18 15:49:18,0903 [INFO] - Atualizando o Peso para o Funcionario LEANDRO RODRIGUES DA SILVA TAVARES, Setor EXPEDICAO, Peso 4280,03
+14-09-18 15:49:18,0907 [INFO] - Atualizando o Peso para o Funcionario WILLIAN HENRIQUE CONCEICAO SOUZA, Setor EXPEDICAO, Peso 2680,51
+14-09-18 15:49:19,0907 [INFO] - Consultando peso entrega
+14-09-18 15:49:20,0952 [INFO] - Consultando área mesa
+14-09-18 15:49:20,0989 [INFO] - Aguardando 2 minutos
+14-09-18 15:49:24,0899 [INFO] - Consultando peso expedição
+14-09-18 15:49:25,0053 [ERROR] - java.lang.NullPointerException
+14-09-18 15:49:25,0060 [INFO] - Consultando peso expedição
+14-09-18 15:49:25,0266 [ERROR] - java.lang.NullPointerException
+14-09-18 15:49:26,0053 [INFO] - Consultando peso entrega
+14-09-18 15:49:26,0115 [ERROR] - java.lang.NullPointerException
+14-09-18 15:49:26,0266 [INFO] - Consultando peso entrega
+14-09-18 15:49:26,0304 [ERROR] - java.lang.NullPointerException
+14-09-18 15:49:27,0115 [INFO] - Consultando área mesa
+14-09-18 15:49:27,0151 [ERROR] - java.lang.NullPointerException
+14-09-18 15:49:27,0152 [INFO] - Aguardando 2 minutos
+14-09-18 15:49:27,0304 [INFO] - Consultando área mesa
+14-09-18 15:49:27,0340 [ERROR] - java.lang.NullPointerException
+14-09-18 15:49:27,0341 [INFO] - Aguardando 2 minutos
+14-09-18 15:50:13,0524 [INFO] - Consultando peso expedição
+14-09-18 15:50:14,0789 [INFO] - Consultando peso entrega
+14-09-18 15:50:15,0843 [INFO] - Consultando área mesa
+14-09-18 15:50:15,0881 [INFO] - Aguardando 2 minutos
+14-09-18 15:51:20,0984 [INFO] - Consultando peso expedição
+14-09-18 15:51:22,0123 [INFO] - Consultando peso entrega
+14-09-18 15:51:23,0308 [INFO] - Consultando área mesa
+14-09-18 15:51:23,0349 [INFO] - Aguardando 2 minutos
+14-09-18 15:51:27,0146 [INFO] - Consultando peso expedição
+14-09-18 15:51:27,0272 [ERROR] - java.lang.NullPointerException
+14-09-18 15:51:27,0335 [INFO] - Consultando peso expedição
+14-09-18 15:51:27,0504 [ERROR] - java.lang.NullPointerException
+14-09-18 15:51:28,0272 [INFO] - Consultando peso entrega
+14-09-18 15:51:28,0311 [ERROR] - java.lang.NullPointerException
+14-09-18 15:51:28,0504 [INFO] - Consultando peso entrega
+14-09-18 15:51:28,0543 [ERROR] - java.lang.NullPointerException
+14-09-18 15:51:29,0312 [INFO] - Consultando área mesa
+14-09-18 15:51:29,0348 [ERROR] - java.lang.NullPointerException
+14-09-18 15:51:29,0348 [INFO] - Aguardando 2 minutos
+14-09-18 15:51:29,0543 [INFO] - Consultando área mesa
+14-09-18 15:51:29,0580 [ERROR] - java.lang.NullPointerException
+14-09-18 15:51:29,0580 [INFO] - Aguardando 2 minutos
+14-09-18 15:52:15,0875 [INFO] - Consultando peso expedição
+14-09-18 15:52:17,0168 [INFO] - Consultando peso entrega
+14-09-18 15:52:18,0209 [INFO] - Consultando área mesa
+14-09-18 15:52:18,0246 [INFO] - Aguardando 2 minutos
+14-09-18 15:53:23,0343 [INFO] - Consultando peso expedição
+14-09-18 15:53:24,0459 [INFO] - Consultando peso entrega
+14-09-18 15:53:25,0500 [INFO] - Consultando área mesa
+14-09-18 15:53:25,0538 [INFO] - Aguardando 2 minutos
+14-09-18 15:53:29,0342 [INFO] - Consultando peso expedição
+14-09-18 15:53:29,0468 [ERROR] - java.lang.NullPointerException
+14-09-18 15:53:29,0574 [INFO] - Consultando peso expedição
+14-09-18 15:53:29,0871 [ERROR] - java.lang.NullPointerException
+14-09-18 15:53:30,0468 [INFO] - Consultando peso entrega
+14-09-18 15:53:30,0506 [ERROR] - java.lang.NullPointerException
+14-09-18 15:53:30,0871 [INFO] - Consultando peso entrega
+14-09-18 15:53:30,0910 [ERROR] - java.lang.NullPointerException
+14-09-18 15:53:31,0507 [INFO] - Consultando área mesa
+14-09-18 15:53:31,0546 [ERROR] - java.lang.NullPointerException
+14-09-18 15:53:31,0546 [INFO] - Aguardando 2 minutos
+14-09-18 15:53:31,0910 [INFO] - Consultando área mesa
+14-09-18 15:53:31,0946 [ERROR] - java.lang.NullPointerException
+14-09-18 15:53:31,0946 [INFO] - Aguardando 2 minutos
+14-09-18 15:54:18,0240 [INFO] - Consultando peso expedição
+14-09-18 15:54:19,0412 [INFO] - Consultando peso entrega
+14-09-18 15:54:20,0485 [INFO] - Consultando área mesa
+14-09-18 15:54:20,0526 [INFO] - Aguardando 2 minutos
+14-09-18 15:55:25,0532 [INFO] - Consultando peso expedição
+14-09-18 15:55:26,0696 [INFO] - Consultando peso entrega
+14-09-18 15:55:27,0736 [INFO] - Consultando área mesa
+14-09-18 15:55:27,0773 [INFO] - Aguardando 2 minutos
+14-09-18 15:55:31,0541 [INFO] - Consultando peso expedição
+14-09-18 15:55:31,0655 [ERROR] - java.lang.NullPointerException
+14-09-18 15:55:31,0940 [INFO] - Consultando peso expedição
+14-09-18 15:55:32,0059 [ERROR] - java.lang.NullPointerException
+14-09-18 15:55:32,0655 [INFO] - Consultando peso entrega
+14-09-18 15:55:32,0851 [ERROR] - java.lang.NullPointerException
+14-09-18 15:55:33,0142 [INFO] - Consultando peso entrega
+14-09-18 15:55:33,0182 [ERROR] - java.lang.NullPointerException
+14-09-18 15:55:33,0851 [INFO] - Consultando área mesa
+14-09-18 15:55:33,0910 [ERROR] - java.lang.NullPointerException
+14-09-18 15:55:33,0911 [INFO] - Aguardando 2 minutos
+14-09-18 15:55:34,0182 [INFO] - Consultando área mesa
+14-09-18 15:55:34,0220 [ERROR] - java.lang.NullPointerException
+14-09-18 15:55:34,0220 [INFO] - Aguardando 2 minutos
+14-09-18 15:56:20,0520 [INFO] - Consultando peso expedição
+14-09-18 15:56:21,0806 [INFO] - Consultando peso entrega
+14-09-18 15:56:22,0989 [INFO] - Consultando área mesa
+14-09-18 15:56:23,0026 [INFO] - Aguardando 2 minutos
+14-09-18 15:57:27,0767 [INFO] - Consultando peso expedição
+14-09-18 15:57:28,0957 [INFO] - Consultando peso entrega
+14-09-18 15:57:29,0996 [INFO] - Consultando área mesa
+14-09-18 15:57:30,0031 [INFO] - Aguardando 2 minutos
+14-09-18 15:57:33,0905 [INFO] - Consultando peso expedição
+14-09-18 15:57:34,0099 [ERROR] - java.lang.NullPointerException
+14-09-18 15:57:34,0214 [INFO] - Consultando peso expedição
+14-09-18 15:57:34,0340 [ERROR] - java.lang.NullPointerException
+14-09-18 15:57:35,0099 [INFO] - Consultando peso entrega
+14-09-18 15:57:35,0340 [INFO] - Consultando peso entrega
+14-09-18 15:57:35,0379 [ERROR] - java.lang.NullPointerException
+14-09-18 15:57:35,0381 [ERROR] - java.lang.NullPointerException
+14-09-18 15:57:36,0380 [INFO] - Consultando área mesa
+14-09-18 15:57:36,0382 [INFO] - Consultando área mesa
+14-09-18 15:57:36,0419 [ERROR] - java.lang.NullPointerException
+14-09-18 15:57:36,0419 [INFO] - Aguardando 2 minutos
+14-09-18 15:57:36,0430 [ERROR] - java.lang.NullPointerException
+14-09-18 15:57:36,0430 [INFO] - Aguardando 2 minutos
+14-09-18 15:58:23,0020 [INFO] - Consultando peso expedição
+14-09-18 15:58:24,0136 [INFO] - Consultando peso entrega
+14-09-18 15:58:25,0177 [INFO] - Consultando área mesa
+14-09-18 15:58:25,0213 [INFO] - Aguardando 2 minutos
+14-09-18 15:59:30,0025 [INFO] - Consultando peso expedição
+14-09-18 15:59:31,0174 [INFO] - Consultando peso entrega
+14-09-18 15:59:32,0217 [INFO] - Consultando área mesa
+14-09-18 15:59:32,0254 [INFO] - Aguardando 2 minutos
+14-09-18 15:59:36,0413 [INFO] - Consultando peso expedição
+14-09-18 15:59:36,0424 [INFO] - Consultando peso expedição
+14-09-18 15:59:36,0622 [ERROR] - java.lang.NullPointerException
+14-09-18 15:59:36,0661 [ERROR] - java.lang.NullPointerException
+14-09-18 15:59:37,0622 [INFO] - Consultando peso entrega
+14-09-18 15:59:37,0662 [INFO] - Consultando peso entrega
+14-09-18 15:59:37,0665 [ERROR] - java.lang.NullPointerException
+14-09-18 15:59:37,0700 [ERROR] - java.lang.NullPointerException
+14-09-18 15:59:38,0665 [INFO] - Consultando área mesa
+14-09-18 15:59:38,0700 [INFO] - Consultando área mesa
+14-09-18 15:59:38,0704 [ERROR] - java.lang.NullPointerException
+14-09-18 15:59:38,0704 [INFO] - Aguardando 2 minutos
+14-09-18 15:59:38,0744 [ERROR] - java.lang.NullPointerException
+14-09-18 15:59:38,0744 [INFO] - Aguardando 2 minutos
+14-09-18 16:00:25,0208 [INFO] - Consultando peso expedição
+14-09-18 16:00:26,0425 [INFO] - Consultando peso entrega
+14-09-18 16:00:27,0494 [INFO] - Consultando área mesa
+14-09-18 16:00:27,0528 [INFO] - Aguardando 2 minutos
+14-09-18 16:01:32,0248 [INFO] - Consultando peso expedição
+14-09-18 16:01:33,0404 [INFO] - Consultando peso entrega
+14-09-18 16:01:34,0903 [INFO] - Consultando área mesa
+14-09-18 16:01:34,0939 [INFO] - Aguardando 2 minutos
+14-09-18 16:01:38,0698 [INFO] - Consultando peso expedição
+14-09-18 16:01:38,0738 [INFO] - Consultando peso expedição
+14-09-18 16:01:38,0901 [ERROR] - java.lang.NullPointerException
+14-09-18 16:01:38,0976 [ERROR] - java.lang.NullPointerException
+14-09-18 16:01:39,0902 [INFO] - Consultando peso entrega
+14-09-18 16:01:39,0940 [ERROR] - java.lang.NullPointerException
+14-09-18 16:01:39,0976 [INFO] - Consultando peso entrega
+14-09-18 16:01:40,0013 [ERROR] - java.lang.NullPointerException
+14-09-18 16:01:40,0940 [INFO] - Consultando área mesa
+14-09-18 16:01:40,0976 [ERROR] - java.lang.NullPointerException
+14-09-18 16:01:40,0977 [INFO] - Aguardando 2 minutos
+14-09-18 16:01:41,0013 [INFO] - Consultando área mesa
+14-09-18 16:01:41,0051 [ERROR] - java.lang.NullPointerException
+14-09-18 16:01:41,0051 [INFO] - Aguardando 2 minutos
+14-09-18 16:02:27,0523 [INFO] - Consultando peso expedição
+14-09-18 16:02:28,0674 [INFO] - Consultando peso entrega
+14-09-18 16:02:29,0712 [INFO] - Consultando área mesa
+14-09-18 16:02:29,0747 [INFO] - Aguardando 2 minutos
+14-09-18 16:03:34,0933 [INFO] - Consultando peso expedição
+14-09-18 16:03:36,0179 [INFO] - Consultando peso entrega
+14-09-18 16:03:37,0219 [INFO] - Consultando área mesa
+14-09-18 16:03:37,0256 [INFO] - Aguardando 2 minutos
+14-09-18 16:03:40,0971 [INFO] - Consultando peso expedição
+14-09-18 16:03:41,0045 [INFO] - Consultando peso expedição
+14-09-18 16:03:41,0419 [ERROR] - java.lang.NullPointerException
+14-09-18 16:03:41,0419 [ERROR] - java.lang.NullPointerException
+14-09-18 16:03:42,0419 [INFO] - Consultando peso entrega
+14-09-18 16:03:42,0419 [INFO] - Consultando peso entrega
+14-09-18 16:03:42,0465 [ERROR] - java.lang.NullPointerException
+14-09-18 16:03:42,0466 [ERROR] - java.lang.NullPointerException
+14-09-18 16:03:43,0465 [INFO] - Consultando área mesa
+14-09-18 16:03:43,0466 [INFO] - Consultando área mesa
+14-09-18 16:03:43,0512 [ERROR] - java.lang.NullPointerException
+14-09-18 16:03:43,0512 [ERROR] - java.lang.NullPointerException
+14-09-18 16:03:43,0512 [INFO] - Aguardando 2 minutos
+14-09-18 16:03:43,0512 [INFO] - Aguardando 2 minutos
+14-09-18 16:04:29,0742 [INFO] - Consultando peso expedição
+14-09-18 16:04:31,0017 [INFO] - Consultando peso entrega
+14-09-18 16:04:32,0058 [INFO] - Consultando área mesa
+14-09-18 16:04:32,0096 [INFO] - Aguardando 2 minutos
+14-09-18 16:05:37,0250 [INFO] - Consultando peso expedição
+14-09-18 16:05:38,0456 [INFO] - Consultando peso entrega
+14-09-18 16:05:40,0236 [INFO] - Consultando área mesa
+14-09-18 16:05:40,0293 [INFO] - Aguardando 2 minutos
+14-09-18 16:05:43,0506 [INFO] - Consultando peso expedição
+14-09-18 16:05:43,0506 [INFO] - Consultando peso expedição
+14-09-18 16:05:43,0657 [ERROR] - java.lang.NullPointerException
+14-09-18 16:05:43,0731 [ERROR] - java.lang.NullPointerException
+14-09-18 16:05:44,0657 [INFO] - Consultando peso entrega
+14-09-18 16:05:44,0695 [ERROR] - java.lang.NullPointerException
+14-09-18 16:05:44,0731 [INFO] - Consultando peso entrega
+14-09-18 16:05:44,0769 [ERROR] - java.lang.NullPointerException
+14-09-18 16:05:45,0695 [INFO] - Consultando área mesa
+14-09-18 16:05:45,0733 [ERROR] - java.lang.NullPointerException
+14-09-18 16:05:45,0733 [INFO] - Aguardando 2 minutos
+14-09-18 16:05:45,0769 [INFO] - Consultando área mesa
+14-09-18 16:05:45,0805 [ERROR] - java.lang.NullPointerException
+14-09-18 16:05:45,0805 [INFO] - Aguardando 2 minutos
+14-09-18 16:06:32,0103 [INFO] - Consultando peso expedição
+14-09-18 16:06:33,0548 [INFO] - Consultando peso entrega
+14-09-18 16:06:34,0588 [INFO] - Consultando área mesa
+14-09-18 16:06:34,0624 [INFO] - Aguardando 2 minutos
+14-09-18 16:07:40,0329 [INFO] - Consultando peso expedição
+14-09-18 16:07:41,0593 [INFO] - Consultando peso entrega
+14-09-18 16:07:42,0636 [INFO] - Consultando área mesa
+14-09-18 16:07:42,0672 [INFO] - Aguardando 2 minutos
+14-09-18 16:07:45,0770 [INFO] - Consultando peso expedição
+14-09-18 16:07:45,0842 [INFO] - Consultando peso expedição
+14-09-18 16:07:45,0895 [ERROR] - java.lang.NullPointerException
+14-09-18 16:07:45,0970 [ERROR] - java.lang.NullPointerException
+14-09-18 16:07:46,0895 [INFO] - Consultando peso entrega
+14-09-18 16:07:46,0934 [ERROR] - java.lang.NullPointerException
+14-09-18 16:07:46,0971 [INFO] - Consultando peso entrega
+14-09-18 16:07:47,0008 [ERROR] - java.lang.NullPointerException
+14-09-18 16:07:47,0935 [INFO] - Consultando área mesa
+14-09-18 16:07:47,0971 [ERROR] - java.lang.NullPointerException
+14-09-18 16:07:47,0972 [INFO] - Aguardando 2 minutos
+14-09-18 16:07:48,0009 [INFO] - Consultando área mesa
+14-09-18 16:07:48,0046 [ERROR] - java.lang.NullPointerException
+14-09-18 16:07:48,0046 [INFO] - Aguardando 2 minutos
+14-09-18 16:08:34,0667 [INFO] - Consultando peso expedição
+14-09-18 16:08:35,0851 [INFO] - Consultando peso entrega
+14-09-18 16:08:37,0016 [INFO] - Consultando área mesa
+14-09-18 16:08:37,0053 [INFO] - Aguardando 2 minutos
+14-09-18 16:09:42,0715 [INFO] - Consultando peso expedição
+14-09-18 16:09:43,0982 [INFO] - Consultando peso entrega
+14-09-18 16:09:45,0023 [INFO] - Consultando área mesa
+14-09-18 16:09:45,0062 [INFO] - Aguardando 2 minutos
+14-09-18 16:09:48,0014 [INFO] - Consultando peso expedição
+14-09-18 16:09:48,0088 [INFO] - Consultando peso expedição
+14-09-18 16:09:48,0169 [ERROR] - java.lang.NullPointerException
+14-09-18 16:09:49,0169 [INFO] - Consultando peso entrega
+14-09-18 16:09:49,0226 [ERROR] - java.lang.NullPointerException
+14-09-18 16:09:50,0227 [INFO] - Consultando área mesa
+14-09-18 16:09:50,0265 [ERROR] - java.lang.NullPointerException
+14-09-18 16:09:50,0265 [INFO] - Aguardando 2 minutos
+14-09-18 16:10:00,0076 [ERROR] - java.lang.NullPointerException
+14-09-18 16:10:01,0077 [INFO] - Consultando peso entrega
+14-09-18 16:10:01,0114 [ERROR] - java.lang.NullPointerException
+14-09-18 16:10:02,0114 [INFO] - Consultando área mesa
+14-09-18 16:10:02,0149 [ERROR] - java.lang.NullPointerException
+14-09-18 16:10:02,0149 [INFO] - Aguardando 2 minutos
+14-09-18 16:10:37,0096 [INFO] - Consultando peso expedição
+14-09-18 16:10:37,0363 [INFO] - Atualizando o Peso para o Funcionario FIDELCI SOUZA LIMA, Setor EXPEDICAO VPE, Peso 99,14
+14-09-18 16:10:38,0368 [INFO] - Consultando peso entrega
+14-09-18 16:10:39,0408 [INFO] - Consultando área mesa
+14-09-18 16:10:39,0444 [INFO] - Aguardando 2 minutos
+14-09-18 16:11:45,0094 [INFO] - Consultando peso expedição
+14-09-18 16:11:46,0277 [INFO] - Consultando peso entrega
+14-09-18 16:11:47,0482 [INFO] - Consultando área mesa
+14-09-18 16:11:47,0518 [INFO] - Aguardando 2 minutos
+14-09-18 16:11:50,0296 [INFO] - Consultando peso expedição
+14-09-18 16:11:50,0506 [ERROR] - java.lang.NullPointerException
+14-09-18 16:11:51,0506 [INFO] - Consultando peso entrega
+14-09-18 16:11:51,0547 [ERROR] - java.lang.NullPointerException
+14-09-18 16:11:52,0548 [INFO] - Consultando área mesa
+14-09-18 16:11:52,0585 [ERROR] - java.lang.NullPointerException
+14-09-18 16:11:52,0585 [INFO] - Aguardando 2 minutos
+14-09-18 16:12:02,0179 [INFO] - Consultando peso expedição
+14-09-18 16:12:02,0326 [ERROR] - java.lang.NullPointerException
+14-09-18 16:12:03,0326 [INFO] - Consultando peso entrega
+14-09-18 16:12:03,0363 [ERROR] - java.lang.NullPointerException
+14-09-18 16:12:04,0363 [INFO] - Consultando área mesa
+14-09-18 16:12:04,0398 [ERROR] - java.lang.NullPointerException
+14-09-18 16:12:04,0398 [INFO] - Aguardando 2 minutos
+14-09-18 16:13:47,0537 [INFO] - Consultando peso expedição
+14-09-18 16:13:48,0681 [INFO] - Consultando peso entrega
+14-09-18 16:13:49,0776 [INFO] - Consultando área mesa
+14-09-18 16:13:49,0834 [INFO] - Aguardando 2 minutos
+14-09-18 16:13:52,0603 [INFO] - Consultando peso expedição
+14-09-18 16:13:52,0753 [ERROR] - java.lang.NullPointerException
+14-09-18 16:13:53,0753 [INFO] - Consultando peso entrega
+14-09-18 16:13:53,0791 [ERROR] - java.lang.NullPointerException
+14-09-18 16:13:54,0791 [INFO] - Consultando área mesa
+14-09-18 16:13:54,0827 [ERROR] - java.lang.NullPointerException
+14-09-18 16:13:54,0827 [INFO] - Aguardando 2 minutos
+14-09-18 16:14:04,0416 [INFO] - Consultando peso expedição
+14-09-18 16:14:06,0151 [ERROR] - java.lang.NullPointerException
+14-09-18 16:14:07,0152 [INFO] - Consultando peso entrega
+14-09-18 16:14:07,0191 [ERROR] - java.lang.NullPointerException
+14-09-18 16:14:08,0191 [INFO] - Consultando área mesa
+14-09-18 16:14:08,0227 [ERROR] - java.lang.NullPointerException
+14-09-18 16:14:08,0227 [INFO] - Aguardando 2 minutos
+21-09-18 10:00:46,0835 [INFO] - Iniciando Repetidor
+21-09-18 10:00:46,0847 [INFO] - Consultando peso expedição
+21-09-18 10:00:48,0141 [INFO] - Consultando peso entrega
+21-09-18 10:00:48,0184 [INFO] - Consultando área mesa
+21-09-18 10:00:48,0233 [INFO] - Aguardando 2 minutos
+21-09-18 10:00:48,0233 [WARN] - Faltam 0 minutos para as 8 horas de amanha
+21-09-18 10:01:52,0425 [INFO] - Iniciando Repetidor
+21-09-18 10:01:52,0432 [INFO] - Consultando peso expedição
+21-09-18 10:01:52,0934 [INFO] - Consultando peso entrega
+21-09-18 10:01:52,0976 [INFO] - Consultando área mesa
+21-09-18 10:01:53,0017 [INFO] - Aguardando 2 minutos
+21-09-18 10:01:53,0018 [WARN] - Faltam 1 milisegundos para as 8 horas de amanha
+21-09-18 10:03:08,0378 [INFO] - Iniciando Repetidor
+21-09-18 10:03:08,0384 [INFO] - Consultando peso expedição
+21-09-18 10:03:08,0817 [INFO] - Consultando peso entrega
+21-09-18 10:03:08,0859 [INFO] - Consultando área mesa
+21-09-18 10:03:08,0906 [INFO] - Aguardando 2 minutos
+21-09-18 10:03:08,0907 [WARN] - Faltam 1316 minutos para as 8 horas de amanha
+21-09-18 10:05:08,0901 [INFO] - Consultando peso expedição
+21-09-18 10:05:09,0116 [INFO] - Consultando peso entrega
+21-09-18 10:05:09,0159 [INFO] - Consultando área mesa
+21-09-18 10:05:09,0211 [INFO] - Aguardando 2 minutos
+21-09-18 10:05:09,0212 [WARN] - Faltam 1314 minutos para as 8 horas de amanha
+21-09-18 10:07:09,0206 [INFO] - Consultando peso expedição
+21-09-18 10:07:09,0515 [INFO] - Consultando peso entrega
+21-09-18 10:07:09,0562 [INFO] - Consultando área mesa
+21-09-18 10:07:09,0603 [INFO] - Aguardando 2 minutos
+21-09-18 10:07:09,0603 [WARN] - Faltam 1312 minutos para as 8 horas de amanha
+21-09-18 10:09:09,0598 [INFO] - Consultando peso expedição
+21-09-18 10:09:09,0719 [INFO] - Consultando peso entrega
+21-09-18 10:09:11,0019 [INFO] - Consultando área mesa
+21-09-18 10:09:11,0259 [INFO] - Aguardando 2 minutos
+21-09-18 10:09:11,0259 [WARN] - Faltam 1310 minutos para as 8 horas de amanha
+21-09-18 10:11:11,0254 [INFO] - Consultando peso expedição
+21-09-18 10:11:11,0515 [INFO] - Consultando peso entrega
+21-09-18 10:11:11,0555 [INFO] - Consultando área mesa
+21-09-18 10:11:11,0595 [INFO] - Aguardando 2 minutos
+21-09-18 10:11:11,0596 [WARN] - Faltam 1308 minutos para as 8 horas de amanha
+21-09-18 10:13:11,0590 [INFO] - Consultando peso expedição
+21-09-18 10:13:11,0708 [INFO] - Consultando peso entrega
+21-09-18 10:13:11,0750 [INFO] - Consultando área mesa
+21-09-18 10:13:11,0787 [INFO] - Aguardando 2 minutos
+21-09-18 10:13:11,0787 [WARN] - Faltam 1306 minutos para as 8 horas de amanha
+21-09-18 10:15:11,0781 [INFO] - Consultando peso expedição
+21-09-18 10:15:11,0901 [INFO] - Consultando peso entrega
+21-09-18 10:15:11,0940 [INFO] - Consultando área mesa
+21-09-18 10:15:11,0978 [INFO] - Aguardando 2 minutos
+21-09-18 10:15:11,0978 [WARN] - Faltam 1304 minutos para as 8 horas de amanha
+21-09-18 10:17:11,0972 [INFO] - Consultando peso expedição
+21-09-18 10:17:12,0407 [INFO] - Consultando peso entrega
+21-09-18 10:17:12,0448 [INFO] - Consultando área mesa
+21-09-18 10:17:12,0486 [INFO] - Aguardando 2 minutos
+21-09-18 10:17:12,0487 [WARN] - Faltam 1302 minutos para as 8 horas de amanha
+21-09-18 10:19:12,0481 [INFO] - Consultando peso expedição
+21-09-18 10:19:12,0638 [INFO] - Consultando peso entrega
+21-09-18 10:19:12,0677 [INFO] - Consultando área mesa
+21-09-18 10:19:12,0716 [INFO] - Aguardando 2 minutos
+21-09-18 10:19:12,0716 [WARN] - Faltam 1300 minutos para as 8 horas de amanha
+21-09-18 10:21:12,0710 [INFO] - Consultando peso expedição
+21-09-18 10:21:13,0082 [INFO] - Consultando peso entrega
+21-09-18 10:21:13,0123 [INFO] - Consultando área mesa
+21-09-18 10:21:13,0161 [INFO] - Aguardando 2 minutos
+21-09-18 10:21:13,0161 [WARN] - Faltam 1298 minutos para as 8 horas de amanha
+21-09-18 10:23:13,0155 [INFO] - Consultando peso expedição
+21-09-18 10:23:13,0285 [INFO] - Consultando peso entrega
+21-09-18 10:23:13,0327 [INFO] - Consultando área mesa
+21-09-18 10:23:13,0366 [INFO] - Aguardando 2 minutos
+21-09-18 10:23:13,0366 [WARN] - Faltam 1296 minutos para as 8 horas de amanha
+21-09-18 10:25:13,0361 [INFO] - Consultando peso expedição
+21-09-18 10:25:13,0491 [INFO] - Consultando peso entrega
+21-09-18 10:25:13,0532 [INFO] - Consultando área mesa
+21-09-18 10:25:13,0568 [INFO] - Aguardando 2 minutos
+21-09-18 10:25:13,0568 [WARN] - Faltam 1294 minutos para as 8 horas de amanha
+21-09-18 10:27:13,0574 [INFO] - Consultando peso expedição
+21-09-18 10:27:13,0694 [INFO] - Consultando peso entrega
+21-09-18 10:27:13,0738 [INFO] - Consultando área mesa
+21-09-18 10:27:13,0782 [INFO] - Aguardando 2 minutos
+21-09-18 10:27:13,0782 [WARN] - Faltam 1292 minutos para as 8 horas de amanha
+21-09-18 10:29:13,0788 [INFO] - Consultando peso expedição
+21-09-18 10:29:13,0910 [INFO] - Consultando peso entrega
+21-09-18 10:29:15,0067 [INFO] - Consultando área mesa
+21-09-18 10:29:15,0246 [INFO] - Aguardando 2 minutos
+21-09-18 10:29:15,0246 [WARN] - Faltam 1290 minutos para as 8 horas de amanha
+21-09-18 10:31:15,0252 [INFO] - Consultando peso expedição
+21-09-18 10:31:15,0596 [INFO] - Consultando peso entrega
+21-09-18 10:31:16,0143 [INFO] - Consultando área mesa
+21-09-18 10:31:16,0181 [INFO] - Aguardando 2 minutos
+21-09-18 10:31:16,0181 [WARN] - Faltam 1288 minutos para as 8 horas de amanha
+21-09-18 10:33:16,0187 [INFO] - Consultando peso expedição
+21-09-18 10:33:16,0526 [INFO] - Atualizando o Peso para o Funcionario LEANDRO RODRIGUES DA SILVA TAVARES, Setor EXPEDICAO, Peso 755,88
+21-09-18 10:33:16,0529 [INFO] - Atualizando o Peso para o Funcionario WILLIAN HENRIQUE CONCEICAO SOUZA, Setor EXPEDICAO, Peso 1222,62
+21-09-18 10:33:16,0530 [INFO] - Consultando peso entrega
+21-09-18 10:33:17,0710 [INFO] - Consultando área mesa
+21-09-18 10:33:17,0746 [INFO] - Aguardando 2 minutos
+21-09-18 10:33:17,0746 [WARN] - Faltam 1286 minutos para as 8 horas de amanha
+21-09-18 10:35:17,0753 [INFO] - Consultando peso expedição
+21-09-18 10:35:17,0962 [INFO] - Consultando peso entrega
+21-09-18 10:35:17,0999 [INFO] - Consultando área mesa
+21-09-18 10:35:18,0034 [INFO] - Aguardando 2 minutos
+21-09-18 10:35:18,0034 [WARN] - Faltam 1284 minutos para as 8 horas de amanha
+21-09-18 10:37:18,0040 [INFO] - Consultando peso expedição
+21-09-18 10:37:18,0158 [INFO] - Consultando peso entrega
+21-09-18 10:37:18,0197 [INFO] - Consultando área mesa
+21-09-18 10:37:18,0238 [INFO] - Atualizando a AreaCortada do Funcionario WESLEY GENILSON DOS SANTOS, Setor MESA PEQUENA, Area 82,18
+21-09-18 10:37:18,0238 [INFO] - Aguardando 2 minutos
+21-09-18 10:37:18,0238 [WARN] - Faltam 1282 minutos para as 8 horas de amanha
+21-09-18 10:39:18,0244 [INFO] - Consultando peso expedição
+21-09-18 10:39:18,0367 [INFO] - Consultando peso entrega
+21-09-18 10:39:18,0469 [INFO] - Consultando área mesa
+21-09-18 10:39:18,0509 [INFO] - Aguardando 2 minutos
+21-09-18 10:39:18,0510 [WARN] - Faltam 1280 minutos para as 8 horas de amanha
+21-09-18 10:41:18,0516 [INFO] - Consultando peso expedição
+21-09-18 10:41:18,0683 [INFO] - Consultando peso entrega
+21-09-18 10:41:18,0727 [INFO] - Consultando área mesa
+21-09-18 10:41:18,0764 [INFO] - Aguardando 2 minutos
+21-09-18 10:41:18,0765 [WARN] - Faltam 1278 minutos para as 8 horas de amanha
+21-09-18 10:43:18,0764 [INFO] - Consultando peso expedição
+21-09-18 10:43:18,0881 [INFO] - Consultando peso entrega
+21-09-18 10:43:21,0171 [INFO] - Consultando área mesa
+21-09-18 10:43:21,0226 [INFO] - Aguardando 2 minutos
+21-09-18 10:43:21,0226 [WARN] - Faltam 1276 minutos para as 8 horas de amanha
+21-09-18 10:45:21,0221 [INFO] - Consultando peso expedição
+21-09-18 10:45:21,0361 [INFO] - Consultando peso entrega
+21-09-18 10:45:21,0420 [INFO] - Consultando área mesa
+21-09-18 10:45:21,0488 [INFO] - Aguardando 2 minutos
+21-09-18 10:45:21,0488 [WARN] - Faltam 1274 minutos para as 8 horas de amanha
+21-09-18 10:47:21,0482 [INFO] - Consultando peso expedição
+21-09-18 10:47:21,0658 [INFO] - Consultando peso entrega
+21-09-18 10:47:21,0781 [INFO] - Consultando área mesa
+21-09-18 10:47:22,0268 [INFO] - Aguardando 2 minutos
+21-09-18 10:47:22,0268 [WARN] - Faltam 1272 minutos para as 8 horas de amanha
+21-09-18 10:49:22,0262 [INFO] - Consultando peso expedição
+21-09-18 10:49:22,0389 [INFO] - Consultando peso entrega
+21-09-18 10:49:25,0352 [INFO] - Consultando área mesa
+21-09-18 10:49:25,0425 [INFO] - Aguardando 2 minutos
+21-09-18 10:49:25,0426 [WARN] - Faltam 1270 minutos para as 8 horas de amanha
+21-09-18 10:51:25,0420 [INFO] - Consultando peso expedição
+21-09-18 10:51:25,0777 [INFO] - Atualizando o Peso para o Funcionario LEANDRO RODRIGUES DA SILVA TAVARES, Setor EXPEDICAO, Peso 848,97
+21-09-18 10:51:25,0778 [INFO] - Consultando peso entrega
+21-09-18 10:51:25,0819 [INFO] - Consultando área mesa
+21-09-18 10:51:25,0858 [INFO] - Aguardando 2 minutos
+21-09-18 10:51:25,0858 [WARN] - Faltam 1268 minutos para as 8 horas de amanha
+21-09-18 10:53:25,0852 [INFO] - Consultando peso expedição
+21-09-18 10:53:25,0967 [INFO] - Consultando peso entrega
+21-09-18 10:53:26,0005 [INFO] - Consultando área mesa
+21-09-18 10:53:26,0042 [INFO] - Aguardando 2 minutos
+21-09-18 10:53:26,0043 [WARN] - Faltam 1266 minutos para as 8 horas de amanha
+21-09-18 10:55:26,0037 [INFO] - Consultando peso expedição
+21-09-18 10:55:26,0155 [INFO] - Consultando peso entrega
+21-09-18 10:55:26,0196 [INFO] - Consultando área mesa
+21-09-18 10:55:26,0232 [INFO] - Aguardando 2 minutos
+21-09-18 10:55:26,0232 [WARN] - Faltam 1264 minutos para as 8 horas de amanha
+21-09-18 10:57:26,0226 [INFO] - Consultando peso expedição
+21-09-18 10:57:26,0424 [INFO] - Consultando peso entrega
+21-09-18 10:57:26,0760 [INFO] - Consultando área mesa
+21-09-18 10:57:26,0821 [INFO] - Aguardando 2 minutos
+21-09-18 10:57:26,0821 [WARN] - Faltam 1262 minutos para as 8 horas de amanha
+21-09-18 10:59:26,0815 [INFO] - Consultando peso expedição
+21-09-18 10:59:26,0945 [INFO] - Consultando peso entrega
+21-09-18 10:59:27,0138 [INFO] - Consultando área mesa
+21-09-18 10:59:27,0217 [INFO] - Aguardando 2 minutos
+21-09-18 10:59:27,0217 [WARN] - Faltam 1260 minutos para as 8 horas de amanha
+21-09-18 11:01:27,0211 [INFO] - Consultando peso expedição
+21-09-18 11:01:27,0333 [INFO] - Consultando peso entrega
+21-09-18 11:01:27,0373 [INFO] - Consultando área mesa
+21-09-18 11:01:27,0475 [INFO] - Atualizando a AreaCortada do Funcionario WESLEY GENILSON DOS SANTOS, Setor MESA PEQUENA, Area 105,29
+21-09-18 11:01:27,0476 [INFO] - Aguardando 2 minutos
+21-09-18 11:01:27,0476 [WARN] - Faltam 1258 minutos para as 8 horas de amanha
+21-09-18 11:03:27,0470 [INFO] - Consultando peso expedição
+21-09-18 11:03:27,0629 [INFO] - Consultando peso entrega
+21-09-18 11:03:27,0804 [INFO] - Consultando área mesa
+21-09-18 11:03:27,0850 [INFO] - Aguardando 2 minutos
+21-09-18 11:03:27,0850 [WARN] - Faltam 1256 minutos para as 8 horas de amanha
+21-09-18 11:05:27,0844 [INFO] - Consultando peso expedição
+21-09-18 11:05:27,0972 [INFO] - Consultando peso entrega
+21-09-18 11:05:28,0011 [INFO] - Consultando área mesa
+21-09-18 11:05:28,0050 [INFO] - Aguardando 2 minutos
+21-09-18 11:05:28,0051 [WARN] - Faltam 1254 minutos para as 8 horas de amanha
+21-09-18 11:07:28,0045 [INFO] - Consultando peso expedição
+21-09-18 11:07:28,0210 [INFO] - Consultando peso entrega
+21-09-18 11:07:29,0678 [INFO] - Consultando área mesa
+21-09-18 11:07:29,0739 [INFO] - Aguardando 2 minutos
+21-09-18 11:07:29,0739 [WARN] - Faltam 1252 minutos para as 8 horas de amanha
+21-09-18 11:09:29,0733 [INFO] - Consultando peso expedição
+21-09-18 11:09:30,0041 [INFO] - Consultando peso entrega
+21-09-18 11:09:30,0079 [INFO] - Consultando área mesa
+21-09-18 11:09:30,0502 [INFO] - Aguardando 2 minutos
+21-09-18 11:09:30,0524 [WARN] - Faltam 1250 minutos para as 8 horas de amanha
+21-09-18 11:11:30,0518 [INFO] - Consultando peso expedição
+21-09-18 11:11:30,0649 [INFO] - Consultando peso entrega
+21-09-18 11:11:30,0686 [INFO] - Consultando área mesa
+21-09-18 11:11:30,0720 [INFO] - Aguardando 2 minutos
+21-09-18 11:11:30,0720 [WARN] - Faltam 1248 minutos para as 8 horas de amanha
+21-09-18 11:13:30,0714 [INFO] - Consultando peso expedição
+21-09-18 11:13:30,0930 [INFO] - Atualizando o Peso para o Funcionario FIDELCI SOUZA LIMA, Setor EXPEDICAO VPE, Peso 121,57
+21-09-18 11:13:30,0931 [INFO] - Consultando peso entrega
+21-09-18 11:13:31,0288 [INFO] - Consultando área mesa
+21-09-18 11:13:31,0322 [INFO] - Aguardando 2 minutos
+21-09-18 11:13:31,0322 [WARN] - Faltam 1246 minutos para as 8 horas de amanha
+21-09-18 11:15:31,0317 [INFO] - Consultando peso expedição
+21-09-18 11:15:31,0545 [INFO] - Atualizando o Peso para o Funcionario LEANDRO RODRIGUES DA SILVA TAVARES, Setor EXPEDICAO, Peso 897,12
+21-09-18 11:15:31,0546 [INFO] - Consultando peso entrega
+21-09-18 11:15:31,0607 [INFO] - Consultando área mesa
+21-09-18 11:15:31,0644 [INFO] - Aguardando 2 minutos
+21-09-18 11:15:31,0644 [WARN] - Faltam 1244 minutos para as 8 horas de amanha
+21-09-18 11:17:31,0653 [INFO] - Consultando peso expedição
+21-09-18 11:17:31,0915 [INFO] - Consultando peso entrega
+21-09-18 11:17:32,0092 [INFO] - Consultando área mesa
+21-09-18 11:17:32,0129 [INFO] - Aguardando 2 minutos
+21-09-18 11:17:32,0129 [WARN] - Faltam 1242 minutos para as 8 horas de amanha
+21-09-18 11:19:32,0147 [INFO] - Consultando peso expedição
+21-09-18 11:19:32,0328 [INFO] - Consultando peso entrega
+21-09-18 11:19:32,0781 [INFO] - Consultando área mesa
+21-09-18 11:19:32,0833 [INFO] - Aguardando 2 minutos
+21-09-18 11:19:32,0833 [WARN] - Faltam 1240 minutos para as 8 horas de amanha
+21-09-18 11:21:32,0850 [INFO] - Consultando peso expedição
+21-09-18 11:21:33,0007 [INFO] - Consultando peso entrega
+21-09-18 11:21:33,0044 [INFO] - Consultando área mesa
+21-09-18 11:21:33,0079 [INFO] - Aguardando 2 minutos
+21-09-18 11:21:33,0079 [WARN] - Faltam 1238 minutos para as 8 horas de amanha
+21-09-18 11:23:33,0085 [INFO] - Consultando peso expedição
+21-09-18 11:23:33,0207 [INFO] - Consultando peso entrega
+21-09-18 11:23:33,0246 [INFO] - Consultando área mesa
+21-09-18 11:23:33,0282 [INFO] - Aguardando 2 minutos
+21-09-18 11:23:33,0282 [WARN] - Faltam 1236 minutos para as 8 horas de amanha
+21-09-18 11:25:33,0288 [INFO] - Consultando peso expedição
+21-09-18 11:25:33,0404 [INFO] - Consultando peso entrega
+21-09-18 11:25:33,0604 [INFO] - Consultando área mesa
+21-09-18 11:25:33,0642 [INFO] - Aguardando 2 minutos
+21-09-18 11:25:33,0642 [WARN] - Faltam 1234 minutos para as 8 horas de amanha
+21-09-18 11:27:33,0648 [INFO] - Consultando peso expedição
+21-09-18 11:27:34,0168 [INFO] - Consultando peso entrega
+21-09-18 11:27:34,0353 [INFO] - Consultando área mesa
+21-09-18 11:27:34,0425 [INFO] - Aguardando 2 minutos
+21-09-18 11:27:34,0425 [WARN] - Faltam 1232 minutos para as 8 horas de amanha
+21-09-18 11:29:34,0431 [INFO] - Consultando peso expedição
+21-09-18 11:29:34,0639 [INFO] - Consultando peso entrega
+21-09-18 11:29:35,0028 [INFO] - Consultando área mesa
+21-09-18 11:29:35,0062 [INFO] - Aguardando 2 minutos
+21-09-18 11:29:35,0063 [WARN] - Faltam 1230 minutos para as 8 horas de amanha
+21-09-18 11:31:35,0069 [INFO] - Consultando peso expedição
+21-09-18 11:31:35,0310 [INFO] - Consultando peso entrega
+21-09-18 11:31:35,0350 [INFO] - Consultando área mesa
+21-09-18 11:31:35,0384 [INFO] - Aguardando 2 minutos
+21-09-18 11:31:35,0385 [WARN] - Faltam 1228 minutos para as 8 horas de amanha
+21-09-18 11:33:35,0391 [INFO] - Consultando peso expedição
+21-09-18 11:33:35,0628 [INFO] - Consultando peso entrega
+21-09-18 11:33:35,0667 [INFO] - Consultando área mesa
+21-09-18 11:33:35,0700 [INFO] - Aguardando 2 minutos
+21-09-18 11:33:35,0700 [WARN] - Faltam 1226 minutos para as 8 horas de amanha
+21-09-18 11:35:35,0707 [INFO] - Consultando peso expedição
+21-09-18 11:35:35,0833 [INFO] - Consultando peso entrega
+21-09-18 11:35:35,0872 [INFO] - Consultando área mesa
+21-09-18 11:35:35,0906 [INFO] - Aguardando 2 minutos
+21-09-18 11:35:35,0906 [WARN] - Faltam 1224 minutos para as 8 horas de amanha
+21-09-18 11:37:35,0904 [INFO] - Consultando peso expedição
+21-09-18 11:37:36,0507 [INFO] - Atualizando o Peso para o Funcionario FIDELCI SOUZA LIMA, Setor EXPEDICAO VPE, Peso 124,87
+21-09-18 11:37:36,0508 [INFO] - Consultando peso entrega
+21-09-18 11:37:36,0897 [INFO] - Consultando área mesa
+21-09-18 11:37:36,0945 [INFO] - Aguardando 2 minutos
+21-09-18 11:37:36,0945 [WARN] - Faltam 1222 minutos para as 8 horas de amanha
+21-09-18 11:39:36,0939 [INFO] - Consultando peso expedição
+21-09-18 11:39:37,0075 [INFO] - Consultando peso entrega
+21-09-18 11:39:37,0113 [INFO] - Consultando área mesa
+21-09-18 11:39:37,0149 [INFO] - Aguardando 2 minutos
+21-09-18 11:39:37,0149 [WARN] - Faltam 1220 minutos para as 8 horas de amanha
+21-09-18 11:41:37,0143 [INFO] - Consultando peso expedição
+21-09-18 11:41:37,0274 [INFO] - Consultando peso entrega
+21-09-18 11:41:37,0311 [INFO] - Consultando área mesa
+21-09-18 11:41:37,0347 [INFO] - Aguardando 2 minutos
+21-09-18 11:41:37,0370 [WARN] - Faltam 1218 minutos para as 8 horas de amanha
+21-09-18 11:43:37,0364 [INFO] - Consultando peso expedição
+21-09-18 11:43:37,0498 [INFO] - Consultando peso entrega
+21-09-18 11:43:37,0537 [INFO] - Consultando área mesa
+21-09-18 11:43:37,0616 [INFO] - Aguardando 2 minutos
+21-09-18 11:43:37,0616 [WARN] - Faltam 1216 minutos para as 8 horas de amanha
+21-09-18 11:45:37,0610 [INFO] - Consultando peso expedição
+21-09-18 11:45:37,0742 [INFO] - Consultando peso entrega
+21-09-18 11:45:37,0971 [INFO] - Consultando área mesa
+21-09-18 11:45:38,0005 [INFO] - Aguardando 2 minutos
+21-09-18 11:45:38,0006 [WARN] - Faltam 1214 minutos para as 8 horas de amanha
+21-09-18 11:47:38,0000 [INFO] - Consultando peso expedição
+21-09-18 11:47:38,0276 [INFO] - Consultando peso entrega
+21-09-18 11:47:38,0441 [INFO] - Consultando área mesa
+21-09-18 11:47:38,0603 [INFO] - Aguardando 2 minutos
+21-09-18 11:47:38,0603 [WARN] - Faltam 1212 minutos para as 8 horas de amanha
+21-09-18 11:48:15,0818 [INFO] - Iniciando Repetidor
+21-09-18 11:48:15,0916 [INFO] - Consultando peso expedição
+21-09-18 11:48:27,0308 [INFO] - Consultando peso entrega
+21-09-18 11:48:27,0397 [INFO] - Consultando área mesa
+21-09-18 11:48:27,0495 [INFO] - Aguardando 2 minutos
+21-09-18 11:48:27,0495 [WARN] - Faltam 1211 minutos para as 8 horas de amanha
+21-09-18 11:49:38,0597 [INFO] - Consultando peso expedição
+21-09-18 11:49:40,0003 [INFO] - Consultando peso entrega
+21-09-18 11:49:40,0787 [INFO] - Consultando área mesa
+21-09-18 11:49:40,0854 [INFO] - Aguardando 2 minutos
+21-09-18 11:49:40,0855 [WARN] - Faltam 1210 minutos para as 8 horas de amanha
+21-09-18 11:51:40,0849 [INFO] - Consultando peso expedição
+21-09-18 11:51:41,0070 [INFO] - Consultando peso entrega
+21-09-18 11:51:41,0282 [INFO] - Consultando área mesa
+21-09-18 11:51:41,0317 [INFO] - Aguardando 2 minutos
+21-09-18 11:51:41,0318 [WARN] - Faltam 1208 minutos para as 8 horas de amanha
+21-09-18 11:53:41,0312 [INFO] - Consultando peso expedição
+21-09-18 11:53:41,0516 [INFO] - Consultando peso entrega
+21-09-18 11:53:41,0706 [INFO] - Consultando área mesa
+21-09-18 11:53:41,0744 [INFO] - Aguardando 2 minutos
+21-09-18 11:53:41,0744 [WARN] - Faltam 1206 minutos para as 8 horas de amanha
+21-09-18 11:55:41,0738 [INFO] - Consultando peso expedição
+21-09-18 11:55:41,0888 [INFO] - Consultando peso entrega
+21-09-18 11:55:42,0496 [INFO] - Consultando área mesa
+21-09-18 11:55:42,0532 [INFO] - Aguardando 2 minutos
+21-09-18 11:55:42,0532 [WARN] - Faltam 1204 minutos para as 8 horas de amanha
+21-09-18 11:57:42,0526 [INFO] - Consultando peso expedição
+21-09-18 11:57:42,0672 [INFO] - Consultando peso entrega
+21-09-18 11:57:42,0709 [INFO] - Consultando área mesa
+21-09-18 11:57:42,0745 [INFO] - Aguardando 2 minutos
+21-09-18 11:57:42,0745 [WARN] - Faltam 1202 minutos para as 8 horas de amanha
+21-09-18 11:59:42,0739 [INFO] - Consultando peso expedição
+21-09-18 11:59:42,0920 [INFO] - Consultando peso entrega
+21-09-18 11:59:42,0959 [INFO] - Consultando área mesa
+21-09-18 11:59:42,0994 [INFO] - Aguardando 2 minutos
+21-09-18 11:59:42,0994 [WARN] - Faltam 1200 minutos para as 8 horas de amanha
+21-09-18 12:01:42,0988 [INFO] - Consultando peso expedição
+21-09-18 12:01:43,0152 [INFO] - Consultando peso entrega
+21-09-18 12:01:43,0192 [INFO] - Consultando área mesa
+21-09-18 12:01:43,0228 [INFO] - Aguardando 2 minutos
+21-09-18 12:01:43,0228 [WARN] - Faltam 1198 minutos para as 8 horas de amanha
+21-09-18 12:03:43,0222 [INFO] - Consultando peso expedição
+21-09-18 12:03:43,0339 [INFO] - Consultando peso entrega
+21-09-18 12:03:43,0378 [INFO] - Consultando área mesa
+21-09-18 12:03:43,0415 [INFO] - Aguardando 2 minutos
+21-09-18 12:03:43,0416 [WARN] - Faltam 1196 minutos para as 8 horas de amanha
+21-09-18 12:05:43,0410 [INFO] - Consultando peso expedição
+21-09-18 12:05:43,0535 [INFO] - Consultando peso entrega
+21-09-18 12:05:43,0732 [INFO] - Consultando área mesa
+21-09-18 12:05:43,0819 [INFO] - Aguardando 2 minutos
+21-09-18 12:05:43,0819 [WARN] - Faltam 1194 minutos para as 8 horas de amanha
+21-09-18 12:07:43,0813 [INFO] - Consultando peso expedição
+21-09-18 12:07:43,0944 [INFO] - Consultando peso entrega
+21-09-18 12:07:43,0982 [INFO] - Consultando área mesa
+21-09-18 12:07:44,0017 [INFO] - Aguardando 2 minutos
+21-09-18 12:07:44,0017 [WARN] - Faltam 1192 minutos para as 8 horas de amanha
+21-09-18 12:09:44,0011 [INFO] - Consultando peso expedição
+21-09-18 12:09:44,0153 [INFO] - Consultando peso entrega
+21-09-18 12:09:44,0192 [INFO] - Consultando área mesa
+21-09-18 12:09:44,0237 [INFO] - Aguardando 2 minutos
+21-09-18 12:09:44,0237 [WARN] - Faltam 1190 minutos para as 8 horas de amanha
+21-09-18 12:11:44,0231 [INFO] - Consultando peso expedição
+21-09-18 12:11:44,0386 [INFO] - Consultando peso entrega
+21-09-18 12:11:44,0426 [INFO] - Consultando área mesa
+21-09-18 12:11:44,0462 [INFO] - Aguardando 2 minutos
+21-09-18 12:11:44,0462 [WARN] - Faltam 1188 minutos para as 8 horas de amanha
+21-09-18 12:13:44,0456 [INFO] - Consultando peso expedição
+21-09-18 12:13:44,0791 [INFO] - Consultando peso entrega
+21-09-18 12:13:44,0831 [INFO] - Consultando área mesa
+21-09-18 12:13:44,0867 [INFO] - Aguardando 2 minutos
+21-09-18 12:13:44,0867 [WARN] - Faltam 1186 minutos para as 8 horas de amanha
+21-09-18 12:15:44,0862 [INFO] - Consultando peso expedição
+21-09-18 12:15:45,0001 [INFO] - Consultando peso entrega
+21-09-18 12:15:45,0041 [INFO] - Consultando área mesa
+21-09-18 12:15:45,0076 [INFO] - Aguardando 2 minutos
+21-09-18 12:15:45,0076 [WARN] - Faltam 1184 minutos para as 8 horas de amanha
+21-09-18 12:17:45,0070 [INFO] - Consultando peso expedição
+21-09-18 12:17:45,0201 [INFO] - Consultando peso entrega
+21-09-18 12:17:45,0239 [INFO] - Consultando área mesa
+21-09-18 12:17:45,0273 [INFO] - Aguardando 2 minutos
+21-09-18 12:17:45,0273 [WARN] - Faltam 1182 minutos para as 8 horas de amanha
+21-09-18 12:19:45,0267 [INFO] - Consultando peso expedição
+21-09-18 12:19:45,0396 [INFO] - Consultando peso entrega
+21-09-18 12:19:45,0435 [INFO] - Consultando área mesa
+21-09-18 12:19:45,0472 [INFO] - Aguardando 2 minutos
+21-09-18 12:19:45,0472 [WARN] - Faltam 1180 minutos para as 8 horas de amanha
+21-09-18 12:21:45,0466 [INFO] - Consultando peso expedição
+21-09-18 12:21:45,0618 [INFO] - Consultando peso entrega
+21-09-18 12:21:45,0659 [INFO] - Consultando área mesa
+21-09-18 12:21:45,0695 [INFO] - Aguardando 2 minutos
+21-09-18 12:21:45,0695 [WARN] - Faltam 1178 minutos para as 8 horas de amanha
+21-09-18 12:23:45,0689 [INFO] - Consultando peso expedição
+21-09-18 12:23:45,0881 [INFO] - Consultando peso entrega
+21-09-18 12:23:45,0920 [INFO] - Consultando área mesa
+21-09-18 12:23:45,0955 [INFO] - Aguardando 2 minutos
+21-09-18 12:23:45,0956 [WARN] - Faltam 1176 minutos para as 8 horas de amanha
+21-09-18 12:25:45,0962 [INFO] - Consultando peso expedição
+21-09-18 12:25:46,0200 [INFO] - Consultando peso entrega
+21-09-18 12:25:46,0240 [INFO] - Consultando área mesa
+21-09-18 12:25:46,0277 [INFO] - Aguardando 2 minutos
+21-09-18 12:25:46,0278 [WARN] - Faltam 1174 minutos para as 8 horas de amanha
+21-09-18 12:27:46,0296 [INFO] - Consultando peso expedição
+21-09-18 12:27:46,0422 [INFO] - Consultando peso entrega
+21-09-18 12:27:46,0460 [INFO] - Consultando área mesa
+21-09-18 12:27:46,0495 [INFO] - Aguardando 2 minutos
+21-09-18 12:27:46,0495 [WARN] - Faltam 1172 minutos para as 8 horas de amanha
+21-09-18 12:29:46,0513 [INFO] - Consultando peso expedição
+21-09-18 12:29:46,0730 [INFO] - Consultando peso entrega
+21-09-18 12:29:46,0770 [INFO] - Consultando área mesa
+21-09-18 12:29:46,0805 [INFO] - Aguardando 2 minutos
+21-09-18 12:29:46,0805 [WARN] - Faltam 1170 minutos para as 8 horas de amanha
+21-09-18 12:31:46,0811 [INFO] - Consultando peso expedição
+21-09-18 12:31:46,0938 [INFO] - Consultando peso entrega
+21-09-18 12:31:46,0977 [INFO] - Consultando área mesa
+21-09-18 12:31:47,0013 [INFO] - Aguardando 2 minutos
+21-09-18 12:31:47,0013 [WARN] - Faltam 1168 minutos para as 8 horas de amanha
+21-09-18 12:33:47,0019 [INFO] - Consultando peso expedição
+21-09-18 12:33:47,0163 [INFO] - Consultando peso entrega
+21-09-18 12:33:47,0208 [INFO] - Consultando área mesa
+21-09-18 12:33:47,0249 [INFO] - Aguardando 2 minutos
+21-09-18 12:33:47,0250 [WARN] - Faltam 1166 minutos para as 8 horas de amanha
+21-09-18 12:35:47,0256 [INFO] - Consultando peso expedição
+21-09-18 12:35:47,0372 [INFO] - Consultando peso entrega
+21-09-18 12:35:47,0411 [INFO] - Consultando área mesa
+21-09-18 12:35:47,0445 [INFO] - Aguardando 2 minutos
+21-09-18 12:35:47,0446 [WARN] - Faltam 1164 minutos para as 8 horas de amanha
+21-09-18 12:37:47,0452 [INFO] - Consultando peso expedição
+21-09-18 12:37:47,0594 [INFO] - Consultando peso entrega
+21-09-18 12:37:47,0633 [INFO] - Consultando área mesa
+21-09-18 12:37:47,0668 [INFO] - Aguardando 2 minutos
+21-09-18 12:37:47,0668 [WARN] - Faltam 1162 minutos para as 8 horas de amanha
+21-09-18 12:39:47,0674 [INFO] - Consultando peso expedição
+21-09-18 12:39:47,0824 [INFO] - Consultando peso entrega
+21-09-18 12:39:47,0863 [INFO] - Consultando área mesa
+21-09-18 12:39:47,0899 [INFO] - Aguardando 2 minutos
+21-09-18 12:39:47,0900 [WARN] - Faltam 1160 minutos para as 8 horas de amanha
+21-09-18 12:41:47,0906 [INFO] - Consultando peso expedição
+21-09-18 12:41:48,0033 [INFO] - Consultando peso entrega
+21-09-18 12:41:48,0069 [INFO] - Consultando área mesa
+21-09-18 12:41:48,0106 [INFO] - Aguardando 2 minutos
+21-09-18 12:41:48,0106 [WARN] - Faltam 1158 minutos para as 8 horas de amanha
+21-09-18 12:43:48,0112 [INFO] - Consultando peso expedição
+21-09-18 12:43:48,0233 [INFO] - Consultando peso entrega
+21-09-18 12:43:48,0273 [INFO] - Consultando área mesa
+21-09-18 12:43:48,0310 [INFO] - Aguardando 2 minutos
+21-09-18 12:43:48,0311 [WARN] - Faltam 1156 minutos para as 8 horas de amanha
+21-09-18 12:45:48,0317 [INFO] - Consultando peso expedição
+21-09-18 12:45:48,0549 [INFO] - Consultando peso entrega
+21-09-18 12:45:48,0588 [INFO] - Consultando área mesa
+21-09-18 12:45:48,0626 [INFO] - Aguardando 2 minutos
+21-09-18 12:45:48,0626 [WARN] - Faltam 1154 minutos para as 8 horas de amanha
+21-09-18 12:47:48,0632 [INFO] - Consultando peso expedição
+21-09-18 12:47:48,0783 [INFO] - Consultando peso entrega
+21-09-18 12:47:48,0969 [INFO] - Consultando área mesa
+21-09-18 12:47:49,0004 [INFO] - Aguardando 2 minutos
+21-09-18 12:47:49,0004 [WARN] - Faltam 1152 minutos para as 8 horas de amanha
+21-09-18 12:49:49,0010 [INFO] - Consultando peso expedição
+21-09-18 12:49:49,0193 [INFO] - Consultando peso entrega
+21-09-18 12:49:49,0233 [INFO] - Consultando área mesa
+21-09-18 12:49:49,0269 [INFO] - Aguardando 2 minutos
+21-09-18 12:49:49,0269 [WARN] - Faltam 1150 minutos para as 8 horas de amanha
+21-09-18 12:51:49,0275 [INFO] - Consultando peso expedição
+21-09-18 12:51:49,0446 [INFO] - Consultando peso entrega
+21-09-18 12:51:49,0487 [INFO] - Consultando área mesa
+21-09-18 12:51:49,0548 [INFO] - Aguardando 2 minutos
+21-09-18 12:51:49,0548 [WARN] - Faltam 1148 minutos para as 8 horas de amanha
+21-09-18 12:53:49,0554 [INFO] - Consultando peso expedição
+21-09-18 12:53:49,0689 [INFO] - Consultando peso entrega
+21-09-18 12:53:49,0730 [INFO] - Consultando área mesa
+21-09-18 12:53:49,0766 [INFO] - Aguardando 2 minutos
+21-09-18 12:53:49,0766 [WARN] - Faltam 1146 minutos para as 8 horas de amanha
+21-09-18 12:55:49,0772 [INFO] - Consultando peso expedição
+21-09-18 12:55:49,0901 [INFO] - Consultando peso entrega
+21-09-18 12:55:50,0036 [INFO] - Consultando área mesa
+21-09-18 12:55:50,0073 [INFO] - Aguardando 2 minutos
+21-09-18 12:55:50,0073 [WARN] - Faltam 1144 minutos para as 8 horas de amanha
+21-09-18 12:57:50,0079 [INFO] - Consultando peso expedição
+21-09-18 12:57:50,0200 [INFO] - Consultando peso entrega
+21-09-18 12:57:50,0390 [INFO] - Consultando área mesa
+21-09-18 12:57:50,0425 [INFO] - Aguardando 2 minutos
+21-09-18 12:57:50,0425 [WARN] - Faltam 1142 minutos para as 8 horas de amanha
+21-09-18 12:59:50,0411 [INFO] - Consultando peso expedição
+21-09-18 12:59:50,0652 [INFO] - Consultando peso entrega
+21-09-18 12:59:50,0691 [INFO] - Consultando área mesa
+21-09-18 12:59:50,0806 [INFO] - Aguardando 2 minutos
+21-09-18 12:59:50,0806 [WARN] - Faltam 1140 minutos para as 8 horas de amanha
+21-09-18 13:01:50,0776 [INFO] - Consultando peso expedição
+21-09-18 13:01:50,0900 [INFO] - Consultando peso entrega
+21-09-18 13:01:50,0943 [INFO] - Consultando área mesa
+21-09-18 13:01:50,0978 [INFO] - Aguardando 2 minutos
+21-09-18 13:01:50,0979 [WARN] - Faltam 1138 minutos para as 8 horas de amanha
+21-09-18 13:03:50,0950 [INFO] - Consultando peso expedição
+21-09-18 13:03:51,0137 [INFO] - Consultando peso entrega
+21-09-18 13:03:51,0528 [INFO] - Inserindo um Peso do Funcionario ALMIR ROGERIO DOS SANTOS VIEIRA, Setor ENTREGA, Peso 1386,36
+21-09-18 13:03:51,0528 [INFO] - Consultando área mesa
+21-09-18 13:03:51,0565 [INFO] - Aguardando 2 minutos
+21-09-18 13:03:51,0565 [WARN] - Faltam 1136 minutos para as 8 horas de amanha
+21-09-18 13:05:51,0547 [INFO] - Consultando peso expedição
+21-09-18 13:05:51,0695 [INFO] - Consultando peso entrega
+21-09-18 13:05:51,0905 [INFO] - Consultando área mesa
+21-09-18 13:05:51,0942 [INFO] - Aguardando 2 minutos
+21-09-18 13:05:51,0942 [WARN] - Faltam 1134 minutos para as 8 horas de amanha
+21-09-18 13:07:51,0924 [INFO] - Consultando peso expedição
+21-09-18 13:07:52,0047 [INFO] - Consultando peso entrega
+21-09-18 13:07:52,0220 [INFO] - Atualizando o Peso para o Funcionario ELIOMAR JOSE LIMA DA SILVA, Setor ENTREGA, Peso 7357,32
+21-09-18 13:07:52,0221 [INFO] - Consultando área mesa
+21-09-18 13:07:52,0254 [INFO] - Aguardando 2 minutos
+21-09-18 13:07:52,0254 [WARN] - Faltam 1132 minutos para as 8 horas de amanha
+21-09-18 13:09:52,0243 [INFO] - Consultando peso expedição
+21-09-18 13:09:52,0379 [INFO] - Consultando peso entrega
+21-09-18 13:09:52,0545 [INFO] - Consultando área mesa
+21-09-18 13:09:52,0606 [INFO] - Aguardando 2 minutos
+21-09-18 13:09:52,0606 [WARN] - Faltam 1130 minutos para as 8 horas de amanha
+21-09-18 13:11:52,0600 [INFO] - Consultando peso expedição
+21-09-18 13:11:52,0726 [INFO] - Consultando peso entrega
+21-09-18 13:11:52,0764 [INFO] - Consultando área mesa
+21-09-18 13:11:52,0822 [INFO] - Aguardando 2 minutos
+21-09-18 13:11:52,0822 [WARN] - Faltam 1128 minutos para as 8 horas de amanha
+21-09-18 13:13:52,0816 [INFO] - Consultando peso expedição
+21-09-18 13:13:52,0945 [INFO] - Consultando peso entrega
+21-09-18 13:13:52,0983 [INFO] - Consultando área mesa
+21-09-18 13:13:53,0016 [INFO] - Aguardando 2 minutos
+21-09-18 13:13:53,0016 [WARN] - Faltam 1126 minutos para as 8 horas de amanha
+21-09-18 13:15:53,0011 [INFO] - Consultando peso expedição
+21-09-18 13:15:53,0260 [INFO] - Atualizando o Peso para o Funcionario FIDELCI SOUZA LIMA, Setor EXPEDICAO VPE, Peso 224,68
+21-09-18 13:15:53,0262 [INFO] - Consultando peso entrega
+21-09-18 13:15:53,0432 [INFO] - Consultando área mesa
+21-09-18 13:15:53,0468 [INFO] - Aguardando 2 minutos
+21-09-18 13:15:53,0469 [WARN] - Faltam 1124 minutos para as 8 horas de amanha
+21-09-18 13:17:53,0463 [INFO] - Consultando peso expedição
+21-09-18 13:17:53,0718 [INFO] - Consultando peso entrega
+21-09-18 13:17:54,0251 [INFO] - Consultando área mesa
+21-09-18 13:17:54,0311 [INFO] - Aguardando 2 minutos
+21-09-18 13:17:54,0312 [WARN] - Faltam 1122 minutos para as 8 horas de amanha
+21-09-18 13:19:54,0306 [INFO] - Consultando peso expedição
+21-09-18 13:19:54,0428 [INFO] - Consultando peso entrega
+21-09-18 13:19:54,0613 [INFO] - Consultando área mesa
+21-09-18 13:19:54,0649 [INFO] - Aguardando 2 minutos
+21-09-18 13:19:54,0649 [WARN] - Faltam 1120 minutos para as 8 horas de amanha
+21-09-18 13:21:54,0644 [INFO] - Consultando peso expedição
+21-09-18 13:21:54,0808 [INFO] - Consultando peso entrega
+21-09-18 13:21:54,0850 [INFO] - Consultando área mesa
+21-09-18 13:21:54,0887 [INFO] - Aguardando 2 minutos
+21-09-18 13:21:54,0887 [WARN] - Faltam 1118 minutos para as 8 horas de amanha
+21-09-18 13:23:54,0881 [INFO] - Consultando peso expedição
+21-09-18 13:23:55,0007 [INFO] - Consultando peso entrega
+21-09-18 13:23:55,0484 [INFO] - Consultando área mesa
+21-09-18 13:23:55,0608 [INFO] - Aguardando 2 minutos
+21-09-18 13:23:55,0609 [WARN] - Faltam 1116 minutos para as 8 horas de amanha
+21-09-18 13:25:55,0603 [INFO] - Consultando peso expedição
+21-09-18 13:25:55,0828 [INFO] - Consultando peso entrega
+21-09-18 13:25:56,0124 [INFO] - Consultando área mesa
+21-09-18 13:25:56,0160 [INFO] - Aguardando 2 minutos
+21-09-18 13:25:56,0160 [WARN] - Faltam 1114 minutos para as 8 horas de amanha
+21-09-18 13:27:56,0154 [INFO] - Consultando peso expedição
+21-09-18 13:27:56,0279 [INFO] - Consultando peso entrega
+21-09-18 13:27:56,0876 [INFO] - Consultando área mesa
+21-09-18 13:27:56,0937 [INFO] - Aguardando 2 minutos
+21-09-18 13:27:56,0937 [WARN] - Faltam 1112 minutos para as 8 horas de amanha
+21-09-18 13:29:56,0931 [INFO] - Consultando peso expedição
+21-09-18 13:29:57,0094 [INFO] - Consultando peso entrega
+21-09-18 13:29:57,0484 [INFO] - Consultando área mesa
+21-09-18 13:29:57,0618 [INFO] - Aguardando 2 minutos
+21-09-18 13:29:57,0618 [WARN] - Faltam 1110 minutos para as 8 horas de amanha
+21-09-18 13:31:57,0612 [INFO] - Consultando peso expedição
+21-09-18 13:31:57,0736 [INFO] - Consultando peso entrega
+21-09-18 13:31:57,0927 [INFO] - Consultando área mesa
+21-09-18 13:31:57,0987 [INFO] - Aguardando 2 minutos
+21-09-18 13:31:57,0987 [WARN] - Faltam 1108 minutos para as 8 horas de amanha
+21-09-18 13:33:57,0981 [INFO] - Consultando peso expedição
+21-09-18 13:33:58,0146 [INFO] - Consultando peso entrega
+21-09-18 13:33:58,0186 [INFO] - Consultando área mesa
+21-09-18 13:33:58,0222 [INFO] - Aguardando 2 minutos
+21-09-18 13:33:58,0222 [WARN] - Faltam 1106 minutos para as 8 horas de amanha
+21-09-18 13:35:32,0781 [INFO] - Iniciando Repetidor
+21-09-18 13:35:32,0788 [INFO] - Consultando peso expedição
+21-09-18 13:35:33,0292 [INFO] - Consultando peso entrega
+21-09-18 13:35:33,0560 [INFO] - Consultando área mesa
+21-09-18 13:35:33,0606 [INFO] - Aguardando 2 minutos
+21-09-18 13:35:33,0607 [WARN] - Faltam 1104 minutos para as 8 horas de amanha
+21-09-18 13:35:58,0217 [INFO] - Consultando peso expedição
+21-09-18 13:35:58,0549 [INFO] - Consultando peso entrega
+21-09-18 13:35:59,0192 [INFO] - Consultando área mesa
+21-09-18 13:35:59,0252 [INFO] - Aguardando 2 minutos
+21-09-18 13:35:59,0253 [WARN] - Faltam 1104 minutos para as 8 horas de amanha
+21-09-18 13:37:33,0601 [INFO] - Consultando peso expedição
+21-09-18 13:37:33,0724 [INFO] - Consultando peso entrega
+21-09-18 13:37:33,0766 [INFO] - Consultando área mesa
+21-09-18 13:37:33,0805 [INFO] - Aguardando 2 minutos
+21-09-18 13:37:33,0805 [WARN] - Faltam 1102 minutos para as 8 horas de amanha
+21-09-18 13:37:59,0247 [INFO] - Consultando peso expedição
+21-09-18 13:37:59,0376 [INFO] - Consultando peso entrega
+21-09-18 13:37:59,0588 [INFO] - Consultando área mesa
+21-09-18 13:37:59,0648 [INFO] - Aguardando 2 minutos
+21-09-18 13:37:59,0648 [WARN] - Faltam 1102 minutos para as 8 horas de amanha
+21-09-18 13:38:26,0160 [INFO] - Iniciando Repetidor
+21-09-18 13:38:26,0166 [INFO] - Consultando peso expedição
+21-09-18 13:38:26,0593 [INFO] - Consultando peso entrega
+21-09-18 13:38:26,0635 [INFO] - Consultando área mesa
+21-09-18 13:38:26,0681 [INFO] - Aguardando 2 minutos
+21-09-18 13:39:33,0799 [INFO] - Consultando peso expedição
+21-09-18 13:39:33,0978 [INFO] - Consultando peso entrega
+21-09-18 13:39:34,0075 [INFO] - Atualizando o Peso para o Funcionario JOSE DE RIBAMAR DA SILVA SOUSA, Setor ENTREGA, Peso 5466,11
+21-09-18 13:39:34,0076 [INFO] - Consultando área mesa
+21-09-18 13:39:34,0130 [INFO] - Aguardando 2 minutos
+21-09-18 13:39:34,0130 [WARN] - Faltam 1100 minutos para as 8 horas de amanha
+21-09-18 13:39:59,0642 [INFO] - Consultando peso expedição
+21-09-18 13:39:59,0767 [INFO] - Consultando peso entrega
+21-09-18 13:39:59,0930 [INFO] - Consultando área mesa
+21-09-18 13:39:59,0975 [INFO] - Aguardando 2 minutos
+21-09-18 13:39:59,0975 [WARN] - Faltam 1100 minutos para as 8 horas de amanha
+21-09-18 13:41:34,0124 [INFO] - Consultando peso expedição
+21-09-18 13:41:34,0263 [INFO] - Consultando peso entrega
+21-09-18 13:41:34,0307 [INFO] - Consultando área mesa
+21-09-18 13:41:34,0344 [INFO] - Aguardando 2 minutos
+21-09-18 13:41:34,0345 [WARN] - Faltam 1098 minutos para as 8 horas de amanha
+21-09-18 13:41:59,0969 [INFO] - Consultando peso expedição
+21-09-18 13:42:00,0083 [INFO] - Consultando peso entrega
+21-09-18 13:42:00,0123 [INFO] - Consultando área mesa
+21-09-18 13:42:00,0180 [INFO] - Atualizando a AreaCortada do Funcionario WESLEY GENILSON DOS SANTOS, Setor MESA PEQUENA, Area 138,67
+21-09-18 13:42:00,0180 [INFO] - Aguardando 2 minutos
+21-09-18 13:42:00,0180 [WARN] - Faltam 1098 minutos para as 8 horas de amanha
+21-09-18 13:43:34,0339 [INFO] - Consultando peso expedição
+21-09-18 13:43:34,0467 [INFO] - Consultando peso entrega
+21-09-18 13:43:34,0510 [INFO] - Consultando área mesa
+21-09-18 13:43:34,0547 [INFO] - Aguardando 2 minutos
+21-09-18 13:43:34,0548 [WARN] - Faltam 1096 minutos para as 8 horas de amanha
+21-09-18 13:44:00,0174 [INFO] - Consultando peso expedição
+21-09-18 13:44:00,0290 [INFO] - Consultando peso entrega
+21-09-18 13:44:00,0328 [INFO] - Consultando área mesa
+21-09-18 13:44:00,0365 [INFO] - Aguardando 2 minutos
+21-09-18 13:44:00,0365 [WARN] - Faltam 1096 minutos para as 8 horas de amanha
+21-09-18 13:46:00,0359 [INFO] - Consultando peso expedição
+21-09-18 13:46:00,0653 [INFO] - Consultando peso entrega
+21-09-18 13:46:00,0694 [INFO] - Consultando área mesa
+21-09-18 13:46:00,0739 [INFO] - Aguardando 2 minutos
+21-09-18 13:46:00,0739 [WARN] - Faltam 1094 minutos para as 8 horas de amanha
+21-09-18 13:48:00,0733 [INFO] - Consultando peso expedição
+21-09-18 13:48:00,0860 [INFO] - Consultando peso entrega
+21-09-18 13:48:00,0899 [INFO] - Consultando área mesa
+21-09-18 13:48:00,0970 [INFO] - Atualizando a AreaCortada do Funcionario WESLEY GENILSON DOS SANTOS, Setor MESA PEQUENA, Area 145,73
+21-09-18 13:48:00,0970 [INFO] - Aguardando 2 minutos
+21-09-18 13:48:00,0970 [WARN] - Faltam 1092 minutos para as 8 horas de amanha
+21-09-18 13:50:00,0964 [INFO] - Consultando peso expedição
+21-09-18 13:50:01,0091 [INFO] - Consultando peso entrega
+21-09-18 13:50:01,0518 [INFO] - Consultando área mesa
+21-09-18 13:50:01,0555 [INFO] - Aguardando 2 minutos
+21-09-18 13:50:01,0555 [WARN] - Faltam 1090 minutos para as 8 horas de amanha
+21-09-18 13:52:01,0549 [INFO] - Consultando peso expedição
+21-09-18 13:52:01,0674 [INFO] - Consultando peso entrega
+21-09-18 13:52:01,0714 [INFO] - Consultando área mesa
+21-09-18 13:52:01,0750 [INFO] - Aguardando 2 minutos
+21-09-18 13:52:01,0750 [WARN] - Faltam 1088 minutos para as 8 horas de amanha
+21-09-18 13:54:01,0744 [INFO] - Consultando peso expedição
+21-09-18 13:54:01,0876 [INFO] - Consultando peso entrega
+21-09-18 13:54:01,0960 [INFO] - Consultando área mesa
+21-09-18 13:54:02,0092 [INFO] - Aguardando 2 minutos
+21-09-18 13:54:02,0092 [WARN] - Faltam 1085 minutos para as 8 horas de amanha
+21-09-18 13:56:02,0086 [INFO] - Consultando peso expedição
+21-09-18 13:56:02,0315 [INFO] - Consultando peso entrega
+21-09-18 13:56:02,0377 [INFO] - Consultando área mesa
+21-09-18 13:56:02,0414 [INFO] - Aguardando 2 minutos
+21-09-18 13:56:02,0414 [WARN] - Faltam 1083 minutos para as 8 horas de amanha
+21-09-18 13:58:02,0408 [INFO] - Consultando peso expedição
+21-09-18 13:58:02,0552 [INFO] - Consultando peso entrega
+21-09-18 13:58:02,0593 [INFO] - Consultando área mesa
+21-09-18 13:58:02,0628 [INFO] - Aguardando 2 minutos
+21-09-18 13:58:02,0628 [WARN] - Faltam 1081 minutos para as 8 horas de amanha
+21-09-18 14:00:02,0622 [INFO] - Consultando peso expedição
+21-09-18 14:00:02,0739 [INFO] - Consultando peso entrega
+21-09-18 14:00:02,0911 [INFO] - Consultando área mesa
+21-09-18 14:00:02,0972 [INFO] - Aguardando 2 minutos
+21-09-18 14:00:02,0972 [WARN] - Faltam 1079 minutos para as 8 horas de amanha
+21-09-18 14:02:02,0966 [INFO] - Consultando peso expedição
+21-09-18 14:02:03,0097 [INFO] - Consultando peso entrega
+21-09-18 14:02:03,0623 [INFO] - Consultando área mesa
+21-09-18 14:02:03,0767 [INFO] - Aguardando 2 minutos
+21-09-18 14:02:03,0768 [WARN] - Faltam 1077 minutos para as 8 horas de amanha
+21-09-18 14:04:03,0762 [INFO] - Consultando peso expedição
+21-09-18 14:04:04,0227 [INFO] - Atualizando o Peso para o Funcionario LEANDRO RODRIGUES DA SILVA TAVARES, Setor EXPEDICAO, Peso 1070,46
+21-09-18 14:04:04,0336 [INFO] - Consultando peso entrega
+21-09-18 14:04:04,0827 [INFO] - Consultando área mesa
+21-09-18 14:04:05,0037 [INFO] - Aguardando 2 minutos
+21-09-18 14:04:05,0038 [WARN] - Faltam 1075 minutos para as 8 horas de amanha
+21-09-18 14:06:05,0032 [INFO] - Consultando peso expedição
+21-09-18 14:06:05,0186 [INFO] - Consultando peso entrega
+21-09-18 14:06:05,0224 [INFO] - Consultando área mesa
+21-09-18 14:06:05,0259 [INFO] - Aguardando 2 minutos
+21-09-18 14:06:05,0260 [WARN] - Faltam 1073 minutos para as 8 horas de amanha
+21-09-18 14:08:05,0275 [INFO] - Consultando peso expedição
+21-09-18 14:08:05,0461 [INFO] - Consultando peso entrega
+21-09-18 14:08:05,0503 [INFO] - Consultando área mesa
+21-09-18 14:08:05,0540 [INFO] - Aguardando 2 minutos
+21-09-18 14:08:05,0540 [WARN] - Faltam 1071 minutos para as 8 horas de amanha
+21-09-18 14:10:05,0570 [INFO] - Consultando peso expedição
+21-09-18 14:10:05,0687 [INFO] - Consultando peso entrega
+21-09-18 14:10:05,0878 [INFO] - Consultando área mesa
+21-09-18 14:10:05,0914 [INFO] - Aguardando 2 minutos
+21-09-18 14:10:05,0914 [WARN] - Faltam 1069 minutos para as 8 horas de amanha
+21-09-18 14:12:05,0942 [INFO] - Consultando peso expedição
+21-09-18 14:12:06,0164 [INFO] - Consultando peso entrega
+21-09-18 14:12:06,0372 [INFO] - Consultando área mesa
+21-09-18 14:12:06,0406 [INFO] - Aguardando 2 minutos
+21-09-18 14:12:06,0406 [WARN] - Faltam 1067 minutos para as 8 horas de amanha
+21-09-18 14:14:06,0412 [INFO] - Consultando peso expedição
+21-09-18 14:14:06,0561 [INFO] - Consultando peso entrega
+21-09-18 14:14:06,0745 [INFO] - Consultando área mesa
+21-09-18 14:14:06,0783 [INFO] - Aguardando 2 minutos
+21-09-18 14:14:06,0783 [WARN] - Faltam 1065 minutos para as 8 horas de amanha
+21-09-18 14:16:06,0789 [INFO] - Consultando peso expedição
+21-09-18 14:16:06,0904 [INFO] - Consultando peso entrega
+21-09-18 14:16:06,0941 [INFO] - Consultando área mesa
+21-09-18 14:16:06,0975 [INFO] - Aguardando 2 minutos
+21-09-18 14:16:06,0975 [WARN] - Faltam 1063 minutos para as 8 horas de amanha
+21-09-18 14:18:06,0981 [INFO] - Consultando peso expedição
+21-09-18 14:18:07,0174 [INFO] - Consultando peso entrega
+21-09-18 14:18:07,0214 [INFO] - Consultando área mesa
+21-09-18 14:18:07,0264 [INFO] - Aguardando 2 minutos
+21-09-18 14:18:07,0264 [WARN] - Faltam 1061 minutos para as 8 horas de amanha
+21-09-18 14:20:07,0270 [INFO] - Consultando peso expedição
+21-09-18 14:20:07,0397 [INFO] - Consultando peso entrega
+21-09-18 14:20:07,0569 [INFO] - Consultando área mesa
+21-09-18 14:20:07,0622 [INFO] - Aguardando 2 minutos
+21-09-18 14:20:07,0622 [WARN] - Faltam 1059 minutos para as 8 horas de amanha
+21-09-18 14:22:07,0628 [INFO] - Consultando peso expedição
+21-09-18 14:22:07,0781 [INFO] - Consultando peso entrega
+21-09-18 14:22:08,0017 [INFO] - Consultando área mesa
+21-09-18 14:22:08,0062 [INFO] - Aguardando 2 minutos
+21-09-18 14:22:08,0063 [WARN] - Faltam 1057 minutos para as 8 horas de amanha
+21-09-18 14:24:08,0069 [INFO] - Consultando peso expedição
+21-09-18 14:24:08,0244 [INFO] - Consultando peso entrega
+21-09-18 14:24:08,0435 [INFO] - Consultando área mesa
+21-09-18 14:24:08,0496 [INFO] - Aguardando 2 minutos
+21-09-18 14:24:08,0496 [WARN] - Faltam 1055 minutos para as 8 horas de amanha
+21-09-18 14:26:08,0503 [INFO] - Consultando peso expedição
+21-09-18 14:26:08,0627 [INFO] - Consultando peso entrega
+21-09-18 14:26:08,0666 [INFO] - Consultando área mesa
+21-09-18 14:26:08,0701 [INFO] - Aguardando 2 minutos
+21-09-18 14:26:08,0702 [WARN] - Faltam 1053 minutos para as 8 horas de amanha
+21-09-18 14:28:08,0700 [INFO] - Consultando peso expedição
+21-09-18 14:28:08,0849 [INFO] - Consultando peso entrega
+21-09-18 14:28:08,0886 [INFO] - Consultando área mesa
+21-09-18 14:28:08,0920 [INFO] - Aguardando 2 minutos
+21-09-18 14:28:08,0936 [WARN] - Faltam 1051 minutos para as 8 horas de amanha
+21-09-18 14:30:08,0930 [INFO] - Consultando peso expedição
+21-09-18 14:30:09,0155 [INFO] - Consultando peso entrega
+21-09-18 14:30:09,0193 [INFO] - Consultando área mesa
+21-09-18 14:30:09,0228 [INFO] - Aguardando 2 minutos
+21-09-18 14:30:09,0228 [WARN] - Faltam 1049 minutos para as 8 horas de amanha
+21-09-18 14:32:09,0222 [INFO] - Consultando peso expedição
+21-09-18 14:32:09,0517 [INFO] - Consultando peso entrega
+21-09-18 14:32:10,0090 [INFO] - Consultando área mesa
+21-09-18 14:32:10,0126 [INFO] - Aguardando 2 minutos
+21-09-18 14:32:10,0126 [WARN] - Faltam 1047 minutos para as 8 horas de amanha
+21-09-18 14:34:10,0120 [INFO] - Consultando peso expedição
+21-09-18 14:34:10,0316 [INFO] - Consultando peso entrega
+21-09-18 14:34:11,0447 [INFO] - Consultando área mesa
+21-09-18 14:34:11,0526 [INFO] - Aguardando 2 minutos
+21-09-18 14:34:11,0526 [WARN] - Faltam 1045 minutos para as 8 horas de amanha
+21-09-18 14:36:11,0520 [INFO] - Consultando peso expedição
+21-09-18 14:36:11,0805 [INFO] - Consultando peso entrega
+21-09-18 14:36:11,0899 [INFO] - Consultando área mesa
+21-09-18 14:36:12,0061 [INFO] - Aguardando 2 minutos
+21-09-18 14:36:12,0061 [WARN] - Faltam 1043 minutos para as 8 horas de amanha
+21-09-18 14:38:12,0055 [INFO] - Consultando peso expedição
+21-09-18 14:38:12,0242 [INFO] - Consultando peso entrega
+21-09-18 14:38:12,0308 [INFO] - Consultando área mesa
+21-09-18 14:38:12,0367 [INFO] - Aguardando 2 minutos
+21-09-18 14:38:12,0367 [WARN] - Faltam 1041 minutos para as 8 horas de amanha
+21-09-18 14:40:12,0362 [INFO] - Consultando peso expedição
+21-09-18 14:40:12,0553 [INFO] - Consultando peso entrega
+21-09-18 14:40:12,0597 [INFO] - Consultando área mesa
+21-09-18 14:40:12,0646 [INFO] - Aguardando 2 minutos
+21-09-18 14:40:12,0647 [WARN] - Faltam 1039 minutos para as 8 horas de amanha
+21-09-18 14:42:12,0641 [INFO] - Consultando peso expedição
+21-09-18 14:42:12,0787 [INFO] - Consultando peso entrega
+21-09-18 14:42:12,0825 [INFO] - Consultando área mesa
+21-09-18 14:42:13,0485 [INFO] - Aguardando 2 minutos
+21-09-18 14:42:13,0485 [WARN] - Faltam 1037 minutos para as 8 horas de amanha
+21-09-18 14:44:13,0479 [INFO] - Consultando peso expedição
+21-09-18 14:44:13,0643 [INFO] - Consultando peso entrega
+21-09-18 14:44:13,0687 [INFO] - Consultando área mesa
+21-09-18 14:44:13,0767 [INFO] - Aguardando 2 minutos
+21-09-18 14:44:13,0767 [WARN] - Faltam 1035 minutos para as 8 horas de amanha
+21-09-18 14:46:13,0765 [INFO] - Consultando peso expedição
+21-09-18 14:46:13,0915 [INFO] - Consultando peso entrega
+21-09-18 14:46:13,0977 [INFO] - Consultando área mesa
+21-09-18 14:46:14,0014 [INFO] - Aguardando 2 minutos
+21-09-18 14:46:14,0014 [WARN] - Faltam 1033 minutos para as 8 horas de amanha
+21-09-18 14:48:14,0008 [INFO] - Consultando peso expedição
+21-09-18 14:48:14,0132 [INFO] - Consultando peso entrega
+21-09-18 14:48:14,0181 [INFO] - Consultando área mesa
+21-09-18 14:48:14,0238 [INFO] - Aguardando 2 minutos
+21-09-18 14:48:14,0239 [WARN] - Faltam 1031 minutos para as 8 horas de amanha
+21-09-18 14:50:14,0233 [INFO] - Consultando peso expedição
+21-09-18 14:50:14,0377 [INFO] - Consultando peso entrega
+21-09-18 14:50:14,0581 [INFO] - Consultando área mesa
+21-09-18 14:50:14,0617 [INFO] - Aguardando 2 minutos
+21-09-18 14:50:14,0617 [WARN] - Faltam 1029 minutos para as 8 horas de amanha
+21-09-18 14:52:14,0611 [INFO] - Consultando peso expedição
+21-09-18 14:52:14,0807 [INFO] - Consultando peso entrega
+21-09-18 14:52:15,0052 [INFO] - Consultando área mesa
+21-09-18 14:52:15,0088 [INFO] - Aguardando 2 minutos
+21-09-18 14:52:15,0088 [WARN] - Faltam 1027 minutos para as 8 horas de amanha
+21-09-18 14:54:15,0082 [INFO] - Consultando peso expedição
+21-09-18 14:54:15,0253 [INFO] - Atualizando o Peso para o Funcionario FIDELCI SOUZA LIMA, Setor EXPEDICAO VPE, Peso 423,59
+21-09-18 14:54:15,0254 [INFO] - Consultando peso entrega
+21-09-18 14:54:15,0590 [INFO] - Consultando área mesa
+21-09-18 14:54:15,0666 [INFO] - Aguardando 2 minutos
+21-09-18 14:54:15,0666 [WARN] - Faltam 1025 minutos para as 8 horas de amanha
+21-09-18 14:56:15,0660 [INFO] - Consultando peso expedição
+21-09-18 14:56:15,0792 [INFO] - Consultando peso entrega
+21-09-18 14:56:15,0976 [INFO] - Consultando área mesa
+21-09-18 14:56:16,0012 [INFO] - Aguardando 2 minutos
+21-09-18 14:56:16,0013 [WARN] - Faltam 1023 minutos para as 8 horas de amanha
+21-09-18 14:58:16,0007 [INFO] - Consultando peso expedição
+21-09-18 14:58:16,0208 [INFO] - Consultando peso entrega
+21-09-18 14:58:16,0248 [INFO] - Consultando área mesa
+21-09-18 14:58:16,0283 [INFO] - Aguardando 2 minutos
+21-09-18 14:58:16,0284 [WARN] - Faltam 1021 minutos para as 8 horas de amanha
+21-09-18 15:00:16,0278 [INFO] - Consultando peso expedição
+21-09-18 15:00:16,0416 [INFO] - Atualizando o Peso para o Funcionario FIDELCI SOUZA LIMA, Setor EXPEDICAO VPE, Peso 472,39
+21-09-18 15:00:16,0417 [INFO] - Consultando peso entrega
+21-09-18 15:00:16,0591 [INFO] - Consultando área mesa
+21-09-18 15:00:16,0627 [INFO] - Aguardando 2 minutos
+21-09-18 15:00:16,0627 [WARN] - Faltam 1019 minutos para as 8 horas de amanha
+21-09-18 15:02:16,0621 [INFO] - Consultando peso expedição
+21-09-18 15:02:16,0756 [INFO] - Consultando peso entrega
+21-09-18 15:02:16,0796 [INFO] - Consultando área mesa
+21-09-18 15:02:16,0833 [INFO] - Aguardando 2 minutos
+21-09-18 15:02:16,0833 [WARN] - Faltam 1017 minutos para as 8 horas de amanha
+21-09-18 15:04:16,0827 [INFO] - Consultando peso expedição
+21-09-18 15:04:16,0959 [INFO] - Consultando peso entrega
+21-09-18 15:04:17,0310 [INFO] - Consultando área mesa
+21-09-18 15:04:17,0347 [INFO] - Aguardando 2 minutos
+21-09-18 15:04:17,0347 [WARN] - Faltam 1015 minutos para as 8 horas de amanha
+21-09-18 15:06:17,0341 [INFO] - Consultando peso expedição
+21-09-18 15:06:17,0471 [INFO] - Consultando peso entrega
+21-09-18 15:06:17,0639 [INFO] - Consultando área mesa
+21-09-18 15:06:17,0675 [INFO] - Aguardando 2 minutos
+21-09-18 15:06:17,0675 [WARN] - Faltam 1013 minutos para as 8 horas de amanha
+21-09-18 15:08:17,0669 [INFO] - Consultando peso expedição
+21-09-18 15:08:17,0909 [INFO] - Atualizando o Peso para o Funcionario LEANDRO RODRIGUES DA SILVA TAVARES, Setor EXPEDICAO, Peso 1680,36
+21-09-18 15:08:17,0912 [INFO] - Atualizando o Peso para o Funcionario WILLIAN HENRIQUE CONCEICAO SOUZA, Setor EXPEDICAO, Peso 1846,93
+21-09-18 15:08:17,0912 [INFO] - Consultando peso entrega
+21-09-18 15:08:17,0953 [INFO] - Consultando área mesa
+21-09-18 15:08:18,0028 [INFO] - Atualizando a AreaCortada do Funcionario WESLEY GENILSON DOS SANTOS, Setor MESA PEQUENA, Area 202,87
+21-09-18 15:08:18,0029 [INFO] - Aguardando 2 minutos
+21-09-18 15:08:18,0029 [WARN] - Faltam 1011 minutos para as 8 horas de amanha
+21-09-18 15:10:18,0023 [INFO] - Consultando peso expedição
+21-09-18 15:10:18,0274 [INFO] - Consultando peso entrega
+21-09-18 15:10:18,0468 [INFO] - Consultando área mesa
+21-09-18 15:10:18,0509 [INFO] - Aguardando 2 minutos
+21-09-18 15:10:18,0509 [WARN] - Faltam 1009 minutos para as 8 horas de amanha
+21-09-18 15:12:18,0503 [INFO] - Consultando peso expedição
+21-09-18 15:12:18,0651 [INFO] - Consultando peso entrega
+21-09-18 15:12:18,0691 [INFO] - Consultando área mesa
+21-09-18 15:12:18,0727 [INFO] - Aguardando 2 minutos
+21-09-18 15:12:18,0727 [WARN] - Faltam 1007 minutos para as 8 horas de amanha
+21-09-18 15:14:18,0722 [INFO] - Consultando peso expedição
+21-09-18 15:14:18,0852 [INFO] - Consultando peso entrega
+21-09-18 15:14:19,0184 [INFO] - Consultando área mesa
+21-09-18 15:14:19,0220 [INFO] - Aguardando 2 minutos
+21-09-18 15:14:19,0221 [WARN] - Faltam 1005 minutos para as 8 horas de amanha
+21-09-18 15:16:19,0215 [INFO] - Consultando peso expedição
+21-09-18 15:16:19,0367 [INFO] - Consultando peso entrega
+21-09-18 15:16:19,0569 [INFO] - Consultando área mesa
+21-09-18 15:16:19,0604 [INFO] - Aguardando 2 minutos
+21-09-18 15:16:19,0604 [WARN] - Faltam 1003 minutos para as 8 horas de amanha
+21-09-18 15:18:19,0598 [INFO] - Consultando peso expedição
+21-09-18 15:18:19,0771 [INFO] - Consultando peso entrega
+21-09-18 15:18:19,0896 [INFO] - Consultando área mesa
+21-09-18 15:18:19,0933 [INFO] - Aguardando 2 minutos
+21-09-18 15:18:19,0933 [WARN] - Faltam 1001 minutos para as 8 horas de amanha
+21-09-18 15:20:19,0927 [INFO] - Consultando peso expedição
+21-09-18 15:20:20,0063 [INFO] - Consultando peso entrega
+21-09-18 15:20:20,0245 [INFO] - Consultando área mesa
+21-09-18 15:20:20,0281 [INFO] - Aguardando 2 minutos
+21-09-18 15:20:20,0281 [WARN] - Faltam 999 minutos para as 8 horas de amanha
+21-09-18 15:22:20,0275 [INFO] - Consultando peso expedição
+21-09-18 15:22:20,0607 [INFO] - Atualizando o Peso para o Funcionario LEANDRO RODRIGUES DA SILVA TAVARES, Setor EXPEDICAO, Peso 1692,39
+21-09-18 15:22:20,0609 [INFO] - Atualizando o Peso para o Funcionario WILLIAN HENRIQUE CONCEICAO SOUZA, Setor EXPEDICAO, Peso 1871,68
+21-09-18 15:22:20,0609 [INFO] - Consultando peso entrega
+21-09-18 15:22:20,0677 [INFO] - Consultando área mesa
+21-09-18 15:22:20,0712 [INFO] - Aguardando 2 minutos
+21-09-18 15:22:20,0712 [WARN] - Faltam 997 minutos para as 8 horas de amanha
+21-09-18 15:24:20,0706 [INFO] - Consultando peso expedição
+21-09-18 15:24:20,0863 [INFO] - Consultando peso entrega
+21-09-18 15:24:21,0010 [INFO] - Consultando área mesa
+21-09-18 15:24:21,0088 [INFO] - Aguardando 2 minutos
+21-09-18 15:24:21,0088 [WARN] - Faltam 995 minutos para as 8 horas de amanha
+21-09-18 15:26:21,0082 [INFO] - Consultando peso expedição
+21-09-18 15:26:21,0201 [INFO] - Consultando peso entrega
+21-09-18 15:26:21,0243 [INFO] - Consultando área mesa
+21-09-18 15:26:21,0279 [INFO] - Aguardando 2 minutos
+21-09-18 15:26:21,0279 [WARN] - Faltam 993 minutos para as 8 horas de amanha
+21-09-18 15:28:21,0274 [INFO] - Consultando peso expedição
+21-09-18 15:28:21,0412 [INFO] - Atualizando o Peso para o Funcionario WILLIAN HENRIQUE CONCEICAO SOUZA, Setor EXPEDICAO, Peso 1942,30
+21-09-18 15:28:21,0412 [INFO] - Consultando peso entrega
+21-09-18 15:28:21,0484 [INFO] - Consultando área mesa
+21-09-18 15:28:21,0547 [INFO] - Aguardando 2 minutos
+21-09-18 15:28:21,0548 [WARN] - Faltam 991 minutos para as 8 horas de amanha
+21-09-18 15:30:21,0542 [INFO] - Consultando peso expedição
+21-09-18 15:30:21,0700 [INFO] - Consultando peso entrega
+21-09-18 15:30:21,0757 [INFO] - Consultando área mesa
+21-09-18 15:30:21,0883 [INFO] - Aguardando 2 minutos
+21-09-18 15:30:21,0883 [WARN] - Faltam 989 minutos para as 8 horas de amanha
+21-09-18 15:32:21,0877 [INFO] - Consultando peso expedição
+21-09-18 15:32:22,0080 [INFO] - Consultando peso entrega
+21-09-18 15:32:22,0121 [INFO] - Consultando área mesa
+21-09-18 15:32:22,0160 [INFO] - Aguardando 2 minutos
+21-09-18 15:32:22,0160 [WARN] - Faltam 987 minutos para as 8 horas de amanha
+21-09-18 15:34:22,0154 [INFO] - Consultando peso expedição
+21-09-18 15:34:22,0316 [INFO] - Consultando peso entrega
+21-09-18 15:34:22,0355 [INFO] - Consultando área mesa
+21-09-18 15:34:22,0390 [INFO] - Aguardando 2 minutos
+21-09-18 15:34:22,0390 [WARN] - Faltam 985 minutos para as 8 horas de amanha
+21-09-18 15:36:22,0384 [INFO] - Consultando peso expedição
+21-09-18 15:36:22,0513 [INFO] - Atualizando o Peso para o Funcionario LEANDRO RODRIGUES DA SILVA TAVARES, Setor EXPEDICAO, Peso 1702,14
+21-09-18 15:36:22,0514 [INFO] - Consultando peso entrega
+21-09-18 15:36:22,0556 [INFO] - Consultando área mesa
+21-09-18 15:36:22,0594 [INFO] - Aguardando 2 minutos
+21-09-18 15:36:22,0594 [WARN] - Faltam 983 minutos para as 8 horas de amanha
+21-09-18 15:38:22,0588 [INFO] - Consultando peso expedição
+21-09-18 15:38:22,0926 [INFO] - Consultando peso entrega
+21-09-18 15:38:22,0964 [INFO] - Consultando área mesa
+21-09-18 15:38:22,0999 [INFO] - Aguardando 2 minutos
+21-09-18 15:38:22,0999 [WARN] - Faltam 981 minutos para as 8 horas de amanha
+21-09-18 15:40:22,0993 [INFO] - Consultando peso expedição
+21-09-18 15:40:23,0178 [INFO] - Consultando peso entrega
+21-09-18 15:40:23,0856 [INFO] - Consultando área mesa
+21-09-18 15:40:24,0151 [INFO] - Aguardando 2 minutos
+21-09-18 15:40:24,0151 [WARN] - Faltam 979 minutos para as 8 horas de amanha
+21-09-18 15:42:24,0145 [INFO] - Consultando peso expedição
+21-09-18 15:42:24,0265 [INFO] - Consultando peso entrega
+21-09-18 15:42:24,0303 [INFO] - Consultando área mesa
+21-09-18 15:42:24,0339 [INFO] - Aguardando 2 minutos
+21-09-18 15:42:24,0339 [WARN] - Faltam 977 minutos para as 8 horas de amanha
+21-09-18 15:44:24,0333 [INFO] - Consultando peso expedição
+21-09-18 15:44:24,0916 [INFO] - Consultando peso entrega
+21-09-18 15:44:25,0034 [INFO] - Consultando área mesa
+21-09-18 15:44:25,0110 [INFO] - Atualizando a AreaCortada do Funcionario WESLEY GENILSON DOS SANTOS, Setor MESA PEQUENA, Area 214,43
+21-09-18 15:44:25,0110 [INFO] - Aguardando 2 minutos
+21-09-18 15:44:25,0110 [WARN] - Faltam 975 minutos para as 8 horas de amanha
+21-09-18 15:46:25,0104 [INFO] - Consultando peso expedição
+21-09-18 15:46:25,0274 [INFO] - Consultando peso entrega
+21-09-18 15:46:25,0331 [INFO] - Consultando área mesa
+21-09-18 15:46:25,0367 [INFO] - Aguardando 2 minutos
+21-09-18 15:46:25,0367 [WARN] - Faltam 973 minutos para as 8 horas de amanha
+21-09-18 15:48:25,0361 [INFO] - Consultando peso expedição
+21-09-18 15:48:25,0489 [INFO] - Consultando peso entrega
+21-09-18 15:48:25,0541 [INFO] - Consultando área mesa
+21-09-18 15:48:25,0575 [INFO] - Aguardando 2 minutos
+21-09-18 15:48:25,0575 [WARN] - Faltam 971 minutos para as 8 horas de amanha
+21-09-18 15:50:25,0569 [INFO] - Consultando peso expedição
+21-09-18 15:50:25,0698 [INFO] - Consultando peso entrega
+21-09-18 15:50:25,0923 [INFO] - Consultando área mesa
+21-09-18 15:50:25,0979 [INFO] - Atualizando a AreaCortada do Funcionario WESLEY GENILSON DOS SANTOS, Setor MESA PEQUENA, Area 222,13
+21-09-18 15:50:25,0979 [INFO] - Aguardando 2 minutos
+21-09-18 15:50:25,0979 [WARN] - Faltam 969 minutos para as 8 horas de amanha
+21-09-18 15:52:25,0973 [INFO] - Consultando peso expedição
+21-09-18 15:52:26,0130 [INFO] - Consultando peso entrega
+21-09-18 15:52:26,0171 [INFO] - Consultando área mesa
+21-09-18 15:52:26,0208 [INFO] - Aguardando 2 minutos
+21-09-18 15:52:26,0208 [WARN] - Faltam 967 minutos para as 8 horas de amanha
+21-09-18 15:54:26,0202 [INFO] - Consultando peso expedição
+21-09-18 15:54:26,0432 [INFO] - Consultando peso entrega
+21-09-18 15:54:26,0475 [INFO] - Consultando área mesa
+21-09-18 15:54:26,0600 [INFO] - Aguardando 2 minutos
+21-09-18 15:54:26,0600 [WARN] - Faltam 965 minutos para as 8 horas de amanha
+21-09-18 15:56:26,0594 [INFO] - Consultando peso expedição
+21-09-18 15:56:26,0912 [INFO] - Consultando peso entrega
+21-09-18 15:56:26,0951 [INFO] - Consultando área mesa
+21-09-18 15:56:27,0042 [INFO] - Aguardando 2 minutos
+21-09-18 15:56:27,0043 [WARN] - Faltam 963 minutos para as 8 horas de amanha
+21-09-18 15:58:27,0037 [INFO] - Consultando peso expedição
+21-09-18 15:58:27,0251 [INFO] - Consultando peso entrega
+21-09-18 15:58:27,0440 [INFO] - Consultando área mesa
+21-09-18 15:58:27,0522 [INFO] - Aguardando 2 minutos
+21-09-18 15:58:27,0522 [WARN] - Faltam 961 minutos para as 8 horas de amanha
+21-09-18 16:00:27,0516 [INFO] - Consultando peso expedição
+21-09-18 16:00:27,0662 [INFO] - Atualizando o Peso para o Funcionario FIDELCI SOUZA LIMA, Setor EXPEDICAO VPE, Peso 591,28
+21-09-18 16:00:27,0664 [INFO] - Consultando peso entrega
+21-09-18 16:00:27,0876 [INFO] - Consultando área mesa
+21-09-18 16:00:28,0023 [INFO] - Aguardando 2 minutos
+21-09-18 16:00:28,0023 [WARN] - Faltam 959 minutos para as 8 horas de amanha
+21-09-18 16:02:28,0017 [INFO] - Consultando peso expedição
+21-09-18 16:02:28,0171 [INFO] - Consultando peso entrega
+21-09-18 16:02:28,0210 [INFO] - Consultando área mesa
+21-09-18 16:02:28,0244 [INFO] - Aguardando 2 minutos
+21-09-18 16:02:28,0253 [WARN] - Faltam 957 minutos para as 8 horas de amanha
+21-09-18 16:04:28,0247 [INFO] - Consultando peso expedição
+21-09-18 16:04:28,0445 [INFO] - Consultando peso entrega
+21-09-18 16:04:28,0531 [INFO] - Consultando área mesa
+21-09-18 16:04:28,0565 [INFO] - Aguardando 2 minutos
+21-09-18 16:04:28,0565 [WARN] - Faltam 955 minutos para as 8 horas de amanha
+21-09-18 16:06:28,0559 [INFO] - Consultando peso expedição
+21-09-18 16:06:28,0693 [INFO] - Consultando peso entrega
+21-09-18 16:06:28,0733 [INFO] - Consultando área mesa
+21-09-18 16:06:28,0769 [INFO] - Aguardando 2 minutos
+21-09-18 16:06:28,0769 [WARN] - Faltam 953 minutos para as 8 horas de amanha
+21-09-18 16:08:28,0764 [INFO] - Consultando peso expedição
+21-09-18 16:08:28,0884 [INFO] - Consultando peso entrega
+21-09-18 16:08:28,0975 [INFO] - Consultando área mesa
+21-09-18 16:08:29,0012 [INFO] - Aguardando 2 minutos
+21-09-18 16:08:29,0012 [WARN] - Faltam 951 minutos para as 8 horas de amanha
+21-09-18 16:10:29,0006 [INFO] - Consultando peso expedição
+21-09-18 16:10:29,0445 [INFO] - Consultando peso entrega
+21-09-18 16:10:29,0628 [INFO] - Consultando área mesa
+21-09-18 16:10:29,0663 [INFO] - Aguardando 2 minutos
+21-09-18 16:10:29,0663 [WARN] - Faltam 949 minutos para as 8 horas de amanha

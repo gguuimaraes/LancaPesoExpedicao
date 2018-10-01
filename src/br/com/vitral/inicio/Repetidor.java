@@ -29,38 +29,41 @@ public class Repetidor implements Runnable {
 	static Logger logger;
 
 	public Repetidor(Logger logger) {
-		this.logger = logger;
+		Repetidor.logger = logger;
 	}
 
 	@Override
 	public void run() {
 		Calendar c;
-		int pausa = 120000; // 2 minutos
+		long pausa = 120000; // 2 minutos
 		int hora;
 		while (pausa > 0) {
 			salvarPesoExpedicao();
-			pausar(1000);
 			salvarPesoEntrega();
-			pausar(1000);
 			salvarAreaMesa();
 			c = Calendar.getInstance();
 			hora = c.get(Calendar.HOUR_OF_DAY);
 			if (hora >= 8 && hora <= 18) {
 				pausa = 120000;
 			} else {
-				pausa = 3600000;
+				Calendar c2 = Calendar.getInstance();
+				c2.set(Calendar.HOUR_OF_DAY, 8);
+				c2.add(Calendar.DAY_OF_YEAR, 1);
+				c2.set(Calendar.MINUTE, 0);
+				c2.set(Calendar.SECOND, 1);
+				pausa = c2.getTimeInMillis() - c.getTimeInMillis();
 			}
-			logger.info(String.format("Aguardando %d minutos%n", pausa / 60000));
+			logger.info(String.format("Aguardando %d minutos", pausa / 60000));	
 			pausar(pausa);
 		}
 
 	}
 
-	static void pausar(int milisegundos) {
+	static void pausar(long milisegundos) {
 		try {
 			Thread.sleep(milisegundos);
 		} catch (Exception e) {
-			logger.error(String.format("%s%n", e.getMessage()));
+			logger.error(String.format("%s", e.getMessage()));
 		}
 	}
 
@@ -81,12 +84,14 @@ public class Repetidor implements Runnable {
 						areaCortada.setFuncionario(fDao.consultarPeloNome("MAURICIO FERREIRA DE SOUZA"));
 						areaCortada.setSetor(sDao.consultarPeloNome("MESA GRANDE"));
 					}
-					aDao.salvar(areaCortada);
+					String retorno = aDao.salvar(areaCortada);
+					if (retorno != null)
+						logger.info(retorno);
 				}
 
 			}
 		} catch (Exception e) {
-			logger.error(String.format("%s%n", e.getMessage()));
+			logger.error(String.format("%s", e.toString()));
 		}
 	}
 
@@ -104,17 +109,19 @@ public class Repetidor implements Runnable {
 					peso.setData(agora);
 					Funcionario fu = fDao.consultarPeloNome(jPeso.getNome());
 					if (fu == null)
-						logger.error(String.format("Erro ao salvar Peso Entrega, Funcionário %s não encontrado.%n",
+						logger.error(String.format("Erro ao salvar Peso Entrega, Funcionário %s não encontrado.",
 								jPeso.getNome()));
 					else {
 						peso.setFuncionario(fu);
 						peso.setSetor(setorEntrega);
-						pDao.salvar(peso);
+						String retorno = pDao.salvar(peso);
+						if (retorno != null)
+							logger.info(retorno);
 					}
 				}
 			}
 		} catch (Exception e) {
-			logger.error(String.format("%s%n", e.getMessage()));
+			logger.error(String.format("%s", e.toString()));
 		}
 	}
 
@@ -135,7 +142,8 @@ public class Repetidor implements Runnable {
 					String nomeFu = Negocio.getInstance().tratarNomeFuncionario(jPeso.getExpedidor());
 					Funcionario fu = fDao.consultarPeloNome(nomeFu);
 					if (fu == null) {
-						logger.error(String.format("Erro ao salvar Peso Expedição, Funcionário %s não encontrado.%n", nomeFu));
+						logger.error(
+								String.format("Erro ao salvar Peso Expedição, Funcionário %s não encontrado.", nomeFu));
 					} else {
 						peso.setFuncionario(fu);
 						switch (fu.getNome()) {
@@ -153,14 +161,15 @@ public class Repetidor implements Runnable {
 								break;
 							}
 						}
-
-						pDao.salvar(peso);
+						String retorno = pDao.salvar(peso);
+						if (retorno != null)
+							logger.info(retorno);
 					}
 
 				}
 			}
 		} catch (Exception e) {
-			logger.error(String.format("%s%n", e.getMessage()));
+			logger.error(String.format("%s", e.toString()));
 		}
 	}
 

@@ -26,8 +26,8 @@ public class FuncionarioDao implements Dao<Funcionario> {
 	}
 
 	@Override
-	public void salvar(Funcionario objeto) {
-
+	public String salvar(Funcionario objeto) {
+		return null;
 	}
 
 	public Funcionario consultarPeloNome(String nome) throws SQLException {

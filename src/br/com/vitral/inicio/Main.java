@@ -13,7 +13,7 @@ public class Main {
 	public static void main(String[] args) throws Exception {
 		// creates pattern layout
         PatternLayout layout = new PatternLayout();
-        String conversionPattern = "%d{dd-MM-yy HH:mm:ss} [%p] - %m%n";
+        String conversionPattern = "%d{dd-MM-yy HH:mm:ss,SSSS} [%p] - %m%n";
         layout.setConversionPattern(conversionPattern);
  
         // creates console appender

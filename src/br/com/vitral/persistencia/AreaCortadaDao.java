@@ -17,27 +17,31 @@ public class AreaCortadaDao implements Dao<AreaCortada> {
 	}
 
 	@Override
-	public void salvar(AreaCortada objeto) throws SQLException {
+	public String salvar(AreaCortada objeto) throws SQLException {
+		StringBuilder retorno = new StringBuilder();
 		PreparedStatement ps = null;
 		try {
 			Conexao.getInstance().setAutoCommit(false);
 			Float area = temAreaCortadaFuncionarioSetorDia(objeto);
 			if (area != null) {
-				if (area == objeto.getArea())
-					return;
-				ps = Conexao.getInstance().prepareStatement(
-						"UPDATE areacortada SET area = ? WHERE funcionario_id = ? AND setor_id = ? AND data = ?;");
-				ps.setFloat(1, objeto.getArea());
-				ps.setDate(4, new java.sql.Date(objeto.getData().getTime()));
-				System.out.print("Atualizando a ");
+				if (area != objeto.getArea()) {
+					ps = Conexao.getInstance().prepareStatement(
+							"UPDATE areacortada SET area = ? WHERE funcionario_id = ? AND setor_id = ? AND data = ?;");
+					ps.setFloat(1, objeto.getArea());
+					ps.setDate(4, new java.sql.Date(objeto.getData().getTime()));
+					retorno.append("Atualizando a AreaCortada do ");
+				} else {
+					return null;
+				}
 			} else {
 				ps = Conexao.getInstance().prepareStatement(
 						"INSERT INTO areacortada (data, funcionario_id, setor_id, area) VALUES (?, ?, ?, ?);");
 				ps.setDate(1, new java.sql.Date(objeto.getData().getTime()));
 				ps.setFloat(4, objeto.getArea());
-				System.out.print("Inserindo uma ");
+				retorno.append("Inserindo uma AreaCortada para o ");
 			}
-			System.out.printf("AreaCortada para o Funcionario %s, Setor %s, Area %.2f\n", objeto.getFuncionario().getNome(), objeto.getSetor().getNome(), objeto.getArea());
+			retorno.append(String.format("Funcionario %s, Setor %s, Area %.2f",
+					objeto.getFuncionario().getNome(), objeto.getSetor().getNome(), objeto.getArea()));
 			ps.setInt(2, objeto.getFuncionario().getId());
 			ps.setInt(3, objeto.getSetor().getId());
 			ps.execute();
@@ -50,6 +54,7 @@ public class AreaCortadaDao implements Dao<AreaCortada> {
 				ps.close();
 			Conexao.getInstance().setAutoCommit(true);
 		}
+		return retorno.toString();
 	}
 
 	/*
