@@ -1,8 +1,10 @@
 package br.com.vitral.inicio;
 
 import java.sql.SQLException;
+import java.util.List;
 
 import br.com.vitral.entidade.Setor;
+import br.com.vitral.json.JsonPesoEntrega;
 import br.com.vitral.persistencia.SetorDao;
 
 public class Negocio {
@@ -59,5 +61,10 @@ public class Negocio {
 			nome = nome.substring(0, nome.length() - 1);
 		}
 		return nome;
+	}
+	
+	public List<JsonPesoEntrega> tratarListaPesoEntrega(List<JsonPesoEntrega> lista) {
+		lista.removeIf(pesoEntrega -> pesoEntrega.getPeso() == 0);
+		return lista;
 	}
 }

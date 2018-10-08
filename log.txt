@@ -2285,3 +2285,50 @@ INFO    2018-09-13 15:01:24,297 - Aguardando 2 minutos...
 21-09-18 16:10:29,0628 [INFO] - Consultando área mesa
 21-09-18 16:10:29,0663 [INFO] - Aguardando 2 minutos
 21-09-18 16:10:29,0663 [WARN] - Faltam 949 minutos para as 8 horas de amanha
+08-10-18 16:31:52,0640 [INFO] - Iniciando Repetidor
+08-10-18 16:31:52,0668 [INFO] - Consultando peso expedição
+08-10-18 16:31:54,0649 [INFO] - Consultando peso entrega
+08-10-18 16:31:54,0754 [INFO] - Consultando área mesa
+08-10-18 16:31:54,0860 [INFO] - Aguardando 2 minutos
+08-10-18 16:48:32,0795 [INFO] - Iniciando Repetidor
+08-10-18 16:48:32,0801 [INFO] - Consultando peso expedição
+08-10-18 16:48:33,0293 [INFO] - Atualizando o Peso para o Funcionario CARLOS HENRIQUE SANTOS, Setor EXPEDICAO, Peso 763,65
+08-10-18 16:48:33,0297 [INFO] - Consultando peso entrega
+08-10-18 16:48:33,0624 [INFO] - Consultando área mesa
+08-10-18 16:48:33,0678 [INFO] - Aguardando 2 minutos
+08-10-18 16:52:44,0963 [INFO] - Iniciando Repetidor
+08-10-18 16:52:44,0970 [INFO] - Consultando peso expedição
+08-10-18 16:52:45,0422 [INFO] - Atualizando o Peso para o Funcionario LEANDRO RODRIGUES DA SILVA TAVARES, Setor EXPEDICAO, Peso 1009,28
+08-10-18 16:52:45,0424 [INFO] - Consultando peso entrega
+08-10-18 16:52:45,0477 [INFO] - Consultando área mesa
+08-10-18 16:52:45,0546 [INFO] - Aguardando 2 minutos
+08-10-18 16:54:45,0540 [INFO] - Consultando peso expedição
+08-10-18 16:54:45,0717 [INFO] - Consultando peso entrega
+08-10-18 16:54:46,0057 [INFO] - Consultando área mesa
+08-10-18 16:54:46,0109 [INFO] - Aguardando 2 minutos
+08-10-18 16:56:46,0103 [INFO] - Consultando peso expedição
+08-10-18 16:56:46,0239 [INFO] - Consultando peso entrega
+08-10-18 16:56:46,0295 [INFO] - Consultando área mesa
+08-10-18 16:56:46,0337 [INFO] - Aguardando 2 minutos
+08-10-18 16:58:46,0332 [INFO] - Consultando peso expedição
+08-10-18 16:58:46,0493 [INFO] - Consultando peso entrega
+08-10-18 16:58:46,0698 [INFO] - Consultando área mesa
+08-10-18 16:58:46,0739 [INFO] - Aguardando 2 minutos
+08-10-18 17:00:42,0876 [INFO] - Iniciando Repetidor
+08-10-18 17:00:42,0882 [INFO] - Consultando peso expedição
+08-10-18 17:00:43,0347 [INFO] - Consultando peso entrega
+08-10-18 17:00:43,0400 [INFO] - Consultando área mesa
+08-10-18 17:00:43,0465 [INFO] - Aguardando 2 minutos
+08-10-18 17:00:46,0733 [INFO] - Consultando peso expedição
+08-10-18 17:00:46,0909 [INFO] - Consultando peso entrega
+08-10-18 17:00:46,0965 [INFO] - Consultando área mesa
+08-10-18 17:00:47,0014 [INFO] - Aguardando 2 minutos
+08-10-18 17:02:23,0062 [INFO] - Iniciando Repetidor
+08-10-18 17:02:47,0008 [INFO] - Consultando peso expedição
+08-10-18 17:02:47,0146 [INFO] - Consultando peso entrega
+08-10-18 17:02:47,0185 [INFO] - Consultando área mesa
+08-10-18 17:02:47,0233 [INFO] - Aguardando 2 minutos
+08-10-18 17:04:47,0227 [INFO] - Consultando peso expedição
+08-10-18 17:04:47,0379 [INFO] - Consultando peso entrega
+08-10-18 17:04:47,0431 [INFO] - Consultando área mesa
+08-10-18 17:04:47,0483 [INFO] - Aguardando 2 minutos

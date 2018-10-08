@@ -1,4 +1,4 @@
-package br.com.vitral.json.modelo;
+package br.com.vitral.json;
 
 public class JsonPesoEntrega {
 
@@ -25,6 +25,11 @@ public class JsonPesoEntrega {
 
 	public void setPeso(Float peso) {
 		this.peso = peso;
+	}
+
+	@Override
+	public String toString() {
+		return "JsonPesoEntrega [nome=" + nome + ", peso=" + peso + "]";
 	}
 
 }

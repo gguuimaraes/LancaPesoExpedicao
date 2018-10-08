@@ -1,4 +1,4 @@
-package br.com.vitral.json.modelo;
+package br.com.vitral.json;
 
 import java.util.Date;
 
@@ -6,12 +6,14 @@ public class JsonAreaMesa {
 	private Integer codmesa;
 	private Float area;
 	private Date data;
-	
-	public JsonAreaMesa(Integer codmesa, Float area, Date data) {
+	private Integer qtd;
+
+	public JsonAreaMesa(Integer codmesa, Float area, Date data, Integer qtd) {
 		super();
 		this.codmesa = codmesa;
 		this.area = area;
 		this.data = data;
+		this.qtd = qtd;
 	}
 
 	public Integer getCodmesa() {
@@ -36,6 +38,19 @@ public class JsonAreaMesa {
 
 	public void setData(Date data) {
 		this.data = data;
+	}
+
+	public Integer getQtd() {
+		return qtd;
+	}
+
+	public void setQtd(Integer qtd) {
+		this.qtd = qtd;
+	}
+
+	@Override
+	public String toString() {
+		return "JsonAreaMesa [codmesa=" + codmesa + ", area=" + area + ", data=" + data + ", qtd=" + qtd + "]";
 	}
 
 }

@@ -1,4 +1,4 @@
-package br.com.vitral.json.modelo;
+package br.com.vitral.json;
 
 public class JsonPesoExpedicao {
 
@@ -45,6 +45,12 @@ public class JsonPesoExpedicao {
 
 	public void setExpedicao(String expedicao) {
 		this.expedicao = expedicao;
+	}
+
+	@Override
+	public String toString() {
+		return "JsonPesoExpedicao [expedidor=" + expedidor + ", qtdpecas=" + qtdpecas + ", peso=" + peso
+				+ ", expedicao=" + expedicao + "]";
 	}
 
 }
